@@ -1,0 +1,19 @@
+:root > * {
+    /* Vero Research Colors */
+    /* https://www.wtamu.edu/news/identity-system/graphic-standards.html */    
+    --md-primary-fg-color:        #450012;
+    --md-primary-fg-color--light: #c7b3b8;
+    --md-primary-fg-color--dark:  #2e000a;
+    --md-typeset-a-color:         #8C002C;
+    --md-accent-fg-color:         #b30038;
+    --md-footer-bg-color:         #332C2C;
+}
+
+[data-md-color-scheme="slate"] {  
+    --md-primary-fg-color:        #8C002C;
+    --md-primary-fg-color--light: #ddb3c0;
+    --md-primary-fg-color--dark:  #6f001b;
+    --md-typeset-a-color:         #d6002e;
+    --md-accent-fg-color:         #b30038;    
+    --md-footer-bg-color:         #332C2C;    
+}

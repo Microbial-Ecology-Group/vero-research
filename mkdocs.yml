@@ -1,0 +1,93 @@
+# Project information
+site_name: Vero Research
+site_url: https://veroresearch.org/
+site_author: Vero Research
+site_description: Vero Research
+
+# Copyright
+copyright: '&copy; Vero Research.'
+
+# Footer mod: https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#generator-notice 
+extra:
+  generator: false
+
+# Configuration
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:  # from .icons path. Add to theme override for custom logo.
+    logo: veroresearch-logo  # top left header logo
+  favicon: assets/veroresearch-logo.png #browser tab logo
+
+#Plugins
+plugins:
+   - search
+   - glightbox:
+       touchNavigation: true
+       loop: true
+       effect: zoom
+       width: 100%
+       height: auto
+       zoomable: true
+       draggable: true
+       skip_classes: 
+         - custom-skip-class-name
+       auto_caption: false
+       caption_position: bottom
+
+# Custom theme additions
+extra_css:
+  - stylesheets/extra.css
+
+# Custom javascript
+extra_javascript:
+  - javascripts/extra.js
+
+# Extensions
+markdown_extensions:
+  - tables
+  - footnotes
+  - admonition
+  - attr_list
+  - md_in_html
+  - abbr
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+# Page Tree
+nav:
+  - Home: index.md
+  - Contact: contact.md
+  - People: people.md
+  - Research: research.md
+  - Outreach: outreach.md
+  - Pubs: pubs.md
+  - Resources: resources.md

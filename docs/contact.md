@@ -1,0 +1,3 @@
+# About VERO
+
+VERO is the culmination of an idea that began in 2009 as a response to the urgent need to expand the VMBS and address the continual need for well-trained veterinarians skilled in the care of both large and small animals. In the report “Projecting the Need for Veterinary Medical Education in Texas,” the Texas Higher Education Coordinating Board (THECB) stated that while “no new veterinary school is recommended at this time,” the needs of Texas could be met most cost-effectively through an expansion of the VMBS.
