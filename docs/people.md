@@ -1,3 +1,12 @@
 # People
 
-Should allow for also linking to other professors' pages.
+## Faculty
+[Dr. Paul Morley](morley.md)
+
+## Post-Doctorate research associates
+
+## Graduate students
+
+## Staff
+
+## VERO collaborators

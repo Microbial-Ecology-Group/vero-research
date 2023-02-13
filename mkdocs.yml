@@ -86,8 +86,15 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Contact: contact.md
+  - PI Reseach pages:
+      - VERO faculty: pipages.md
+      - Morley lab: morley.md
+      - Pinell lab: pinnell.md
+      - Scott lab: scott.md
+      - Valeris lab: valeris.md
   - People: people.md
-  - Research: research.md
+  - Current Research: research.md
+  - News: news.md
   - Outreach: outreach.md
   - Pubs: pubs.md
   - Resources: resources.md
