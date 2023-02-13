@@ -1,6 +1,6 @@
 # Lee J. Pinnell
 
-![L Pinell](https://i1.rgstatic.net/ii/profile.image/11431281090785422-1666182699030_Q512/Lee-Pinnell.jpg)
+![L Pinnell](https://i1.rgstatic.net/ii/profile.image/11431281090785422-1666182699030_Q512/Lee-Pinnell.jpg)
 
 
 ljpinnell@cvm.tamu.edu
