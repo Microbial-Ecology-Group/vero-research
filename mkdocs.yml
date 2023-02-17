@@ -5,11 +5,14 @@ site_author: Vero Research
 site_description: Vero Research
 
 # Copyright
-copyright: '&copy; Vero Research.'
+copyright: '&copy; Vero Research'
 
 # Footer mod: https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#generator-notice 
 extra:
   generator: false
+  social:
+    - icon: fontawesome/brands/facebook 
+      link: https://www.facebook.com/tamuvetmedVERO/
 
 # Configuration
 theme:
@@ -20,6 +23,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
+    - navigation.footer
   palette: 
     # Palette toggle for light mode
     - scheme: default
