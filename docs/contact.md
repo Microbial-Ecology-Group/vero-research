@@ -1,4 +1,10 @@
-# Contact VERO
+---
+template: contact.html
+title: Contact
+---
+#
+
+## Contact VERO
 
 VERO – Veterinary Education, Research, & Outreach
 Texas A&M School of Veterinary Medicine & Biomedical Sciences (VMBS)
@@ -12,11 +18,11 @@ WTAMU Box 60998
 Canyon, TX 79016-0001
 
 
-Tel: 806.651.2292 | Web: [vetmed.tamu.edu/](vetmed.tamu.edu/vero)
+Tel: 806.651.2292 | Web: [https://vetmed.tamu.edu/vero/](https://vetmed.tamu.edu/vero/)
 
-Follow #TeamVERO at the [Texas A&M VMBS VERO Facebook page](https://www.facebook.com/tamucvmVERO)
+Follow #TeamVERO at the [Texas A&M VMBS VERO Facebook page](https://www.facebook.com/tamuvetmedVERO/)
 
-# About VERO
+## About VERO
 
 VERO is the culmination of an idea that began in 2009 as a response to the urgent need to expand the VMBS and address the continual need for well-trained veterinarians skilled in the care of both large and small animals. In the report “Projecting the Need for Veterinary Medical Education in Texas,” the Texas Higher Education Coordinating Board (THECB) stated that while “no new veterinary school is recommended at this time,” the needs of Texas could be met most cost-effectively through an expansion of the VMBS.
 
