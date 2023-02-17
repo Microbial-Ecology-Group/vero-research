@@ -18,7 +18,8 @@
 
     /*Styles for the home page header*/
     .md-main {
-        flex-grow: 0
+        flex-grow: 0;
+				min-height: 100vh;
     }
 
     .md-main__inner {
@@ -95,7 +96,7 @@
         }
 
         .tx-hero__content {
-            max-width: 22rem;            
+            max-width: 32rem;            
             
             margin-left: 1.0rem;
             margin-right: 4.0rem;
@@ -158,17 +159,5 @@
 {% endblock %}
 
 {% block footer %}
-
-<footer class="md-footer">    
-  <div class="md-footer-meta md-typeset">
-    <div class="md-footer-meta__inner md-grid">
-      <div class="md-copyright">
-        <div class="md-copyright__highlight">
-          © Copyright VERO Research
-        </div>  
-      </div>      
-    </div>
-  </div>
-</footer>
-
+{{ super() }}
 {% endblock %}
