@@ -1,19 +1,21 @@
 # Paul S Morley
 
-![P Morley](https://apps.cvm.tamu.edu/DirectoryImages/ImagesLarger/pmorley.jpg){ align=left loading=lazy width="200" }
-
-Director of Food Animal Research & Professor (VLCS – VERO)
-
-Department of Large Animal Clinical Sciences
-
-TAMU Mailstop: 4475
-
-pmorley@cvm.tamu.edu 
 
 
-&nbsp;
+<div style="display: flex; flex-direction: row; align-items: center;">
 
-&nbsp;
+  <img src="https://apps.cvm.tamu.edu/DirectoryImages/ImagesLarger/pmorley.jpg" alt="Morley" loading="lazy" width="300" style="margin-right: 20px;"/>
+
+  <div>
+    Director of Food Animal Research & Professor (VLCS – VERO)<br/>
+    Department of Large Animal Clinical Sciences<br/>
+    TAMU Mailstop: 4475<br/>
+    pmorley@cvm.tamu.edu <br/>
+  </div>
+
+</div>
+
+
 
 
 ## RESEARCH AND SCHOLARLY INTERESTS

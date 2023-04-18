@@ -7,8 +7,9 @@
 
     /* Home page content centering */
     .center-container { 
-        max-width: 748px; 
-        margin: 0px auto; 
+        max-width: 100%; 
+        margin: 0px auto;
+        width: 100%;
     }
 
     /*List Styles*/
@@ -97,7 +98,7 @@
 
         .tx-hero__content {
             max-width: 32rem;            
-            
+            text-align: center;
             margin-left: 1.0rem;
             margin-right: 4.0rem;
             align-items: center;
@@ -121,42 +122,28 @@
 <!-- Main site Entry button descriptions -->
 <section class="tx-container">
     <div class="md-grid md-typeset">
-      <div class="tx-hero">
-        <div class="tx-hero__content">
-          <h1>VERO Research</h1>
-          <p>Veterinary Education, Research, & Outreach</p>          
-          <a href="./contact" class="md-button md-button--primary">
-            Contact
-          </a>
-          <a href="./people" class="md-button md-button--primary">
-            People
-          </a>
-          <a href="./research" class="md-button md-button--primary">
-            Current Research
-          </a>
-          <a href="./news" class="md-button md-button--primary">
-            News
-          </a>
-          <a href="./outreach" class="md-button md-button--primary">
-            Outreach
-          </a>
-          <a href="./pubs" class="md-button md-button--primary">
-            Publications
-          </a>
-          <a href="./resources" class="md-button md-button--primary">
-            Resources
-          </a>
+        <div class="tx-hero">
+            <div class="tx-hero__content">
+                <h1>VERO Research</h1>
+                <p>Veterinary Medicine and Biomedical Sciences | Texas A&M | Canyon, Tx </p>
+                <div class="tx-hero__image">
+                    <img src="https://vetmed.tamu.edu/communications/wp-content/uploads/sites/53/1660/80/VERO-White-Horizontal-digital.png" draggable="false" style="width: 100%; max-width: 700px;">
+                </div>
+            </div>
         </div>
-      </div>
     </div>
 </section>
 {% endblock %}
 
+
+
 {% block content %}
-<div class="center-container">
+<div class="center-container markdown-content-container">
     {{ super() }}
 </div>
 {% endblock %}
+
+
 
 {% block footer %}
 {{ super() }}

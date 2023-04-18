@@ -1,17 +1,22 @@
 # Robert Valeris-Chacin
+<div style="display: flex; flex-direction: row; align-items: center;">
 
-![R Valeris](assets/headshotRV.jpg)
+  <img src="../assets/headshotRV.jpg" alt="R Valeris" loading="lazy" width="300" style="margin-right: 20px;"/>
 
-Assistant Professor of Microbial Ecology & Infectious Disease (VLCS – VERO)
+  <div>
+    Assistant Professor of Microbial Ecology & Infectious Disease (VLCS – VERO)<br/>
+    Department of Large Animal Clinical Sciences<br/>
+    TAMU Mailstop: 4475<br/>
+    rvalerischacin@cvm.tamu.edu<br/>
+  </div>
 
-Department of Large Animal Clinical Sciences
-
-TAMU Mailstop: 4475
-
-rvalerischacin@cvm.tamu.edu
+</div>
 
 
 ## RESEARCH AND SCHOLARLY INTERESTS
+
+
+
 My research interests include the study of the ecology and epidemiology of respiratory bacterial pathogens affecting food animals and the development and evaluation of antibiotic alternatives that could potentially be used as prevention or control strategies, especially those involving the modulation of the microbiome.
 
 ### Research focus areas

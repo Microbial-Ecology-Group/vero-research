@@ -35,9 +35,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  icon:  # from .icons path. Add to theme override for custom logo.
-    logo: veroresearch-logo  # top left header logo
-  favicon: assets/veroresearch-logo.png #browser tab logo
+
 
 #Plugins
 plugins:
@@ -92,10 +90,10 @@ nav:
   - Contact: contact.md
   - PI Reseach pages:
       - VERO faculty: pipages.md
-      - Morley lab: morley.md
-      - Pinell lab: pinnell.md
-      - Scott lab: scott.md
-      - Valeris lab: valeris.md
+      - Morley lab: people/morley.md
+      - Pinell lab: people/pinnell.md
+      - Scott lab: people/scott.md
+      - Valeris lab: people/valeris.md
   - People: people.md
   - Current Research: research.md
   - News: news.md

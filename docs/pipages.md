@@ -1,10 +1,10 @@
 # VERO Faculty pages
 
 
-## [Dr. Paul Morley](morley.md)
+## [Dr. Paul Morley](people/morley.md)
 
-##  [Dr. Lee Pinnell](pinnell.md)
+##  [Dr. Lee Pinnell](people/pinnell.md)
 
-## [Dr. Robert Valeris-Chacin](valeris.md)
+## [Dr. Robert Valeris-Chacin](people/valeris.md)
 
-## [Dr. Matthew Scott ](scott.md)
+## [Dr. Matthew Scott ](people/scott.md)

@@ -1,14 +1,21 @@
 # Matthew A. Scott
 
-![M Scott](assets/headshot_MS.jpg)
 
-Assistant Professor of Microbial Ecology & Infectious Disease (VLCS – VERO)
 
-Department of Large Animal Clinical Sciences
+<div style="display: flex; flex-direction: row; align-items: center;">
 
-TAMU Mailstop: 4475
+  <img src="../assets/headshot_MS.jpg" alt="Scott" loading="lazy" width="300" style="margin-right: 20px;"/>
 
-matthewscott@tamu.edu
+  <div>
+    Assistant Professor of Microbial Ecology & Infectious Disease (VLCS – VERO)<br/>
+    Department of Large Animal Clinical Sciences<br/>
+    TAMU Mailstop: 4475 <br/>
+    matthewscott@tamu.edu <br/>
+
+  </div>
+
+</div>
+
 
 
 ## RESEARCH AND SCHOLARLY INTERESTS
