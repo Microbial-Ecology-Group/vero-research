@@ -1,9 +1,23 @@
+---
+template: resources.html
+title: resources
+---
+
 # Resources
 
 
+
+## PI research pages
+* ### [Dr. Paul Morley](people/morley.md)
+* ###  [Dr. Lee Pinnell](people/pinnell.md)
+* ### [Dr. Robert Valeris-Chacin](people/valeris.md)
+* ### [Dr. Matthew Scott ](people/scott.md)
+
+## Micobial Ecology Group
 * [Microbial Ecology Group (MEG) lab page](https://www.meglab.org/)
     * [MEGARes antimicrobial resistance gene database](https://www.meglab.org/megares/)
     * [AMR++ bioinformatic pipeline](https://www.meglab.org/amrplusplus/)
+
 
 ## Open Science - Sharing Your Research with the World:
 MEG embraces the philosophy of open science to promote transparency, and improve repeatability and efficiency in research. In line with this principle, we are sharing the tools that we have developed through our research to facilitate metagenomic investigations of antimicrobial resistance using genomic sequencing and high-throughput computational analysis.

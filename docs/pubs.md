@@ -1,3 +1,7 @@
+---
+template: publications.html
+title: Publications
+---
 # Publications
 
 

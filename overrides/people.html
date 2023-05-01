@@ -1,0 +1,39 @@
+<!-- Custom HTML site displayed as the Home chapter -->
+{% extends "main.html" %}
+{% block tabs %}
+{{ super() }}
+
+<style>
+	.center-container { 
+			max-width: 748px; 
+			margin: 0px auto; 
+	}
+
+	.md-main {
+			flex-grow: 0;
+			min-height: 100vh;
+	}
+
+	.md-main__inner {
+			display: flex;
+			height: 100%;
+	}
+
+	@media screen and (min-width:76.25em) {
+			.md-sidebar--primary {
+					display: none !important;
+			}
+	}
+</style>
+
+{% endblock %}
+
+{% block content %}
+<div class="center-container">
+    {{ super() }}
+</div>
+{% endblock %}
+
+{% block footer %}
+{{ super() }}
+{% endblock %}

@@ -17,3 +17,27 @@
     --md-accent-fg-color:         #b30038;    
     --md-footer-bg-color:         #332C2C;    
 }
+
+.md-icon--logo {
+    display: none;
+}
+  
+.md-logo {
+    background: url(../assets/vero-logo.svg) no-repeat;
+    background-size: contain;
+    width: 20px;
+    height: 45px;
+    margin-right: 10px;
+  }
+
+.md-header-nav__title {
+    margin-left: 110px;
+}
+
+.md-pagination {
+    display: none !important;
+}
+
+.md-pagination.md-pagination__container {
+    display: none !important;
+}

@@ -1,3 +1,8 @@
+---
+template: outreach.html
+title: Outreach
+---
+
 # Outreach
 
 ## Workshops and tutorials

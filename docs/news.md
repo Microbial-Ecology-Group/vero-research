@@ -1,3 +1,8 @@
+---
+template: news.html
+title: News
+---
+
 # Recent News
 
 ---

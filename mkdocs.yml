@@ -1,11 +1,11 @@
 # Project information
-site_name: Vero Research
+site_name: VERO Research
 site_url: https://veroresearch.org/
-site_author: Vero Research
-site_description: Vero Research
+site_author: VERO Research
+site_description: VERO Research
 
 # Copyright
-copyright: '&copy; Vero Research'
+copyright: '&copy; VERO Research'
 
 # Footer mod: https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#generator-notice 
 extra:
@@ -22,8 +22,6 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.indexes
-    - navigation.footer
   palette: 
     # Palette toggle for light mode
     - scheme: default
@@ -35,7 +33,16 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-
+  icon:
+    logo: vero-logo
+    custom:
+      - path: overrides/.icons/vero-logo.svg
+        id: vero-logo
+  favicon: assets/vero-logo.png #browser tab logo
+  disable_navigation: true # add this line to disable navigation arrows
+  material:
+    pagination:
+      enabled: false
 
 #Plugins
 plugins:
@@ -87,16 +94,17 @@ markdown_extensions:
 # Page Tree
 nav:
   - Home: index.md
+  - Who We Are: whoweare.md
   - Contact: contact.md
-  - PI Reseach pages:
+  - People: people.md
+  - Current Research: research.md
+  - News: news.md
+  - Outreach: outreach.md
+  - Published Research: pubs.md
+  - Resources: 
+      - Resources: resources.md
       - VERO faculty: pipages.md
       - Morley lab: people/morley.md
       - Pinell lab: people/pinnell.md
       - Scott lab: people/scott.md
       - Valeris lab: people/valeris.md
-  - People: people.md
-  - Current Research: research.md
-  - News: news.md
-  - Outreach: outreach.md
-  - Pubs: pubs.md
-  - Resources: resources.md

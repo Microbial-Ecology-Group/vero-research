@@ -1,0 +1,32 @@
+<!-- Custom HTML site displayed as the Home chapter -->
+{% extends "main.html" %}
+{% block tabs %}
+{{ super() }}
+
+<style>
+	.md-main__inner {
+			max-width: 100%;
+			margin: 0 auto;
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+	}
+
+	@media screen and (min-width:76.25em) {
+			.md-sidebar--primary {
+					display: none !important;
+			}
+	}
+</style>
+
+{% endblock %}
+
+{% block content %}
+<div class="md-main__inner">
+    {{ super() }}
+</div>
+{% endblock %}
+
+{% block footer %}
+{{ super() }}
+{% endblock %}
