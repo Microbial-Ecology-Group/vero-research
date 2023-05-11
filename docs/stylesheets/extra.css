@@ -41,3 +41,7 @@
 .md-pagination.md-pagination__container {
     display: none !important;
 }
+
+.hidden-header {
+    display: none !important;
+  }

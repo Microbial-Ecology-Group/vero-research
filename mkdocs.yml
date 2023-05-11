@@ -95,16 +95,17 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Who We Are: whoweare.md
-  - Contact: contact.md
-  - People: people.md
-  - Current Research: research.md
-  - News: news.md
-  - Outreach: outreach.md
-  - Published Research: pubs.md
-  - Resources: 
-      - Resources: resources.md
+  - People:
+      - People: people.md
+      - Students and staff: studentsandstaff.md
       - VERO faculty: pipages.md
       - Morley lab: people/morley.md
       - Pinell lab: people/pinnell.md
       - Scott lab: people/scott.md
       - Valeris lab: people/valeris.md
+  - Current Research: research.md
+  - Published Research: pubs.md
+  - Resources: resources.md
+  - News: news.md
+  - Outreach: outreach.md
+  - Contact: contact.md
