@@ -42,6 +42,8 @@
     display: none !important;
 }
 
-.hidden-header {
-    display: none !important;
-  }
+.invisible-header {
+    color: transparent;
+    pointer-events: none;
+    user-select: none;
+}

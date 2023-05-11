@@ -1,7 +1,7 @@
 # Robert Valeris-Chacin
 <div style="display: flex; flex-direction: row; align-items: center;">
 
-  <img src="../assets/headshotRV.jpg" alt="R Valeris" loading="lazy" width="300" style="margin-right: 20px;"/>
+  <img src="../../assets/Valeris-Chacin.web.jpg" alt="Valeris"  loading="lazy" width="200" style="margin-right: 20px;"/>
 
   <div>
     Assistant Professor of Microbial Ecology & Infectious Disease (VLCS – VERO)<br/>

@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: row; align-items: center;">
 
-  <img src="https://i1.rgstatic.net/ii/profile.image/11431281090785422-1666182699030_Q512/Lee-Pinnell.jpg" alt="Pinell" loading="lazy" width="300" style="margin-right: 20px;"/>
+  <img src="../../assets/Pinnell.web.jpg" alt="Pinell" loading="lazy" width="200" style="margin-right: 20px;"/>
 
   <div>
     ljpinnell@cvm.tamu.edu

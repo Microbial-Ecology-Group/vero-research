@@ -4,7 +4,7 @@
 
 <div style="display: flex; flex-direction: row; align-items: center;">
 
-  <img src="../assets/headshot_MS.jpg" alt="Scott" loading="lazy" width="300" style="margin-right: 20px;"/>
+  <img src="../../assets/Scott.web.jpg" alt="Scott" loading="lazy" width="250" style="margin-right: 20px;"/>
 
   <div>
     Assistant Professor of Microbial Ecology & Infectious Disease (VLCS – VERO)<br/>
