@@ -6,7 +6,7 @@ title: Faculty
 # VERO Faculty and postdoctoral researchers
 
 
-
+### Morley, Paul  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
     <img src="https://apps.cvm.tamu.edu/DirectoryImages/ImagesLarger/pmorley.jpg" alt="Morley">
@@ -22,6 +22,7 @@ title: Faculty
 
 --------
 
+### Valeris-Chacin, Robert {:.invisible-header}
 <div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
     <img src="../assets/Valeris-Chacin.web.jpg" alt="Valeris" loading="lazy" width="250" style="margin-right: 20px;"/>
@@ -37,6 +38,7 @@ title: Faculty
 
 --------
 
+### Scott, Matthew  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
     <img src="../assets/Scott.web.jpg" alt="Scott" loading="lazy" width="250" style="margin-right: 20px;"/>
@@ -52,9 +54,10 @@ title: Faculty
 
 --------
 
+### Pinnell, Lee  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Pinnell.web.jpg" alt="Pinell" loading="lazy" width="200" style="margin-right: 20px;"/>
+    <img src="../assets/Pinnell.web.jpg" alt="Pinell" loading="lazy" width="300" style="margin-right: 20px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <a href="../people/pinnell"><h2>Dr. Lee J. Pinnell</h2></a>
