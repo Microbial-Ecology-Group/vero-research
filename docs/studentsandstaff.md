@@ -24,22 +24,7 @@ title: People
   </div>
 </div>
 
---------
 
-### Bigelow, Rebecca  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
-  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Bigelow.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
-  </div>
-  <div style="grid-column: 1; grid-row: 1;">
-    <h2>Rebecca Bigelow, MS</h2>
-    <h3>Research Assistant</h3>
-    <p>rabigelow1@buffs.wtamu.edu</p>
-  </div>
-  <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Rebecca received her BS in Biomedical Sciences from Texas A&M University. She is currently a MS student in the Department of Agricultural Sciences at West Texas A&M, expecting to graduate in August of 2023. Her research focus is evaluating how various antimicrobials affect the host whole blood transcriptome of commercial feedlot cattle when administered as a metaphylactic treatment for bovine respiratory disease. Following graduation, she plans to pursue her PhD. </p>
-  </div>
-</div>
 
 
 
@@ -76,43 +61,7 @@ title: People
   </div>
 </div>
 
---------
 
-### Doster, Enrique  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
-  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Doster.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
-  </div>
-  <div style="grid-column: 1; grid-row: 1;">
-    <h2>Enrique Doster, DVM, PhD</h2>
-    <h3>Postdoctoral research associate</h3>
-    <p>enriquedoster@tamu.edu</p>
-    <p><a href="https://www.ncbi.nlm.nih.gov/myncbi/enrique.doster.1/bibliography/public/">PubMed bibliography link</a></p>
-    <p><a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=DRqM0WoAAAAJ&gmla=AHoSzlU0OTbYVbdQd7AI9w-y74tNnZLbwxJa_t568iQy6zu8FvFBWpDbaKNzlsIe_OVAyuGjodfbfVb3jin-UvCr0NqyLiRn5ns-V1Kmh18pQg">Google Scholar link</a></p>
-  </div>
-  <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>
-    Enrique is a postdoctoral researcher working with Dr. Paul Morley and the VERO team at West Texas A&M University. Enrique received his veterinary degree in May 2022 from the Colorado State University College of Veterinary Medicine and Biomedical Sciences. At the same institution, Enrique completed his PhD in veterinary epidemiology in May 2019 with Dr. Paul Morley. Enrique holds a bachelor’s degree in Animal Sciences from Auburn University. Enrique's research employs high-throughput sequencing to characterize microbial communities (the microbiome) and the profile of resistance genes they carry (resistome) to better understand the effect of antimicrobial drug use in agricultural production settings. His goal is to contribute an applied interpretation of statistical analyses and help translate research into practical livestock management techniques to address the tenets of One Health; optimal health for people, animals, and the environment. 
-    </p>
-  </div>
-</div>
-
---------
-
-### Green, Mollie  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
-  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Green.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
-  </div>
-  <div style="grid-column: 1; grid-row: 1;">
-    <h2>Mollie Green, MS</h2>
-    <h3>Research Assistant</h3>
-    <p>mmgreen2@buffs.wtamu.edu</p>
-  </div>
-  <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Mollie received her Bachelor of Science degree from West Texas A&M University. She is currently working on her Master of Science in Animal Science at West Texas A&M University. Her graduate research focuses on the overall use of genetic and genomic technologies for beef cattle systems for beef cattle health improvement. As Mollie continues her research in this field, she aims to support industry leaders with information that can be used to improve decision making in areas such as cattle health, production efficiency, and global sustainability.</p>
-  </div>
-</div>
 
 --------
 
@@ -212,22 +161,6 @@ title: People
   </div>
 </div>
 
---------
-
-### Prosser, Haleigh  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
-  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Prosser.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
-  </div>
-  <div style="grid-column: 1; grid-row: 1;">
-    <h2>Haleigh Prosser</h2>
-    <h3>Graduate Student</h3>
-    <p>hmprosser1@buffs.wtamu.edu</p>
-  </div>
-  <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Haleigh completed her Bachelor of Science in Animal Science at West Texas A&M University in 2021. She is currently an MS student, focusing on the application of genomic technologies in the commercial cattle feedlot industry. Her prominent cattle feeding background has shaped her goals and guided her research to focus on the genetic quality of fed cattle. Her current project includes analyzing prospectively pooled genotypes and evaluating their economic efficiency.</p>
-  </div>
-</div>
 
 --------
 
@@ -298,3 +231,59 @@ title: People
 </div>
 
 --------
+--------
+
+# Former castmembers
+
+
+
+### Bigelow, Rebecca  {:.invisible-header}
+<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
+    <img src="../assets/Bigelow.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 1;">
+    <h2>Rebecca Bigelow, MS</h2>
+    <h3>Master's graduate</h3>
+    <p>rabigelow1@buffs.wtamu.edu</p>
+  </div>
+  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p>Rebecca received her BS in Biomedical Sciences from Texas A&M University. She is currently a MS student in the Department of Agricultural Sciences at West Texas A&M, expecting to graduate in August of 2023. Her research focus is evaluating how various antimicrobials affect the host whole blood transcriptome of commercial feedlot cattle when administered as a metaphylactic treatment for bovine respiratory disease. Following graduation, she plans to pursue her PhD. </p>
+  </div>
+</div>
+
+
+--------
+
+### Green, Mollie  {:.invisible-header}
+<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
+    <img src="../assets/Green.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 1;">
+    <h2>Mollie Green, MS</h2>
+    <h3>Master's graduate</h3>
+    <p>mmgreen2@buffs.wtamu.edu</p>
+  </div>
+  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p>Mollie received her Bachelor of Science degree from West Texas A&M University. She is currently working on her Master of Science in Animal Science at West Texas A&M University. Her graduate research focuses on the overall use of genetic and genomic technologies for beef cattle systems for beef cattle health improvement. As Mollie continues her research in this field, she aims to support industry leaders with information that can be used to improve decision making in areas such as cattle health, production efficiency, and global sustainability.</p>
+  </div>
+</div>
+
+
+--------
+
+### Prosser, Haleigh  {:.invisible-header}
+<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
+    <img src="../assets/Prosser.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 1;">
+    <h2>Haleigh Prosser</h2>
+    <h3>Master's graduate</h3>
+    <p>hmprosser1@buffs.wtamu.edu</p>
+  </div>
+  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p>Haleigh completed her Bachelor of Science in Animal Science at West Texas A&M University in 2021. She is currently an MS student, focusing on the application of genomic technologies in the commercial cattle feedlot industry. Her prominent cattle feeding background has shaped her goals and guided her research to focus on the genetic quality of fed cattle. Her current project includes analyzing prospectively pooled genotypes and evaluating their economic efficiency.</p>
+  </div>
+</div>

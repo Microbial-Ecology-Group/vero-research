@@ -5,7 +5,7 @@ title: People
 
 # People
 
-## [Faculty](pipages.md)
+## [Faculty and postdoctoral researchers](pipages.md)
 
 ## [Students and Staff](studentsandstaff.md)
 
