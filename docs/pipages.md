@@ -76,7 +76,7 @@ title: Faculty
     <img src="../assets/Doster.web.jpg" alt=""  loading="lazy" width="150" style="margin-right: 20px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
-    <h2>Enrique Doster, DVM, PhD</h2>
+    <h2>Enrique Doster</h2>
     <h3>Postdoctoral research associate</h3>
     <p>enriquedoster@tamu.edu</p>
     <p><a href="https://www.ncbi.nlm.nih.gov/myncbi/enrique.doster.1/bibliography/public/">PubMed bibliography link</a></p>
