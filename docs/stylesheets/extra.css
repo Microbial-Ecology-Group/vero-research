@@ -51,3 +51,8 @@
 @media (max-width: 767px) {
     /* CSS rules to override the tab display for small screens */
   }
+
+.md-tabs__item {
+    white-space: normal;
+    height: auto;
+  }
