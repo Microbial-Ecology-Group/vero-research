@@ -7,8 +7,8 @@
   </div>
   <div style="grid-column: 2; grid-row: 1; text-align: center;">
     <h2>Dr. Paul Morley</h2>
-    <h3>Professor & Director of Research</h3>
-    <h3>Sally Rau McIntosh Endowed Chair </h3>
+    <h3>-- Professor & Director of Research<br>
+        -- Sally Rau McIntosh Endowed Chair </h3>
     <p>pmorley@tamu.edu</p>
   </div>
   </div>
