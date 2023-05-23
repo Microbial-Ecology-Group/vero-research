@@ -34,7 +34,7 @@ title: Faculty
     <h3> Assistant Professor in Food Animal Epidemiology at Texas A&M University</h3>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>I am an epidemiologist interested in the use of antibiotic alternatives for the prevention and control of infectious diseases in food animal production systems, such as bovine respiratory disease in beef and dairy cattle.</p>
+    <p>Dr. Valeris-Chacin an epidemiologist interested in the use of antibiotic alternatives for the prevention and control of infectious diseases in food animal production systems, such as bovine respiratory disease in beef and dairy cattle.</p>
   </div>
 </div>
 
