@@ -6,8 +6,9 @@
   </div>
   <div style="grid-column: 2; grid-row: 1;">
     <a href="../people/morley"><h2>Dr. Paul Morley</h2></a>
-    <h3>Professor & Director of Research <br><br>
-    Sally Rau McIntosh Endowed Chair </h3>
+    <h3>Professor & Director of Research</h3>
+    <p></p>
+    <h3>Sally Rau McIntosh Endowed Chair </h3>
     <p>pmorley@tamu.edu</p>
   </div>
   </div>
