@@ -3,7 +3,7 @@ template: people.html
 title: Faculty
 ---
 
-# VERO Faculty and postdoctoral researchers
+# VERO Faculty and Post-Doctoral Researchers
 
 
 ### Morley, Paul  {:.invisible-header}
@@ -73,7 +73,8 @@ title: Faculty
 ### Doster, Enrique  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Doster.web.jpg" alt=""  loading="lazy" width="150" style="margin-right: 20px;"/>
+    <img src="../../assets/Doster2.web.jpg" alt="Doster" loading="lazy" width="250" style="margin-right: 20px;"/>
+
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Enrique Doster</h2>
