@@ -13,7 +13,9 @@ title: Faculty
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <a href="../people/morley"><h2>Dr. Paul Morley</h2></a>
-    <h3>Director of Food Animal Research & Professor (VLCS – VERO)</h3>
+    <h3>Professor and Director of Research & Professor</h3>
+    <h3>Sally Rau McIntosh Endowed Chair for Strategic Iniatives</h3>
+
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Dr. Paul Morley is a professor and director of food animal research for #TeamVERO through the Department of Large Animal Clinical Sciences (VLCS) in the CVMBS. He is an epidemiologist and veterinary internal medicine specialist who studies infectious diseases affecting people and animals. Major emphases for his professional activities include investigating the ecology of antimicrobial resistance in animals and food production systems, using analytical epidemiology to improve our understanding of diseases in animals and people, and improving infection control and biosecurity to manage health risks that are important in veterinary medicine, agriculture, and public health. His research has used shotgun metagenomics to investigate the influence of production practices in intensive agriculture systems on antimicrobial resistance and microbial ecology as these affect human, animal, and ecosystem health.</p>
