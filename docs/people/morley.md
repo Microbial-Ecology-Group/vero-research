@@ -21,7 +21,7 @@ Dr. Paul Morley is a professor and director of food animal research for #TeamVER
 * BS, Animal Sciences, Washington State University, 1986
 * BS, Veterinary Science, Washington State University, 1987
 * DVM, Washington State University, 1989
-* PhD, Epidemiology, University of Saskatchewan, 1995
+* PhD, Veterinary Epidemiology, University of Saskatchewan, 1995
 * Diplomate of the American College of Veterinary Internal Medicine (LAIM), 1997
 
 ## Publications
