@@ -7,7 +7,7 @@
 <img src="../../assets/Morley2.web.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 20px;"/>
 
   <div>
-    Professor and Director of Research (VLCS – VERO)<br>
+    Professor and Director of Research<br>
     Sally Rao McIntosh Endowed Chair<br>
     Department of Large Animal Clinical Sciences<br>
     Veterinary Education, Research, and Outreach Program<br>
