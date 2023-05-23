@@ -10,7 +10,8 @@
     Professor and Director of Research (VLCS – VERO)<br/>
     Sally Rao McIntosh Endowed Chair for Strategic Initiatives
     Department of Large Animal Clinical Sciences<br/>
-    Texas A&M University
+    Veterinary Education, Research, and Outreach Program
+    A Partnership between Texas A&M University and West Texas A&M University
     pmorley@cvm.tamu.edu <br/>
   </div>
 
