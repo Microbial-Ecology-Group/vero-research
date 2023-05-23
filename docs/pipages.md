@@ -13,8 +13,8 @@ title: Faculty
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <a href="../people/morley"><h2>Dr. Paul Morley</h2></a>
-    <h3>Professor and Director of Research & Professor</h3>
-    <h3>Sally Rau McIntosh Endowed Chair for Strategic Iniatives</h3>
+    <h3>Professor and Director of Research & Professor </cr>
+    Sally Rau McIntosh Endowed Chair </h3>
 
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
