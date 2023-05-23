@@ -1,15 +1,16 @@
-# Paul S Morley
+# Paul S. Morley
 
 
 
 <div style="display: flex; flex-direction: row; align-items: center;">
 
-  <img src="https://apps.cvm.tamu.edu/DirectoryImages/ImagesLarger/pmorley.jpg" alt="Morley" loading="lazy" width="300" style="margin-right: 20px;"/>
+<img src="../../assets/Morley.2023.web.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 20px;"/>
 
   <div>
-    Director of Food Animal Research & Professor (VLCS – VERO)<br/>
+    Professor and Director of Research (VLCS – VERO)<br/>
+    Sally Rao McIntosh Endowed Chair for Strategic Initiatives
     Department of Large Animal Clinical Sciences<br/>
-    TAMU Mailstop: 4475<br/>
+    Texas A&M University
     pmorley@cvm.tamu.edu <br/>
   </div>
 
