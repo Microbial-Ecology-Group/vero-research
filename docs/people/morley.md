@@ -30,16 +30,16 @@
 
 ### Research focus area
 * Antimicrobial resistance
+* Microbial ecology relating to health and disease
 * Analytical epidemiology
 * Infection control
 * Biosecurity
-* Public health
 
 ## EDUCATION & TRAINING
-* PhD, University of Saskatchewan, 1995
-* DVM, Washington State University, 1989
-* BS, Veterinary Sciences, Washington State University, 1987
 * BS, Animal Sciences, Washington State University, 1986
+* BS, Veterinary Sciences, Washington State University, 1987
+* DVM, Washington State University, 1989
+* PhD, University of Saskatchewan, 1995
 * Diplomate of the American College of Veterinary Internal Medicine (LAIM), 1997
 
 ## SHORT BIOGRAPHY
