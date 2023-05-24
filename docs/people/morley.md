@@ -13,8 +13,7 @@
   </div>
   </div>
 ----
-
-## Publications
+## PUBLICATIONS
 * [All Journal Articles in PubMed](https://www.ncbi.nlm.nih.gov/myncbi/14Ikqzq30Nv5a/bibliography/public/)
 * [Google Scholar Profile - Citation Statistics](https://scholar.google.com/citations?user=T-yNyx0AAAAJ&hl=en)
 * [ResearchGate Profile](https://www.researchgate.net/profile/Paul_Morley2)
