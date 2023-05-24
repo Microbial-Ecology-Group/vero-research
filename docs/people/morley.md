@@ -14,6 +14,11 @@
   </div>
 ----
 
+## Publications
+* [All Journal Articles in PubMed](https://www.ncbi.nlm.nih.gov/myncbi/14Ikqzq30Nv5a/bibliography/public/)
+* [Google Scholar Profile - Citation Statistics](https://scholar.google.com/citations?user=T-yNyx0AAAAJ&hl=en)
+* [ResearchGate Profile](https://www.researchgate.net/profile/Paul_Morley2)
+
 ## SHORT BIOGRAPHY
 Dr. Paul Morley is a Professor and the Director of Research at VERO - the Veterinary Education, Research & Outreach Program. He is an epidemiologist, animal scientist, and veterinary internal medicine specialist who studies infectious diseases affecting animals and people. In 2022, he was named the Sally Rau McIntosh Endowed Chair for Strategic Initiatives at Texas A&M University. Major areas of emphasis for his research include antimicrobial resistance in animals and food production systems, disease pathogenesis, and population-based approaches for understanding and manage health risks that are important in veterinary medicine, agriculture, and public health. In 2019, he was appointed the Director of Research for VERO in the School of Veterinary Medicine and Biomedical Sciences at Texas A&M University. Previously, Dr. Morley served for 20 years as Professor of Epidemiology and the Director of Infection Control at Colorado State University and the Colorado School of Public Health. He is a recognized authority on infection control in animal populations and has consulted on infection control and biosecurity issues at veterinary hospitals, veterinary colleges, and animal production facilities around the world.    
 
@@ -23,11 +28,6 @@ Dr. Paul Morley is a Professor and the Director of Research at VERO - the Veteri
 * DVM, Washington State University, 1989
 * PhD, Veterinary Epidemiology, University of Saskatchewan, 1995
 * Diplomate of the American College of Veterinary Internal Medicine (LAIM), 1997
-
-## Publications
-* [All Journal Articles in PubMed](https://www.ncbi.nlm.nih.gov/myncbi/14Ikqzq30Nv5a/bibliography/public/)
-* [Google Scholar Profile - Citation Statistics](https://scholar.google.com/citations?user=T-yNyx0AAAAJ&hl=en)
-* [ResearchGate Profile](https://www.researchgate.net/profile/Paul_Morley2)
 
 ## RESEARCH AND SCHOLARLY INTERESTS
 * Investigating the ecology of antimicrobial resistance in animals and food production systems
