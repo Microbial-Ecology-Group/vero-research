@@ -19,7 +19,7 @@
 * [ResearchGate Profile](https://www.researchgate.net/profile/Paul_Morley2)
 
 ## SHORT BIOGRAPHY
-Since 2019, Dr. Paul Morley has served as a Professor and the Director of Research at VERO - the Veterinary Education, Research & Outreach Program -- an iniatieve of the Texas A&M University's School of Veterinary Medicine. He is an epidemiologist, animal scientist, and veterinary internal medicine specialist who studies infectious diseases affecting animals and people. In 2022, he was named the Sally Rau McIntosh Endowed Chair for Strategic Initiatives at Texas A&M University. Major areas of emphasis for his research include antimicrobial resistance in animals and food production systems, disease pathogenesis, and population-based approaches for understanding and manage health risks that are important in veterinary medicine, agriculture, and public health. Previously, Dr. Morley served for 20 years as Professor of Epidemiology and the Director of Infection Control at Colorado State University and the Colorado School of Public Health. He is a recognized authority on infection control in animal populations and has consulted on infection control and biosecurity issues at veterinary hospitals, veterinary colleges, and animal production facilities around the world.    
+Dr. Paul Morley has served as a Professor and the Director of Research at VERO Since 2019.  VERO - the Veterinary Education, Research & Outreach Program -- is an initiative of the Texas A&M University's School of Veterinary Medicine conducted in partnership with West Texas A&M University. He is an epidemiologist, animal scientist, and veterinary internal medicine specialist who studies infectious diseases affecting animals and people. In 2022, he was named the Sally Rau McIntosh Endowed Chair for Strategic Initiatives at Texas A&M University. Major areas of emphasis for his research include antimicrobial resistance in animals and food production systems, disease pathogenesis, and population-based approaches for understanding and manage health risks that are important in veterinary medicine, agriculture, and public health. Previously, Dr. Morley served for 20 years as Professor of Epidemiology and the Director of Infection Control at Colorado State University and the Colorado School of Public Health. He is a recognized authority on infection control in animal populations and has consulted on infection control and biosecurity issues at veterinary hospitals, veterinary colleges, and animal production facilities around the world.    
 
 ## EDUCATION & TRAINING
 * BS, Animal Sciences, Washington State University, 1986
@@ -33,10 +33,11 @@ Since 2019, Dr. Paul Morley has served as a Professor and the Director of Resear
 * Using molecular biology and analytical epidemiology to improve our understanding of diseases in animals and people
 * Improving infection control and biosecurity to manage health risks that are important in veterinary medicine, agriculture, and public health
 
-### Research focus topics
+### RESEARCH TOPICS
 * Antimicrobial resistance
 * Microbial ecology relating to health and disease
-* Analytical epidemiology
+* Epidemiology
+* Disease pathogenesis
 * Infection control
 * Biosecurity
 
