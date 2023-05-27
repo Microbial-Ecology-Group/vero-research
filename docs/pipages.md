@@ -9,7 +9,7 @@ title: Faculty
 ### Morley, Paul  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-       <img src="../../assets/Morley2.web.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 20px;"/>
+       <img src="../../assets/1.Morley.2023.web_small.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 20px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <a href="../people/morley"><h2>Dr. Paul Morley</h2></a>
@@ -26,18 +26,20 @@ title: Faculty
 
 --------
 
-### Valeris-Chacin, Robert {:.invisible-header}
+### Pinnell, Lee  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Valeris-Chacin.web.jpg" alt="Valeris" loading="lazy" width="250" style="margin-right: 20px;"/>
+    <img src="../assets/Pinnell.web.jpg" alt="Pinell" loading="lazy" width="250" style="margin-right: 20px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
-    <a href="../people/valeris"><h2>Dr. Robert Valeris-Chacin</h2></a>
-    <h3>Assistant Professor in Food Animal Epidemiology at Texas A&M University</h3>
-    <p>robertv@tamu.edu</p>
+    <a href="../people/pinnell"><h2>Dr. Lee J. Pinnell</h2></a>
+    <h3>Research Assistant Professor of Microbial Ecology </h3>
+    <p>ljpinnell@tamu.edu</p>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Dr. Valeris-Chacin an epidemiologist interested in the use of antibiotic alternatives for the prevention and control of infectious diseases in food animal production systems, such as bovine respiratory disease in beef and dairy cattle.</p>
+    <p>Dr. Lee Pinnell is a research assistant professor with VERO through the Department of Large Animal Clinical Sciences (VLCS). Prior to joining VLCS, he received his PhD in marine biology from Texas A&M University-Corpus Christi and his MSc from the University of Waterloo in Waterloo, Ontario. After his PhD, he was a Postdoctoral Scientist with the Molecular and Microbial Ecology Group at the John G. Shedd Aquarium in Chicago. His research aims to protect and improve animal and ecosystem health through the exploration of microbial interactions in the Anthropocene. The majority of his research explores the ecology of pathogens and antimicrobial resistance in agricultural systems, the impact of anthropogenic stressors on microbial processes, and host-microbe relationships in managed/built environments.</p>
+    <p><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Valeris-Chacin+R&cauthor_id=33164808">PubMed bibliography link</a></p>
+    <p><a href="https://scholar.google.com/citations?user=5AFfRq4AAAAJ&hl">Google Scholar link</a></p>
   </div>
 </div>
 
@@ -62,20 +64,18 @@ title: Faculty
 
 --------
 
-### Pinnell, Lee  {:.invisible-header}
+### Valeris-Chacin, Robert {:.invisible-header}
 <div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Pinnell.web.jpg" alt="Pinell" loading="lazy" width="250" style="margin-right: 20px;"/>
+    <img src="../assets/Valeris-Chacin.web.jpg" alt="Valeris" loading="lazy" width="250" style="margin-right: 20px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
-    <a href="../people/pinnell"><h2>Dr. Lee J. Pinnell</h2></a>
-    <h3>Research Assistant Professor of Microbial Ecology </h3>
-    <p>ljpinnell@tamu.edu</p>
+    <a href="../people/valeris"><h2>Dr. Robert Valeris-Chacin</h2></a>
+    <h3>Assistant Professor in Food Animal Epidemiology at Texas A&M University</h3>
+    <p>robertv@tamu.edu</p>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Dr. Lee Pinnell is a research assistant professor with VERO through the Department of Large Animal Clinical Sciences (VLCS). Prior to joining VLCS, he received his PhD in marine biology from Texas A&M University-Corpus Christi and his MSc from the University of Waterloo in Waterloo, Ontario. After his PhD, he was a Postdoctoral Scientist with the Molecular and Microbial Ecology Group at the John G. Shedd Aquarium in Chicago. His research aims to protect and improve animal and ecosystem health through the exploration of microbial interactions in the Anthropocene. The majority of his research explores the ecology of pathogens and antimicrobial resistance in agricultural systems, the impact of anthropogenic stressors on microbial processes, and host-microbe relationships in managed/built environments.</p>
-    <p><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Valeris-Chacin+R&cauthor_id=33164808">PubMed bibliography link</a></p>
-    <p><a href="https://scholar.google.com/citations?user=5AFfRq4AAAAJ&hl">Google Scholar link</a></p>
+    <p>Dr. Valeris-Chacin an epidemiologist interested in the use of antibiotic alternatives for the prevention and control of infectious diseases in food animal production systems, such as bovine respiratory disease in beef and dairy cattle.</p>
   </div>
 </div>
 
