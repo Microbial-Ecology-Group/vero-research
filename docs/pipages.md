@@ -12,7 +12,7 @@ title: Faculty
        <img src="../../assets/1.Morley.2023.web_small.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 20px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
-    <a href="../people/morley"><h2>Dr. Paul Morley</h2></a>
+    <a href="../people/morley"><h2>Dr. Paul S. Morley</h2></a>
     <h3>Professor & Director of Research <br><br>
     Sally Rau McIntosh Endowed Chair </h3>
     <p>pmorley@tamu.edu</p>
