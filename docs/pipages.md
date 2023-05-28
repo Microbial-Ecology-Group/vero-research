@@ -16,12 +16,9 @@ title: Faculty
     <h3>Professor & Director of Research <br><br>
     Sally Rau McIntosh Endowed Chair </h3>
     <p>pmorley@tamu.edu</p>
-  </div>
-  <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Dr. Paul Morley is a Professor and Director of Research for #TeamVERO through the Department of Large Animal Clinical Sciences (VLCS-VMBS) at Texas A&M University. He is an epidemiologist and veterinary internal medicine specialist who studies infectious diseases affecting people and animals. Major emphases for his professional activities include investigating the ecology of antimicrobial resistance in animals and food production systems, using analytical epidemiology to improve our understanding of diseases in animals and people, and improving infection control and biosecurity to manage health risks that are important in veterinary medicine, agriculture, and public health. His research has used shotgun metagenomics to investigate the influence of production practices in intensive agriculture systems on antimicrobial resistance and microbial ecology as these affect human, animal, and ecosystem health.</p>
     <p><a href="https://www.ncbi.nlm.nih.gov/myncbi/14Ikqzq30Nv5a/bibliography/public/">PubMed bibliography link</a></p>
     <p><a href="https://scholar.google.com/citations?user=T-yNyx0AAAAJ&hl=en">Google Scholar link</a></p>
-  </div>
+   </div>
 </div>
 
 --------
