@@ -32,9 +32,6 @@ title: Faculty
     <a href="../people/pinnell"><h2>Dr. Lee J. Pinnell</h2></a>
     <h3>Research Assistant Professor of Microbial Ecology </h3>
     <p>ljpinnell@tamu.edu</p>
-  </div>
-  <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Dr. Lee Pinnell is a research assistant professor with VERO through the Department of Large Animal Clinical Sciences (VLCS). Prior to joining VLCS, he received his PhD in marine biology from Texas A&M University-Corpus Christi and his MSc from the University of Waterloo in Waterloo, Ontario. After his PhD, he was a Postdoctoral Scientist with the Molecular and Microbial Ecology Group at the John G. Shedd Aquarium in Chicago. His research aims to protect and improve animal and ecosystem health through the exploration of microbial interactions in the Anthropocene. The majority of his research explores the ecology of pathogens and antimicrobial resistance in agricultural systems, the impact of anthropogenic stressors on microbial processes, and host-microbe relationships in managed/built environments.</p>
     <p><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Valeris-Chacin+R&cauthor_id=33164808">PubMed bibliography link</a></p>
     <p><a href="https://scholar.google.com/citations?user=5AFfRq4AAAAJ&hl">Google Scholar link</a></p>
   </div>
