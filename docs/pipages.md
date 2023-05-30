@@ -63,9 +63,9 @@ title: Faculty
   <div style="grid-column: 1; grid-row: 1;">
     <a href="../people/valeris"><h2>Dr. Robert Valeris-Chacin</h2></a>
     <h3>Assistant Professor in Food Animal Epidemiology at Texas A&M University</h3>
-    <p><a href="mailto:robertv@tamu.edu">- robertv@tamu.edu</p>
-  </div>
-  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p><a href="mailto:robertv@tamu.edu">- robertv@tamu.edu</a><br>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Valeris-Chacin+R&cauthor_id=33164808">- PubMed Bibliography link</a><br>
+    <a href="https://scholar.google.com/citations?user=5AFfRq4AAAAJ&hl">- Google Scholar link</a>
   </div>
 </div>
 
