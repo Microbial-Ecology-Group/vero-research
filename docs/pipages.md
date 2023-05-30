@@ -3,7 +3,7 @@ template: people.html
 title: Faculty
 ---
 
-# VERO Faculty and Post-Doctoral Researchers
+# <b>VERO Faculty and Post-Doctoral Researchers</b>
 
 
 ### Morley, Paul  {:.invisible-header}
