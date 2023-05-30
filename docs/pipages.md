@@ -2,12 +2,9 @@
 template: people.html
 title: Faculty
 ---
-
 # <b>VERO Faculty and Post-Doctoral Researchers</b>
-
-
 ### Morley, Paul  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1.5fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
        <img src="../../assets/1.Morley.2023.web_small2.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 2px;"/>
   </div>
@@ -20,11 +17,9 @@ title: Faculty
     <a href="https://scholar.google.com/citations?user=T-yNyx0AAAAJ&hl=en">- Google Scholar link</a></p>
    </div>
 </div>
-
 --------
-
 ### Pinnell, Lee  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1.5fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
     <img src="../assets/Pinnell.web2.jpg" alt="Pinell" loading="lazy" width="250" style="margin-right: 2px;"/>
   </div>
@@ -36,11 +31,9 @@ title: Faculty
     <a href="https://scholar.google.com/citations?user=5AFfRq4AAAAJ&hl">- Google Scholar link</a></p>
   </div>
 </div>
-
 --------
-
 ### Scott, Matthew  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1.5fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
     <img src="../assets/Scott.web2.jpg" alt="Scott" loading="lazy" width="250" style="margin-right: 2px;"/>
   </div>
@@ -52,11 +45,9 @@ title: Faculty
     <a href="https://scholar.google.com/citations?user=P2Mfcf8AAAAJ&hl=en&oi=sra">- Google Scholar link</a></p>
   </div>
 </div>
-
 --------
-
 ### Valeris-Chacin, Robert {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1.5fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
     <img src="../assets/Valeris-Chacin.web2.jpg" alt="Valeris" loading="lazy" width="250" style="margin-right: 2px;"/>
   </div>
@@ -68,14 +59,11 @@ title: Faculty
     <a href="https://scholar.google.com/citations?user=5AFfRq4AAAAJ&hl">- Google Scholar link</a>
   </div>
 </div>
-
 --------
-
 ### Doster, Enrique  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1.5fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
     <img src="../../assets/Doster2.web.jpg" alt="Doster" loading="lazy" width="250" style="margin-right: 2px;"/>
-
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Enrique Doster, DVM, PhD</h2>
