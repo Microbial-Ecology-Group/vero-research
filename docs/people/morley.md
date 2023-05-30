@@ -9,7 +9,7 @@
     <h2><b>Paul S. Morley, DVM, PhD, DACVIM (LAIM)</h2></b>
     <h3>-- Professor & Director of Research<br>
         -- Sally Rau McIntosh Endowed Chair </h3>
-    <p><hrc "mailto:pmorley@tamu.edu">pmorley@tamu.edu</p>
+    <p><a href="mailto:pmorley@tamu.edu">- pmorley@tamu.edu</a></p>
   </div>
   </div>
 ----
