@@ -11,14 +11,13 @@ title: People
 
 ### Bechtol, Nerissa  {:.invisible-header}
 
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Bechtol.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
+    <img src="../assets/Bechtol.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Nerissa Bechtol</h2>
     <h3>Research Assistant</h3>
-    <h4>Advisor: Dr. Morley</h4>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Nerissa Bechtol received her BSc. from the University of Amsterdam in 2020. She began working at the VERO Research Lab in 2022. Prior to working in the lab she worked on a research feedlot in Canyon, TX, and as a veterinary technician in Santa Fe, NM. She will be attending Texas A&M School of Veterinary Medicine Class of 2027. Her areas of interest include production animal health and internal medicine. Outside of work, Nerissa enjoys spending time with her horse, Daisy and three-legged cat, Troubadour.</p>
@@ -32,9 +31,9 @@ title: People
 -------- 
 
 ### Burke, Dana  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Burk.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
+    <img src="../assets/Burk.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Dana Burke</h2>
@@ -49,9 +48,9 @@ title: People
 --------
 
 ### Chung, Max  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Chung.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
+    <img src="../assets/Chung.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Max Chung</h2>
@@ -68,9 +67,9 @@ title: People
 --------
 
 ### Hawkins, Jaye  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Hawkins.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
+    <img src="../assets/Hawkins.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Jaye Hawkins</h2>
@@ -84,9 +83,9 @@ title: People
 --------
 
 ### Huff, Rachel  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Huff.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
+    <img src="../assets/Huff.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Rachel Huff</h2>
@@ -100,9 +99,9 @@ title: People
 --------
 
 ### Lamsal, Kushal  (Sal) {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Sal.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
+    <img src="../assets/Sal.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Kushal Lamsal (Sal)</h2>
@@ -116,9 +115,9 @@ title: People
 --------
 
 ### McAllister, Hudson  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/McAllister.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
+    <img src="../assets/McAllister.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Hudson McAllister, MS</h2>
@@ -134,14 +133,14 @@ title: People
 --------
 
 ### McClurg, Molly  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/McClurg.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
+    <img src="../assets/McClurg.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Molly McClurg</h2>
     <h3>PhD Student</h3>
-    <h4>Advisor: Dr. Morley</h4>
+    <h4>Advisor: Dr. Morley and Dr. Norman</h4>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Molly received her undergraduate and MS degree from Texas A&M University-Kingsville in Biological Sciences. Her research focus was the microbiome of wild-caught rodents and raccoons, with an interest in GI tract variability, pathogens, and antibiotic resistance. Her doctoral research theme focuses on characterizing the microbiome and resistome of feedlot cattle, beef products, and human consumers of beef products.</p>
@@ -152,9 +151,9 @@ title: People
 --------
 
 ### Panaretos, Chris  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Panaretos.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
+    <img src="../assets/Panaretos.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Chris Panaretos</h2>
@@ -169,9 +168,9 @@ title: People
 --------
 
 ### Prosser, Haleigh  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Prosser.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
+    <img src="../assets/Prosser.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Haleigh Prosser</h2>
@@ -186,9 +185,9 @@ title: People
 --------
 
 ### Ramirez, Bradly  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Ramirez.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
+    <img src="../assets/Ramirez.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Bradly Ramirez</h2>
@@ -205,13 +204,13 @@ title: People
 --------
 
 ### Reyes, Ember  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Reyes.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
+    <img src="../assets/Reyes.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Ember Reyes</h2>
-    <h3>Research Assistant</h3>
+    <h3>Student Research Assistant</h3>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Ember is an undergraduate student at West Texas A&M University, earning her Bachelor's of Science in Animal Science with a Pre-Veterinary focus. Her current aim, after completing veterinary school either within the United States or internationally, is to serve as a veterinarian for a guide dog organization. This will allow her to continue executing on her passion for clinical veterinarian practices, training service animals, and conducting research within the fields of canine genetics, breeding and behavior for guide dogs. Ember is currently working as a VERO Research Lab Assistant - Student Worker in the VERO Molecular Biology Lab with a focus on DNA extractions. </p>
@@ -222,9 +221,9 @@ title: People
 --------
 
 ### Tamm, Stephen  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Tamm.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
+    <img src="../assets/Tamm.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Stephen Tamm, MS</h2>
@@ -239,14 +238,14 @@ title: People
 
 --------
 ### Young, James Daniel  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Young.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 20px;"/>
+    <img src="../assets/Young.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>James Daniel Young</h2>
     <h3>PhD Student</h3>
-    <h4>Advisor: Dr. Valeris</h4>
+    <h4>Advisor: Dr. Morley and Dr. Richeson</h4>
     <p><a href="https://www.ncbi.nlm.nih.gov/myncbi/james.young.6/bibliography/public/">PubMed bibliography link</a></p>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
