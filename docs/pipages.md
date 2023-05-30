@@ -13,7 +13,7 @@ title: Faculty
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <a href="../people/morley"><h2>Paul S. Morley, DVM, PhD, DACVIM</h2></a>
-    <h3 style="line-height:10%>-- Professor & Director of Research <br>
+    <h3>-- Professor & Director of Research <br>
     -- Sally Rau McIntosh Endowed Chair </h3>
     <p><a href="mailto:pmorley@tamu.edu">- pmorley@tamu.edu</a><br>
     <a href="https://www.ncbi.nlm.nih.gov/myncbi/14Ikqzq30Nv5a/bibliography/public/">- PubMed bibliography link</a><br>
