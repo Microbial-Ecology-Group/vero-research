@@ -7,9 +7,9 @@ title: Faculty
 
 
 ### Morley, Paul  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 2 px; padding: 2 px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-       <img src="../../assets/1.Morley.2023.web_small.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 20px;"/>
+       <img src="../../assets/1.Morley.2023.web_small.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 2 px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <a href="../people/morley"><h2>Dr. Paul S. Morley</h2></a><br>
