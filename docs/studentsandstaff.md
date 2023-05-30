@@ -41,7 +41,7 @@ title: People
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Max Chung</h2>
-    <h3>-- PhD Student</h3>
+    <h3>-- MS Student, Texas A&M University</h3>
     <h4>-- Advisor: Dr. Scott</h4>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
@@ -98,7 +98,7 @@ title: People
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Hudson McAllister, MS</h2>
-    <h3>-- PhD Student</h3>
+    <h3>-- PhD Student, Texas A&M University</h3>
     <h4>-- Advisor: Dr. Scott</h4>
     <p>hmcallister15@tamu.edu</p>
   </div>
@@ -114,12 +114,27 @@ title: People
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Molly McClurg</h2>
-    <h3>-- PhD Student</h3>
+    <h3>-- PhD Student, Texas A&M University</h3>
     <h4>-- Advisors: Dr. Morley and Dr. Norman</h4>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Molly received her undergraduate and MS degree from Texas A&M University-Kingsville in Biological Sciences. Her research focus was the microbiome of wild-caught rodents and raccoons, with an interest in GI tract variability, pathogens, and antibiotic resistance. Her doctoral research theme focuses on characterizing the microbiome and resistome of feedlot cattle, beef products, and human consumers of beef products.</p>
     <p><a href="https://www.ncbi.nlm.nih.gov/myncbi/1TWy6qemt87sOY/bibliography/public/">PubMed bibliography link</a></p>
+  </div>
+</div>
+--------
+### Murphy, Maggie  {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
+    <img src="../assets/Maggie_Muphy.web2.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 1;">
+    <h2>Maggie Murphy</h2>
+    <h3>-- PhD Student, West Texas A&M University</h3>
+    <h4>-- Advisors: Dr. Morley and Dr. Pipkin</h4>
+  </div>
+  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p>Maggie received her undergraduate and MS degree from West Texas A&M University. Her research focus ....</p>
   </div>
 </div>
 --------
@@ -130,7 +145,7 @@ title: People
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Chris Panaretos</h2>
-    <h3>-- PhD Student</h3>
+    <h3>-- PhD Student, Texas A&M University</h3>
     <h4>-- Advisor: Dr. Valeris</h4>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
@@ -145,7 +160,7 @@ title: People
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Haleigh Prosser</h2>
-    <h3>-- PhD candidate</h3>
+    <h3>-- PhD Student, Texas A&M University</h3>
     <h4>-- Advisor: Dr. Scott</h4>
     <p>hmprosser1@buffs.wtamu.edu</p>
   </div>
@@ -161,7 +176,7 @@ title: People
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Bradly Ramirez</h2>
-    <h3>-- PhD Student</h3>
+    <h3>-- PhD Student, Texas A&M University</h3>
     <h4>-- Advisor: Dr. Scott</h4>
     <p>ramirez_b@tamu.edu</p>
   </div>
@@ -206,8 +221,8 @@ title: People
     <img src="../assets/Young.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
-    <h2>James Daniel Young</h2>
-    <h3>-- PhD Student</h3>
+    <h2>James Daniel Young, MS</h2>
+    <h3>-- PhD Student, West Texas A&M University</h3>
     <h4>-- Advisors: Dr. Morley and Dr. Richeson</h4>
     <p><a href="https://www.ncbi.nlm.nih.gov/myncbi/james.young.6/bibliography/public/">PubMed bibliography link</a></p>
   </div>
