@@ -15,7 +15,7 @@ title: Faculty
     <a href="../people/morley"><h2>Dr. Paul S. Morley</h2></a><br>
     <h3>-- Professor & Director of Research <br>
     -- Sally Rau McIntosh Endowed Chair </h3>
-    <p><a href="mailto:pmorley@tamu.edu">pmorley@tamu.edu</a><br>
+    <p><a href="mailto:pmorley@tamu.edu">- pmorley@tamu.edu</a><br>
     <a href="https://www.ncbi.nlm.nih.gov/myncbi/14Ikqzq30Nv5a/bibliography/public/">- PubMed bibliography link</a><br>
     <a href="https://scholar.google.com/citations?user=T-yNyx0AAAAJ&hl=en">- Google Scholar link</a></p>
    </div>
@@ -31,9 +31,9 @@ title: Faculty
   <div style="grid-column: 1; grid-row: 1;">
     <a href="../people/pinnell"><h2>Dr. Lee J. Pinnell</h2></a>
     <h3>Research Assistant Professor of Microbial Ecology </h3>
-    <p>ljpinnell@tamu.edu</p>
-    <p><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Valeris-Chacin+R&cauthor_id=33164808">PubMed bibliography link</a></p>
-    <p><a href="https://scholar.google.com/citations?user=5AFfRq4AAAAJ&hl">Google Scholar link</a></p>
+    <p><a href="mailto:ljpinnell@tamu.edu">- ljpinnell@tamu.edu<br>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Valeris-Chacin+R&cauthor_id=33164808">- PubMed Bibliography link</a><br>
+    <a href="https://scholar.google.com/citations?user=5AFfRq4AAAAJ&hl">Google Scholar link</a></p>
   </div>
 </div>
 
@@ -47,9 +47,9 @@ title: Faculty
   <div style="grid-column: 1; grid-row: 1;">
     <a href="../people/scott"><h2>Dr. Matthew A. Scott</h2></a>
     <h3> Assistant Professor of Microbial Ecology & Infectious Disease (VLCS – VERO)</h3>
-    <p>mascott@tamu.edu</p>
-    <p><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Scott+MA&cauthor_id=31929561">PubMed bibliography link</a></p>
-    <p><a href="https://scholar.google.com/citations?user=P2Mfcf8AAAAJ&hl=en&oi=sra">Google Scholar link</a></p>
+    <p><a href="mailto:mascott@tamu.edu">- mascott@tamu.edu<br>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Scott+MA&cauthor_id=31929561">- PubMed Bibliography link</a><br>
+    <a href="https://scholar.google.com/citations?user=P2Mfcf8AAAAJ&hl=en&oi=sra">- Google Scholar link</a></p>
   </div>
 </div>
 
@@ -63,7 +63,7 @@ title: Faculty
   <div style="grid-column: 1; grid-row: 1;">
     <a href="../people/valeris"><h2>Dr. Robert Valeris-Chacin</h2></a>
     <h3>Assistant Professor in Food Animal Epidemiology at Texas A&M University</h3>
-    <p>robertv@tamu.edu</p>
+    <p><a href="mailto:robertv@tamu.edu">- robertv@tamu.edu</p>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
   </div>
@@ -81,8 +81,8 @@ title: Faculty
     <h2>Enrique Doster</h2>
     <h3>Postdoctoral research associate</h3>
     <h4>Advisor: Dr. Morley</h4>
-    <p>enriquedoster@tamu.edu</p>
-    <p><a href="https://www.ncbi.nlm.nih.gov/myncbi/enrique.doster.1/bibliography/public/">PubMed bibliography link</a></p>
+    <p><a href="mailto:enriquedoster@tamu.edu">- enriquedoster@tamu.edu<br>
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/enrique.doster.1/bibliography/public/">PubMed bibliography link</a><br>
     <p><a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=DRqM0WoAAAAJ&gmla=AHoSzlU0OTbYVbdQd7AI9w-y74tNnZLbwxJa_t568iQy6zu8FvFBWpDbaKNzlsIe_OVAyuGjodfbfVb3jin-UvCr0NqyLiRn5ns-V1Kmh18pQg">Google Scholar link</a></p>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
