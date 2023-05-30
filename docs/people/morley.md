@@ -1,4 +1,4 @@
-# Paul S. Morley
+# Dr. Paul Morley
 
 <div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
@@ -6,10 +6,10 @@
        <img src="../../assets/1.Morley.2023.web_small.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 20px;"/>
   </div>
   <div style="grid-column: 2; grid-row: 1; text-align: center;">
-    <h2>Dr. Paul Morley</h2>
+    <h2><b>Paul S. Morley, DVM, PhD, DACVIM (LAIM)</h2></b>
     <h3>-- Professor & Director of Research<br>
         -- Sally Rau McIntosh Endowed Chair </h3>
-    <p>pmorley@tamu.edu</p>
+    <p><hrc "mailto:pmorley@tamu.edu">pmorley@tamu.edu</p>
   </div>
   </div>
 ----
