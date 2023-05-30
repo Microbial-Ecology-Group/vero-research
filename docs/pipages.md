@@ -13,11 +13,11 @@ title: Faculty
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <a href="../people/morley"><h2>Dr. Paul S. Morley</h2></a>
-    <h3>Professor & Director of Research <br><br>
-    Sally Rau McIntosh Endowed Chair </h3>
-    <p>pmorley@tamu.edu<br>
-    <a href="https://www.ncbi.nlm.nih.gov/myncbi/14Ikqzq30Nv5a/bibliography/public/">PubMed bibliography link</a><br>
-    <a href="https://scholar.google.com/citations?user=T-yNyx0AAAAJ&hl=en">Google Scholar link</a></p>
+    <h3>-- Professor & Director of Research <br>
+    -- Sally Rau McIntosh Endowed Chair </h3>
+    <p><a href="mailto:pmorley@tamu.edu">pmorley@tamu.edu</a><br>
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/14Ikqzq30Nv5a/bibliography/public/">- PubMed bibliography link</a><br>
+    <a href="https://scholar.google.com/citations?user=T-yNyx0AAAAJ&hl=en">- Google Scholar link</a></p>
    </div>
 </div>
 
