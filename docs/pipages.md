@@ -7,7 +7,7 @@ title: Faculty
 
 
 ### Morley, Paul  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 10px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
        <img src="../../assets/1.Morley.2023.web_small.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 2px;"/>
   </div>
@@ -24,7 +24,7 @@ title: Faculty
 --------
 
 ### Pinnell, Lee  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 10px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
     <img src="../assets/Pinnell.web.jpg" alt="Pinell" loading="lazy" width="250" style="margin-right: 20px;"/>
   </div>
@@ -33,7 +33,7 @@ title: Faculty
     <h3>Research Assistant Professor of Microbial Ecology </h3>
     <p><a href="mailto:ljpinnell@tamu.edu">- ljpinnell@tamu.edu<br>
     <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Valeris-Chacin+R&cauthor_id=33164808">- PubMed Bibliography link</a><br>
-    <a href="https://scholar.google.com/citations?user=5AFfRq4AAAAJ&hl">Google Scholar link</a></p>
+    <a href="https://scholar.google.com/citations?user=5AFfRq4AAAAJ&hl">- Google Scholar link</a></p>
   </div>
 </div>
 
@@ -83,7 +83,7 @@ title: Faculty
     <h4>Advisor: Dr. Morley</h4>
     <p><a href="mailto:enriquedoster@tamu.edu">- enriquedoster@tamu.edu<br>
     <a href="https://www.ncbi.nlm.nih.gov/myncbi/enrique.doster.1/bibliography/public/">- PubMed bibliography link</a><br>
-    <p><a href="https://scholar.google.com/citations?user=DRqM0WoAAAAJ&hl=en&oi=ao">- Google Scholar link</a></p>
+    <a href="https://scholar.google.com/citations?user=DRqM0WoAAAAJ&hl=en&oi=ao">- Google Scholar link</a></p>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>
