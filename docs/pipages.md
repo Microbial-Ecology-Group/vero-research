@@ -9,7 +9,7 @@ title: Faculty
 ### Morley, Paul  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 1.5fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-       <img src="../../assets/1.Morley.2023.web_small.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 2px;"/>
+       <img src="../../assets/1.Morley.2023.web_small2.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <a href="../people/morley"><h2>Paul S. Morley, DVM, PhD, DACVIM</h2></a>
@@ -26,7 +26,7 @@ title: Faculty
 ### Pinnell, Lee  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 1.5fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Pinnell.web.jpg" alt="Pinell" loading="lazy" width="250" style="margin-right: 2px;"/>
+    <img src="../assets/Pinnell.web2.jpg" alt="Pinell" loading="lazy" width="250" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <a href="../people/pinnell"><h2>Lee J. Pinnell, MS, PhD</h2></a>
@@ -42,7 +42,7 @@ title: Faculty
 ### Scott, Matthew  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 1.5fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Scott.web.jpg" alt="Scott" loading="lazy" width="250" style="margin-right: 2px;"/>
+    <img src="../assets/Scott.web2.jpg" alt="Scott" loading="lazy" width="250" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <a href="../people/scott"><h2>Matthew A. Scott, DVM, PhD</h2></a>
@@ -58,7 +58,7 @@ title: Faculty
 ### Valeris-Chacin, Robert {:.invisible-header}
 <div style="display: grid; grid-template-columns: 1.5fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Valeris-Chacin.web.jpg" alt="Valeris" loading="lazy" width="250" style="margin-right: 2px;"/>
+    <img src="../assets/Valeris-Chacin.web2.jpg" alt="Valeris" loading="lazy" width="250" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <a href="../people/valeris"><h2>Robert Valeris-Chacin, DVM, MS, PhD</h2></a>
