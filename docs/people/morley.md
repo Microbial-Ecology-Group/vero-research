@@ -30,9 +30,12 @@ Dr. Paul Morley has served as a Professor and the Director of Research at VERO S
 * Using molecular biology and analytical epidemiology to improve our understanding of diseases in animals and people
 * Improving infection control and biosecurity to manage health risks that are important in veterinary medicine, agriculture, and public health
 ### RESEARCH TOPICS
-* Antimicrobial resistance
 * Microbial ecology relating to health and disease
 * Epidemiology
+* Antimicrobial resistance
+* Bovine Respiratory Disease
+* Liver Abscesses in Cattle
+* Ecology and control of <i>Salmonella</i>
 * Disease pathogenesis
 * Infection control
 * Biosecurity
