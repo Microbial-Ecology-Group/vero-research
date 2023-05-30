@@ -7,12 +7,12 @@ title: Faculty
 
 
 ### Morley, Paul  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 2 px; padding: 2 px;">
+<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-       <img src="../../assets/1.Morley.2023.web_small.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 2 px;"/>
+       <img src="../../assets/1.Morley.2023.web_small.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
-    <a href="../people/morley"><h2>Dr. Paul S. Morley</h2></a><br>
+    <a href="../people/morley"><h2>Dr. Paul S. Morley</h2></a>
     <h3>-- Professor & Director of Research <br>
     -- Sally Rau McIntosh Endowed Chair </h3>
     <p><a href="mailto:pmorley@tamu.edu">- pmorley@tamu.edu</a><br>
@@ -82,8 +82,8 @@ title: Faculty
     <h3>Postdoctoral research associate</h3>
     <h4>Advisor: Dr. Morley</h4>
     <p><a href="mailto:enriquedoster@tamu.edu">- enriquedoster@tamu.edu<br>
-    <a href="https://www.ncbi.nlm.nih.gov/myncbi/enrique.doster.1/bibliography/public/">PubMed bibliography link</a><br>
-    <p><a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=DRqM0WoAAAAJ&gmla=AHoSzlU0OTbYVbdQd7AI9w-y74tNnZLbwxJa_t568iQy6zu8FvFBWpDbaKNzlsIe_OVAyuGjodfbfVb3jin-UvCr0NqyLiRn5ns-V1Kmh18pQg">Google Scholar link</a></p>
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/enrique.doster.1/bibliography/public/">- PubMed bibliography link</a><br>
+    <p><a href="https://scholar.google.com/citations?user=DRqM0WoAAAAJ&hl=en&oi=ao">- Google Scholar link</a></p>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>
