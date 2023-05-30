@@ -7,7 +7,7 @@ title: Faculty
 
 
 ### Morley, Paul  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: 2fr 1fr ; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
        <img src="../../assets/1.Morley.2023.web_small.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 2px;"/>
   </div>
