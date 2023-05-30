@@ -16,7 +16,7 @@ title: Faculty
     <h3>-- Professor & Director of Research <br>
     -- Sally Rau McIntosh Endowed Chair </h3>
     <p><a href="mailto:pmorley@tamu.edu">- pmorley@tamu.edu</a><br>
-    <a href="https://www.ncbi.nlm.nih.gov/myncbi/14Ikqzq30Nv5a/bibliography/public/">- PubMed bibliography link</a><br>
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/14Ikqzq30Nv5a/bibliography/public/">- PubMed Bibliography link</a><br>
     <a href="https://scholar.google.com/citations?user=T-yNyx0AAAAJ&hl=en">- Google Scholar link</a></p>
    </div>
 </div>
