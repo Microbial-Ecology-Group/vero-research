@@ -80,7 +80,6 @@ title: Faculty
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Enrique Doster, DVM, PhD</h2>
     <h3>Postdoctoral Research Associate</h3>
-    <h4>Advisor: Dr. Morley</h4>
     <p><a href="mailto:enriquedoster@tamu.edu">- enriquedoster@tamu.edu<br>
     <a href="https://www.ncbi.nlm.nih.gov/myncbi/enrique.doster.1/bibliography/public/">- PubMed bibliography link</a><br>
     <a href="https://scholar.google.com/citations?user=DRqM0WoAAAAJ&hl=en&oi=ao">- Google Scholar link</a></p>
