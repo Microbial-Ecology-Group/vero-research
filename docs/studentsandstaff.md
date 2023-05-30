@@ -77,13 +77,13 @@ title: People
   </div>
 </div>
 --------
-### Lamsal, Kushal  (Sal) {:.invisible-header}
+### Lamsal, Kushal (Sal) {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
     <img src="../assets/Sal.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
-    <h2>Kushal Lamsal (Sal)</h2>
+    <h2>Kushal (Sal) Lamsal</h2>
     <h3>-- Research Assistant</h3>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
@@ -115,7 +115,7 @@ title: People
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Molly McClurg</h2>
     <h3>-- PhD Student</h3>
-    <h4>-- Advisor: Dr. Morley and Dr. Norman</h4>
+    <h4>-- Advisors: Dr. Morley and Dr. Norman</h4>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Molly received her undergraduate and MS degree from Texas A&M University-Kingsville in Biological Sciences. Her research focus was the microbiome of wild-caught rodents and raccoons, with an interest in GI tract variability, pathogens, and antibiotic resistance. Her doctoral research theme focuses on characterizing the microbiome and resistome of feedlot cattle, beef products, and human consumers of beef products.</p>
@@ -176,7 +176,7 @@ title: People
     <img src="../assets/Reyes.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
-    <h2>-- Ember Reyes</h2>
+    <h2>Ember Reyes</h2>
     <h3>-- Student Research Assistant</h3>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
@@ -208,7 +208,7 @@ title: People
   <div style="grid-column: 1; grid-row: 1;">
     <h2>James Daniel Young</h2>
     <h3>-- PhD Student</h3>
-    <h4>-- Advisor: Dr. Morley and Dr. Richeson</h4>
+    <h4>-- Advisors: Dr. Morley and Dr. Richeson</h4>
     <p><a href="https://www.ncbi.nlm.nih.gov/myncbi/james.young.6/bibliography/public/">PubMed bibliography link</a></p>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
