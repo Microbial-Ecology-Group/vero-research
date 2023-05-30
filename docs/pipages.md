@@ -24,7 +24,7 @@ title: Faculty
 --------
 
 ### Pinnell, Lee  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 1.5fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 10px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
     <img src="../assets/Pinnell.web.jpg" alt="Pinell" loading="lazy" width="250" style="margin-right: 20px;"/>
   </div>
@@ -40,7 +40,7 @@ title: Faculty
 --------
 
 ### Scott, Matthew  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 1.5fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 10px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
     <img src="../assets/Scott.web.jpg" alt="Scott" loading="lazy" width="250" style="margin-right: 20px;"/>
   </div>
@@ -56,7 +56,7 @@ title: Faculty
 --------
 
 ### Valeris-Chacin, Robert {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 1.5fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 10px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
     <img src="../assets/Valeris-Chacin.web.jpg" alt="Valeris" loading="lazy" width="250" style="margin-right: 20px;"/>
   </div>
@@ -72,7 +72,7 @@ title: Faculty
 --------
 
 ### Doster, Enrique  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+<div style="display: grid; grid-template-columns: 1.5fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 10px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
     <img src="../../assets/Doster2.web.jpg" alt="Doster" loading="lazy" width="250" style="margin-right: 20px;"/>
 
