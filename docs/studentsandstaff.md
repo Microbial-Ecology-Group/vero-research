@@ -42,7 +42,7 @@ title: People
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Max Chung</h2>
     <h3>-- MS Student, Texas A&M University</h3>
-    <h4>-- Advisor: Dr. Scott</h4>
+    <h4>-- Advisor: Dr. Matthew Scott</h4>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Max received his BS in Biology from the University of Wisconsin - Green Bay in 2021. He joined Dr. Valeris’s lab in 2022 and is currently a Masters - Thesis student in the Biomedical Sciences (BIMS) program. Max’s research focuses on identifying virulence factors and antimicrobial resistance genes in Salmonella isolates from beef cattle in the Texas panhandle. By comparing the distribution of these pathogenicity-relevant genes among isolates, Max will advance the current knowledge on Salmonella ecology in cattle and significantly improve industry understanding of Salmonella capabilities to cause harm.</p>
@@ -99,7 +99,7 @@ title: People
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Hudson McAllister, MS</h2>
     <h3>-- PhD Student, Texas A&M University</h3>
-    <h4>-- Advisor: Dr. Scott</h4>
+    <h4>-- Advisor: Dr. Matthew Scott</h4>
     <p>hmcallister15@tamu.edu</p>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
@@ -115,7 +115,7 @@ title: People
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Molly McClurg</h2>
     <h3>-- PhD Student, Texas A&M University</h3>
-    <h4>-- Advisors: Dr. Morley and Dr. Norman</h4>
+    <h4>-- Advisors: Dr. Paul Morley and Dr. Keri Norman</h4>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Molly received her undergraduate and MS degree from Texas A&M University-Kingsville in Biological Sciences. Her research focus was the microbiome of wild-caught rodents and raccoons, with an interest in GI tract variability, pathogens, and antibiotic resistance. Her doctoral research theme focuses on characterizing the microbiome and resistome of feedlot cattle, beef products, and human consumers of beef products.</p>
@@ -131,7 +131,7 @@ title: People
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Maggie Murphy</h2>
     <h3>-- PhD Student, West Texas A&M University</h3>
-    <h4>-- Advisors: Dr. Morley and Dr. Pipkin</h4>
+    <h4>-- Advisors: Dr. Paul Morley and Dr. John Pipkin</h4>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Maggie received her undergraduate and MS degree from West Texas A&M University. Her research focus ....</p>
@@ -146,7 +146,7 @@ title: People
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Chris Panaretos</h2>
     <h3>-- PhD Student, Texas A&M University</h3>
-    <h4>-- Advisor: Dr. Valeris</h4>
+    <h4>-- Advisor: Dr. Robert Valeris-Chacin</h4>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Chris is a cell biologist who is learning more about the use of computers to analyze biological data, i.e. bioinformatics. He is using bioinformatics tools to identify individual Mycoplasma bovis strains from cattle respiratory swab samples.</p>
@@ -161,7 +161,7 @@ title: People
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Haleigh Prosser</h2>
     <h3>-- PhD Student, Texas A&M University</h3>
-    <h4>-- Advisor: Dr. Scott</h4>
+    <h4>-- Advisor: Dr. Matthew Scott</h4>
     <p>hmprosser1@buffs.wtamu.edu</p>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
@@ -177,7 +177,7 @@ title: People
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Bradly Ramirez</h2>
     <h3>-- PhD Student, Texas A&M University</h3>
-    <h4>-- Advisor: Dr. Scott</h4>
+    <h4>-- Advisor: Dr. Matthew Scott</h4>
     <p>ramirez_b@tamu.edu</p>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
@@ -207,7 +207,7 @@ title: People
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Stephen Tamm, MS</h2>
     <h3>-- PhD Student</h3>
-    <h4>-- Advisor: Dr. Morley</h4>
+    <h4>-- Advisor: Dr. Paul Morley</h4>
     <p><a href="https://www.ncbi.nlm.nih.gov/myncbi/1jmFD_nAPdeE_a/bibliography/public/">PubMed bibliography link</a></p>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
@@ -223,7 +223,7 @@ title: People
   <div style="grid-column: 1; grid-row: 1;">
     <h2>James Daniel Young, MS</h2>
     <h3>-- PhD Student, West Texas A&M University</h3>
-    <h4>-- Advisors: Dr. Morley and Dr. Richeson</h4>
+    <h4>-- Advisors: Dr. Paul Morley and Dr. John Richeson</h4>
     <p><a href="https://www.ncbi.nlm.nih.gov/myncbi/james.young.6/bibliography/public/">PubMed bibliography link</a></p>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
