@@ -42,7 +42,7 @@ title: People
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Max Chung</h2>
     <h3>-- MS Student, Texas A&M University</h3>
-    <h4>-- Advisor: Dr. Matthew Scott</h4>
+    <h4>-- Advisor: Dr. Robert Valeris-Chacin</h4>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Max received his BS in Biology from the University of Wisconsin - Green Bay in 2021. He joined Dr. Valeris’s lab in 2022 and is currently a Masters - Thesis student in the Biomedical Sciences (BIMS) program. Max’s research focuses on identifying virulence factors and antimicrobial resistance genes in Salmonella isolates from beef cattle in the Texas panhandle. By comparing the distribution of these pathogenicity-relevant genes among isolates, Max will advance the current knowledge on Salmonella ecology in cattle and significantly improve industry understanding of Salmonella capabilities to cause harm.</p>
