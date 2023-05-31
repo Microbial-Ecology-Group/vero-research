@@ -5,10 +5,10 @@ title: People
 
 # People
 
-## [Faculty and postdoctoral researchers](pipages.md)
+## [Faculty and Postdoctoral Researchers](pipages.md)
 
 ## [Students and Staff](studentsandstaff.md)
 
-## VERO collaborators
+## VERO Collaborators
 
-## [Former castmembers](formercastmembers.md)
+## [Former Cast Members](formercastmembers.md)
