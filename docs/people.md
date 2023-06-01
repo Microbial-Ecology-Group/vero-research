@@ -13,6 +13,6 @@ title: People
 
 ## [Former Cast Members](formercastmembers.md)
 <br><br>
-       <img src="../../assets/VEROResearchTeam.19APR2023.web.jpg" alt="VERO_Group" loading="lazy" width="600" style="margin-right: 20px;"/>
+       <img src="../../assets/VEROResearchTeam.19APR2023.web.jpg" alt="VERO_Group" loading="lazy" width="1000" style="margin-right: 20px;"/>
             
             
