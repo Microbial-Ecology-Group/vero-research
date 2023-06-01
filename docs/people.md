@@ -12,3 +12,7 @@ title: People
 ## VERO Collaborators
 
 ## [Former Cast Members](formercastmembers.md)
+<br><br>
+       <img src="../../assets/VEROResearchTeam.19APR2023.web.jpg" alt="VERO_Group" loading="lazy" width="600" style="margin-right: 20px;"
+            
+            
