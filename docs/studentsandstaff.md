@@ -140,7 +140,7 @@ title: People
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Molly received her undergraduate and MS degree from Texas A&M University-Kingsville in Biological Sciences. Her research focus was the microbiome of wild-caught rodents and raccoons, with an interest in GI tract variability, pathogens, and antibiotic resistance. Her doctoral research theme focuses on characterizing the microbiome and resistome of feedlot cattle, beef products, and human consumers of beef products.</p>
-    <p><a href="https://www.ncbi.nlm.nih.gov/myncbi/1TWy6qemt87sOY/bibliography/public/">PubMed bibliography link</a></p>
+    <p>-- <a href="https://www.ncbi.nlm.nih.gov/myncbi/1TWy6qemt87sOY/bibliography/public/">PubMed bibliography link</a></p>
   </div>
 </div>
 --------
@@ -231,7 +231,7 @@ title: People
     <h3>-- PhD Student<br>
     -- Advisor: Dr. Paul Morley</h3>
     <p>-- sctamm@tamu.edu<br>
-    <a href="https://www.ncbi.nlm.nih.gov/myncbi/1jmFD_nAPdeE_a/bibliography/public/">-- PubMed bibliography link</a><br>
+    -- <a href="https://www.ncbi.nlm.nih.gov/myncbi/1jmFD_nAPdeE_a/bibliography/public/">PubMed bibliography link</a><br>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Stephen completed undergraduate studies in animal science at West Texas A&M University in 2012 and immediately began work in animal nutrition and feedlot services throughout Texas, New Mexico, Kansas, and Oklahoma.  He later relocated to Idaho to expand his education and received his MS from the University of Idaho in 2018.  His research at UI was focused on cell signaling and bovine skeletal muscle satellite cell behavior.  Stephen also held a teaching assistantship and advised pre-veterinary undergraduate students while at UI.  His current interests include physiological mechanisms in agricultural production systems, microbiome dynamics and anatomical axes, and epidemiological perspectives on sustainable agriculture.  He joined #TeamVERO in 2022 and is conducting doctoral research focused on pathogen monitoring in beef production systems, microbial predictors of animal health, and antimicrobial resistance dynamics in large animals.</p>
@@ -244,10 +244,10 @@ title: People
     <img src="../assets/Cory_Wolfe_Web.small.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
-    <h2>Cory Wolf</h2>
+    <h2>Cory Wolfe</h2>
     <h3>-- Research Associate and VERO Laboratory Manager<br></h3>
-    <p>-- cawolfe@tamu.edubr>
-    <a href="https://veroresearch.org">-- PubMed bibliography link</a><br>
+    <p>-- cawolfe@tamu.edu<br>
+    -- <a href="https://veroresearch.org">PubMed bibliography link</a><br>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Cory is a molecular biologist that oversees and manages activities in the VERO Research Laboratory.</p>
@@ -264,7 +264,7 @@ title: People
     <h3>-- PhD Student, West Texas A&M University<br>
     -- Advisors: Dr. Paul Morley and Dr. John Richeson</h3>
     <p>-- jdyoung3@buffs.wtamu.edu<br>
-    <a href="https://www.ncbi.nlm.nih.gov/myncbi/james.young.6/bibliography/public/">-- PubMed bibliography link</a></p>
+    -- <a href="https://www.ncbi.nlm.nih.gov/myncbi/james.young.6/bibliography/public/">PubMed bibliography link</a></p>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Daniel received his MS degree from Texas Tech University in 2022, where he studied beef cattle nutrition. Daniel’s doctoral research is focused on gastrointestinal health of feedlot cattle. More specifically his research focuses on the interaction between the animal and gut microbiota. Daniel’s work aims to connect gastrointestinal health to complex diseases like liver abscesses, to better understand the pathogenesis and mitigation strategies of these diseases.</p>
