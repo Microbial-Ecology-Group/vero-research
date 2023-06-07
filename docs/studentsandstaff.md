@@ -3,10 +3,9 @@ template: people.html
 title: People
 ---
 # <b>Students and Staff</b>
-## In alphabetical order:
+## (alphabetical order)
 --------
 ### Bechtol, Nerissa  {:.invisible-header}
-
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
     <img src="../assets/Bechtol.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
@@ -49,6 +48,22 @@ title: People
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Max received his BS in Biology from the University of Wisconsin - Green Bay in 2021. He joined Dr. Valeris’s lab in 2022 and is currently a Masters - Thesis student in the Biomedical Sciences (BIMS) program. Max’s research focuses on identifying virulence factors and antimicrobial resistance genes in Salmonella isolates from beef cattle in the Texas panhandle. By comparing the distribution of these pathogenicity-relevant genes among isolates, Max will advance the current knowledge on Salmonella ecology in cattle and significantly improve industry understanding of Salmonella capabilities to cause harm.</p>
+  </div>
+</div>
+--------
+### Dudley, Ethan  {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
+    <img src="../assets/Dudley_web.small.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 1;">
+    <h2>Ethan Dudley</h2>
+    <h3>-- MS Student, Texas A&M University<br>
+    -- Advisor: Dr. Robert Valeris-Chacin</h3>
+    <p>-- ethandudley@tamu.edu></p>
+  </div>
+  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p>Ethan Dudley is from Georgia, and is investigating ...</p>
   </div>
 </div>
 --------
@@ -220,6 +235,22 @@ title: People
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Stephen completed undergraduate studies in animal science at West Texas A&M University in 2012 and immediately began work in animal nutrition and feedlot services throughout Texas, New Mexico, Kansas, and Oklahoma.  He later relocated to Idaho to expand his education and received his MS from the University of Idaho in 2018.  His research at UI was focused on cell signaling and bovine skeletal muscle satellite cell behavior.  Stephen also held a teaching assistantship and advised pre-veterinary undergraduate students while at UI.  His current interests include physiological mechanisms in agricultural production systems, microbiome dynamics and anatomical axes, and epidemiological perspectives on sustainable agriculture.  He joined #TeamVERO in 2022 and is conducting doctoral research focused on pathogen monitoring in beef production systems, microbial predictors of animal health, and antimicrobial resistance dynamics in large animals.</p>
+  </div>
+</div>
+--------
+### Wolfe, Cory  {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
+    <img src="../assets/Cory_Wolfe_Web.small.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 1;">
+    <h2>Cory Wolf</h2>
+    <h3>-- Research Associate and VERO Laboratory Manager<br></h3>
+    <p>-- cawolfe@tamu.edubr>
+    <a href="https://veroresearch.org">-- PubMed bibliography link</a><br>
+  </div>
+  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p>Cory is a molecular biologist that oversees and manages activities in the VERO Research Laboratory.</p>
   </div>
 </div>
 --------
