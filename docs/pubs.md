@@ -2,8 +2,8 @@
 template: publications.html
 title: Publications
 ---
-# Publications<br>
-# All Peer-Reviewed Publications from VERO (2019 to Present):
+# <b>Publications<br>
+## All Peer-Reviewed Publications from VERO (2019 to Present):</b>
 
 ## * [Pubmed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/vero.publications.1/bibliography/public/)
 
