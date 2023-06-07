@@ -1,5 +1,5 @@
 ---
-template: people.html
+template: verohome.html
 title: People
 ---
 
