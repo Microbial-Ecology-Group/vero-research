@@ -1,20 +1,18 @@
-<!-- Custom HTML site displayed as the Home chapter -->
-{% extends "main.html" %}
-{% block tabs %}
-{{ super() }}
-
 <!-- Main site Entry button descriptions -->
 <section class="tx-container">
     <div class="md-grid md-typeset">
         <div class="tx-hero">
+            <div class="tx-hero__content">
                 <div class="tx-hero__image">
 	            <img src="../../assets/VERO-ongoing-research-banner-Slide1.jpeg" alt="VERO_CurrentResearch_Banner" draggable="false" style="width: 100%; max-width:"1200px" ;"/>
                 </div>
+            </div>
         </div>
     </div>
 </section>
-{% endblock %}
 
+
+{% block content %}
 <style>
 	.md-main__inner {
 			max-width: 100%;
@@ -25,7 +23,6 @@
 	}
 
 </style>
-
 {% endblock %}
 
 
