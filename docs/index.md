@@ -10,3 +10,5 @@ The [Veterinary Education, Research, & Outreach (VERO) Program](https://vetmed.t
 <br><br>
        <img src="docs/assets/VERObldgFromSW_web_small.jpg" alt="VERO_Building" loading="lazy" width="1500" style="margin-right: 20px;"/>
  
+---
+---
