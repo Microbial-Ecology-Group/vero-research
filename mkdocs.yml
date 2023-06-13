@@ -39,7 +39,7 @@ theme:
       - path: overrides/.icons/vero-logo.svg
         id: vero-logo
   favicon: assets/vero-logo.png #browser tab logo
-  disable_navigation: true # add this line to disable navigation arrows
+  disable_navigation: true # add this line to disable navigation arrows, but doesn't seem to quite work. Still troubleshooting
   material:
     pagination:
       enabled: false
@@ -100,10 +100,11 @@ nav:
       - Students and staff: studentsandstaff.md
       - Former castmembers: formercastmembers.md
       - VERO faculty: pipages.md
-      - Morley lab: people/morley.md
-      - Pinell lab: people/pinnell.md
-      - Scott lab: people/scott.md
-      - Valeris lab: people/valeris.md
+      - Paul Morley: people/morley.md
+      - Lee Pinnell: people/pinnell.md
+      - Mathew Scott: people/scott.md
+      - Robert Valeris-Chacin: people/valeris.md
+      - Enrique Doster: people/doster.md
   - Current Research: research.md
   - Published Research: pubs.md
   - Resources: resources.md
