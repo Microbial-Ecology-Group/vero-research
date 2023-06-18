@@ -1,9 +1,9 @@
 ---
 template: people.html
-title: Former castmembers
+title: Former Team Members
 ---
 
-# Former castmembers
+# Former Team Members
 
 
 ### Bigelow, Rebecca  {:.invisible-header}
@@ -17,7 +17,7 @@ title: Former castmembers
     <p>rabigelow1@buffs.wtamu.edu</p>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Rebecca received her BS in Biomedical Sciences from Texas A&M University. She is currently a MS student in the Department of Agricultural Sciences at West Texas A&M, expecting to graduate in August of 2023. Her research focus is evaluating how various antimicrobials affect the host whole blood transcriptome of commercial feedlot cattle when administered as a metaphylactic treatment for bovine respiratory disease. Following graduation, she plans to pursue her PhD. </p>
+    <p>Rebecca received her BS in Biomedical Sciences from Texas A&M University and her MS degree 2023 from the Department of Agricultural Sciences at West Texas A&M and the VERO Partnership. Her research focused on evaluating effects of various antimicrobials on the whole blood transcriptome of commercial feedlot cattle when administered as a metaphylactic treatment for bovine respiratory disease. Rebecca is currently pursuing her PhD at Kansas State University. </p>
   </div>
 </div>
 
@@ -35,6 +35,6 @@ title: Former castmembers
     <p>mmgreen2@buffs.wtamu.edu</p>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Mollie received her Bachelor of Science degree from West Texas A&M University. She is currently working on her Master of Science in Animal Science at West Texas A&M University. Her graduate research focuses on the overall use of genetic and genomic technologies for beef cattle systems for beef cattle health improvement. As Mollie continues her research in this field, she aims to support industry leaders with information that can be used to improve decision making in areas such as cattle health, production efficiency, and global sustainability.</p>
+    <p>Mollie received her Bachelor of Science degree from West Texas A&M University and her MS degree in 2023 from West Texas A&M University and the VERO Partnership. Her graduate research focuses on the overall use of genetic and genomic technologies for beef cattle systems for beef cattle health improvement. As Mollie continues her research in this field, she aims to support industry leaders with information that can be used to improve decision making in areas such as cattle health, production efficiency, and global sustainability.</p>
   </div>
 </div>
