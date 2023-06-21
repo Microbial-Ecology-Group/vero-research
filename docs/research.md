@@ -3,7 +3,7 @@ template: current_research.html
 ---
 
 #  
-## The VERO Research Team has received more than $10M in research funding since hitting the ground in 2019.<br>Check out some brief updates for our ongoing research:
+## The VERO Research Team has received more than $10M in research funding since hitting the ground in 2019.<br>Here are some brief updates for our ongoing research:
 
 <img src="../../assets/VERO-ongoing-research-banner-Slide1.jpeg" alt="VERO_CurrentResearch_Banner" draggable="false" width="1200" height="700"" ;"/>
 
