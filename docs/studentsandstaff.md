@@ -60,10 +60,10 @@ title: People
     <h2>Ethan Dudley</h2>
     <h3>-- MS Student, Texas A&M University<br>
     -- Advisor: Dr. Robert Valeris-Chacin</h3>
-    <p>-- <a href="mailto:ethandudley@tamu.edu">ethandudley@tamu.edu</a><br>
+    <p>-- <a href="mailto:edudley01@tamu.edu">edudley01@tamu.edu</a><br>
  </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Ethan Dudley is from Georgia, and is investigating ...</p>
+    <p>Ethan was born and raised in Cartersville, Georgia, and earned his B.S. degree in Animal Science from Berry College in Rome, Georgia. He joined the Valeris lab at VERO in 2023 as a M.S. student in the Texas A&M Biomedical Science program. His research will focus on evaluating the distribution of virulence and antimicrobial resistance genes present in Salmonella isolates from Beef and Dairy Cattle in the Texas Panhandle, Colorado, and western New Mexico. Better characterization of Salmonella pathogenesis and epidemiology and its association with illness in cattle will allow the industry to better understand and mitigate the harm caused by Salmonella.</p>
   </div>
 </div>
 --------
