@@ -13,7 +13,7 @@
 </div>
 ---
 ## PUBLICATIONS
-* [PubMed Profile](https://pubmed.ncbi.nlm.nih.gov/?term=Valeris-Chacin+R&cauthor_id=33164808)
+* [All Journal Articles in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Valeris-Chacin+R&cauthor_id=33164808)
 * [GoogleScholar Profile](https://scholar.google.com/citations?user=5AFfRq4AAAAJ&hl)
 ## SHORT BIOGRAPHY
 I am an epidemiologist interested in the use of antibiotic alternatives for the prevention and control of infectious diseases in food animal production systems, such as bovine respiratory disease in beef and dairy cattle.
