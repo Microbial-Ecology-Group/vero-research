@@ -6,7 +6,7 @@
        <img src="../../assets/Scott.web.jpg" alt="Scott" loading="lazy" width="250" style="margin-right: 20px;"/>
  </div>
   <div style="grid-column: 2; grid-row: 1; text-align: center;">
-    <h2><b>Matthew A. Scott, DVM, PhD</h2>
+    <h2><b>Matthew A. Scott, DVM, PhD</h2></b>
     <h3>-- Assistant Professor</h3>
     <p><a href="mailto:matthewscott@tamu.edu"- matthewscott@tamu.edu></p>
   </div>
