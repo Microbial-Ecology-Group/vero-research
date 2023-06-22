@@ -12,7 +12,7 @@
   </div>
 </div>
 ---
-### Publications
+## PUBLICATIONS
 * [PubMed Profile](https://pubmed.ncbi.nlm.nih.gov/?term=Scott+MA&cauthor_id=31929561)
 * [ResearchGate Profile](https://www.researchgate.net/profile/Matthew-Scott-25)
 * [GoogleScholar Profile](https://scholar.google.com/citations?user=P2Mfcf8AAAAJ&hl=en&oi=sra)
@@ -28,7 +28,7 @@ Dr. Matthew Scott is an assistant professor for #TeamVERO through the Department
 * Livestock disease management 
 * Microbial ecology
 * Immunology, infectious diseases, virology
-### RESEARCH TOPICS
+## RESEARCH TOPICS
 * Bovine respiratory disease
 * RNA-Seq
 * Machine learning 
