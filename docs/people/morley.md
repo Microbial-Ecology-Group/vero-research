@@ -20,16 +20,23 @@
 ## SHORT BIOGRAPHY
 Dr. Paul Morley has served as a Professor and the Director of Research at VERO Since 2019.  VERO - the Veterinary Education, Research & Outreach Program -- is an initiative of the Texas A&M University's School of Veterinary Medicine conducted in partnership with West Texas A&M University. He is an epidemiologist, animal scientist, and veterinary internal medicine specialist who studies infectious diseases affecting animals and people. In 2022, he was named the Sally Rau McIntosh Endowed Chair for Strategic Initiatives at Texas A&M University. Major areas of emphasis for his research include antimicrobial resistance in animals and food production systems, disease pathogenesis, and population-based approaches for understanding and manage health risks that are important in veterinary medicine, agriculture, and public health. Previously, Dr. Morley served for 20 years as Professor of Epidemiology and the Director of Infection Control at Colorado State University and the Colorado School of Public Health. He is a recognized authority on infection control in animal populations and has consulted on infection control and biosecurity issues at veterinary hospitals, veterinary colleges, and animal production facilities around the world.    
 ## EDUCATION & TRAINING
-* BS, Animal Sciences, Washington State University, 1986
-* BS, Veterinary Science, Washington State University, 1987
-* DVM, Washington State University, 1989
-* PhD, Veterinary Epidemiology, University of Saskatchewan, 1995
-* Diplomate of the American College of Veterinary Internal Medicine (LAIM), 1997
+* BS, Animal Sciences, Washington State University, 1986.
+* BS, Veterinary Science, Washington State University, 1987.
+* DVM, Washington State University, 1989.
+* PhD, Veterinary Epidemiology, University of Saskatchewan, 1995.
+* Diplomate of the American College of Veterinary Internal Medicine (LAIM), 1997.
+## PROFESSIONAL POSITIONS
+* Professor and Director of Research, VERO Program, Texas A&M University, 2019 - Present.
+* Professor of Epidemiology and Infection Control, Colorado State University, 1998-2019.
+* Professor of Epidemiology, Colorado School of Public Health, 2008-2019.
+* Assistant Professor of Epidemiology, The Ohio State University, 1995-1998.
+* Resident,Large Animal Internal Medicine, University of Saskatchewan, 1990-1995.
+* Intern, Large Animal Internal Medicine, University of Saskatchewan, 1989-1990.
 ## RESEARCH AND SCHOLARLY INTERESTS
 * Investigating the ecology of antimicrobial resistance in animals and food production systems
 * Using molecular biology and analytical epidemiology to improve our understanding of diseases in animals and people
 * Improving infection control and biosecurity to manage health risks that are important in veterinary medicine, agriculture, and public health
-### RESEARCH TOPICS
+## RESEARCH TOPICS
 * Microbial ecology relating to health and disease
 * Epidemiology
 * Antimicrobial resistance
