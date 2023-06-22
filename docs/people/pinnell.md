@@ -12,7 +12,7 @@
   </div>
   </div>
 ----
-### Publications
+## PUBLICATIONS
 * [PubMed Profile](https://pubmed.ncbi.nlm.nih.gov/?term=Pinnell+LJ&cauthor_id=31231339)
 * [ResearchGate Profile](https://www.researchgate.net/profile/Lee-Pinnell)
 * [GoogleScholar Profile](https://scholar.google.ca/citations?user=A5k5M-sAAAAJ&hl=en)
@@ -29,7 +29,7 @@ Dr. Lee Pinnell is a Research Assistant Professor and microbial ecologist with V
 * Ecology of pathogens and antimicrobial resistance in agricultural animals/systems and aquatic environments
 * Impact of anthropogenic stressors on environmental microbial processes
 * Host-microbe relationships in managed/built environments
-### RESEARCH TOPICS
+## RESEARCH TOPICS
 * Agricultural environments
 * Antimicrobial resistance
 * Anthropogenic stressors
