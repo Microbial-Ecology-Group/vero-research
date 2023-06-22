@@ -47,7 +47,7 @@ title: People
     <p>-- <a href="mailto:chunmn26@tamu.edu">chunmn26@tamu.edu</a><br>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Max received his BS in Biology from the University of Wisconsin - Green Bay in 2021. He joined Dr. Valeris’s lab in 2022 and is currently a Masters - Thesis student in the Biomedical Sciences (BIMS) program. Max’s research focuses on identifying virulence factors and antimicrobial resistance genes in Salmonella isolates from beef cattle in the Texas panhandle. By comparing the distribution of these pathogenicity-relevant genes among isolates, Max will advance the current knowledge on Salmonella ecology in cattle and significantly improve industry understanding of Salmonella capabilities to cause harm.</p>
+    <p>Max received his BS in Biology from the University of Wisconsin - Green Bay in 2021. He joined Dr. Valeris’s lab in 2022 and is currently a Masters - Thesis student in the Biomedical Sciences (BIMS) program. Max’s research focuses on identifying virulence factors and antimicrobial resistance genes in <i>Salmonella</i> isolates from beef cattle in the Texas panhandle. By comparing the distribution of these pathogenicity-relevant genes among isolates, Max will advance the current knowledge on Salmonella ecology in cattle and significantly improve industry understanding of <i>Salmonella</i> capabilities to cause harm.</p>
   </div>
 </div>
 --------
@@ -63,7 +63,7 @@ title: People
     <p>-- <a href="mailto:edudley01@tamu.edu">edudley01@tamu.edu</a><br>
  </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Ethan was born and raised in Cartersville, Georgia, and earned his B.S. degree in Animal Science from Berry College in Rome, Georgia. He joined the Valeris lab at VERO in 2023 as a M.S. student in the Texas A&M Biomedical Science program. His research will focus on evaluating the distribution of virulence and antimicrobial resistance genes present in Salmonella isolates from Beef and Dairy Cattle in the Texas Panhandle, Colorado, and western New Mexico. Better characterization of Salmonella pathogenesis and epidemiology and its association with illness in cattle will allow the industry to better understand and mitigate the harm caused by Salmonella.</p>
+    <p>Ethan was born and raised in Cartersville, Georgia, and earned his B.S. degree in Animal Science from Berry College in Rome, Georgia. He joined the Valeris lab at VERO in 2023 as a M.S. student in the Texas A&M Biomedical Science program. His research will focus on evaluating the distribution of virulence and antimicrobial resistance genes present in <i>Salmonella</i> isolates from Beef and Dairy Cattle in the Texas Panhandle, Colorado, and Western New Mexico. Better characterization of <i>Salmonella</i> pathogenesis and epidemiology and its association with illness in cattle will allow the industry to better understand and mitigate the harm caused by Salmonella.</p>
   </div>
 </div>
 --------
