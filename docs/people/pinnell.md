@@ -13,7 +13,7 @@
   </div>
 ----
 ## PUBLICATIONS
-* [PubMed Profile](https://pubmed.ncbi.nlm.nih.gov/?term=Pinnell+LJ&cauthor_id=31231339)
+* [All Journal Articles in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Pinnell+LJ&cauthor_id=31231339)
 * [ResearchGate Profile](https://www.researchgate.net/profile/Lee-Pinnell)
 * [GoogleScholar Profile](https://scholar.google.ca/citations?user=A5k5M-sAAAAJ&hl=en)
 ## SHORT BIOGRAPHY
