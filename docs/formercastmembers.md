@@ -1,9 +1,9 @@
 ---
 template: people.html
-title: Former Team Members
+title: Former VERO Team Members
 ---
 
-# Former Team Members
+# Former VERO Team Members
 
 
 ### Bigelow, Rebecca  {:.invisible-header}
