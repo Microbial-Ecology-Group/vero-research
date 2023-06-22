@@ -26,12 +26,12 @@ Dr. Paul Morley has served as a Professor and the Director of Research at VERO S
 * PhD, Veterinary Epidemiology, University of Saskatchewan, 1995.
 * Diplomate of the American College of Veterinary Internal Medicine (LAIM), 1997.
 ## PROFESSIONAL POSITIONS
-* Professor and Director of Research, VERO Program, Texas A&M University, 2019 - Present.
+* Intern and Resident,Large Animal Internal Medicine, University of Saskatchewan, 1989-1995.
+* Assistant Professor of Epidemiology, The Ohio State University, 1995-1998.
 * Professor of Epidemiology and Infection Control, Colorado State University, 1998-2019.
 * Professor of Epidemiology, Colorado School of Public Health, 2008-2019.
-* Assistant Professor of Epidemiology, The Ohio State University, 1995-1998.
-* Resident,Large Animal Internal Medicine, University of Saskatchewan, 1990-1995.
-* Intern, Large Animal Internal Medicine, University of Saskatchewan, 1989-1990.
+* Professor and Director of Research, VERO Program, Texas A&M University, 2019 - Present.
+* Sally Rau McIntosh Endowed Chair for Strategic Initiatives, Texas A&M University, 2022 - Present.
 ## RESEARCH AND SCHOLARLY INTERESTS
 * Investigating the ecology of antimicrobial resistance in animals and food production systems
 * Using molecular biology and analytical epidemiology to improve our understanding of diseases in animals and people
