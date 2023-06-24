@@ -3,10 +3,6 @@ template: contact.html
 title: Contact
 ---
 
-## About VERO
-
-VERO is the culmination of an idea that began in 2009 as a response to the urgent need to expand the VMBS and address the continual need for well-trained veterinarians skilled in the care of both large and small animals. In the report “Projecting the Need for Veterinary Medical Education in Texas,” the Texas Higher Education Coordinating Board (THECB) stated that while “no new veterinary school is recommended at this time,” the needs of Texas could be met most cost-effectively through an expansion of the VMBS.
-
 ## VERO Norms and Commitments
 
 At VERO, we focus every day on developing our TEAM, and believe that by helping others we can achieve far greater things than if we serve ourselves and our interests first (“help two others before you serve yourselves and you will never lack for anything”). We belong to the VERO Team because we believe in the vision, mission, and values of the group. Accordingly, the products or successes of our efforts belong to the group collectively as much or more than they belong to the individuals. We promise to work diligently to create a culture of abundance within our group. We do not tolerate selfishness, nor an “I-me-mine” approach to our interactions and work. We believe that following these commitments will help us achieve these goals.
