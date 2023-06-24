@@ -272,7 +272,7 @@ title: People
 </div>
 --------
 <br>
-## [Former VERO TEAM Members](formercastmembers.md)
+## [Former VERO TEAM Members](formerteammembers.md)
 <br><br>
 
 

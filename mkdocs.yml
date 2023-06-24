@@ -94,11 +94,12 @@ markdown_extensions:
 # Page Tree
 nav:
   - Home: index.md
-  - Who We Are: whoweare.md
+  - Our Values: ourvalues.md
   - People:
       - People: people.md
       - Students and staff: studentsandstaff.md
-      - Former castmembers: formercastmembers.md
+      - Former team members: formerteammembers.md
+      - Collaborators: collaborators.md
       - VERO faculty: pipages.md
       - Paul Morley: people/morley.md
       - Lee Pinnell: people/pinnell.md
@@ -107,6 +108,7 @@ nav:
       - Enrique Doster: people/doster.md
   - Current Research: research.md
   - Published Research: pubs.md
+  - Available Positions: availablepositions.md
   - Resources: resources.md
   - News: news.md
   - Outreach: outreach.md
