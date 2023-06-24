@@ -3,7 +3,7 @@ template: verohome.html
 title: Home
 ---
 # About VERO Research
-<div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; gap: 10px; padding: 2px;">
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: left;">
 
 The strategic vision of the VERO Research Team is to pursue collaborative research focusing on disease prevention and mitigation, microbial ecology, and prudent use of antimicrobial drugs and alternatives.  We emphasize the use of molecular biology and genomics in the conduct of state-of-the-art, highly-impactful research to improve the sustainability of animal agriculture in order to provide an abundant and healthy food supply. 
