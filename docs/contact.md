@@ -4,7 +4,7 @@ title: Contact
 ---
 #
 
-## Contact VERO
+## <b>Contact VERO</b>
 
 ###<b>VERO – Veterinary Education, Research, & Outreach Program</b>
 
