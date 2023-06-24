@@ -8,16 +8,16 @@ title: Contact
 
 VERO – Veterinary Education, Research, & Outreach Program
 
-VERO Building, WTAMU Campus
-3201 Russell Long Blvd.
-Canyon, TX 79015
+VERO Building, WTAMU Campus<br>
+3201 Russell Long Blvd.<br>
+Canyon, TX 79015<br>
 
-VERO Research Web Site: [https://VEROresearch.org](https://VEROresearch.org)
-VERO Program Web Site: [https://vetmed.tamu.edu/vero/](https://vetmed.tamu.edu/vero/)
+*VERO Research Web Site: [https://VEROresearch.org](https://VEROresearch.org)<br>
+*VERO Program Web Site: [https://vetmed.tamu.edu/vero/](https://vetmed.tamu.edu/vero/)<br>
 
-Administrative Coordinator: Jaye Hawkins | +1.806.651.2292 | [mailto:jehawkins@tamu.edu](jehawkins@tamu.edu)
-Laboratory Manager: Cory Wolfe | [mailto:cawolfe@tamu.edu](cawolfe@tamu.edu)
-Director of Research: Dr. Paul Morley | +1.806.651.3572 | [mailto:pmorley@tamu.edu](pmorley@tamu.edu)
-Associate Dean for VERO Campus: Dr. Susan Eades | [mailto:seades@tamu.edu](seades@tamu.edu)
+*<b>Administrative Coordinator: Jaye Hawkins</b> | +1.806.651.2292 | [jehawkins@tamu.edu](mailto:jehawkins@tamu.edu)<br>
+*<b>Laboratory Manager: Cory Wolfe</b> | [cawolfe@tamu.edu](mailto:cawolfe@tamu.edu)<br>
+*<b>Director of Research: Dr. Paul Morley</b> | +1.806.651.3572 | [pmorley@tamu.edu](mailto:pmorley@tamu.edu)<br>
+*<b>Associate Dean for VERO Campus: Dr. Susan Eades</b> | [seades@tamu.edu](mailto:seades@tamu.edu)<br>
 
 Follow #TeamVERO at the [Texas A&M - VMBS - VERO Progarm Facebook page](https://www.facebook.com/tamuvetmedVERO/)
