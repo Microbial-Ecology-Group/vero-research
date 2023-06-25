@@ -6,7 +6,7 @@ title: VERO Collaborators
 ## (alphabetical order)
 --------
 ### Ty E. Lawrence {:.invisible-header}
-<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+<div style="display: grid; grid-template-columns: 2fr 3fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
   <img src="../assets/tlawrence.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   <h2><b>Ty E. Lawrence, MS, PhD</b></h2>
