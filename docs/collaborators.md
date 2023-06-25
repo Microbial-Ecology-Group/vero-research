@@ -30,6 +30,7 @@ title: VERO Collaborators
     <p>-- <a href=""></a><br><br>
     <p></p>
     </div>
+</div>
 --------
 ### Noelle R. Noyes {:.invisible-header}
 --------
