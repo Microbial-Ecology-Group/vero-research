@@ -5,7 +5,7 @@ title: VERO Collaborators
 # <b>VERO Collaborators</b>
 ## (alphabetical order)
 --------
-### Dr. Ty Lawrence {:.invisible-header}
+### Ty E. Lawrence {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
     <img src="" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
@@ -21,14 +21,14 @@ title: VERO Collaborators
 </div>
 
 --------
-### Dr. Will Crosby {:.invisible-header}
+### William B. Crosby {:.invisible-header}
 --------
-### Dr. Noelle Noyes {:.invisible-header}
+### Noelle R. Noyes {:.invisible-header}
 --------
-### Dr. John Pipkin {:.invisible-header}
+### John L. Pipkin {:.invisible-header}
 --------
-### Dr. John Richeson {:.invisible-header}
+### John T. Richeson {:.invisible-header}
 --------
-### Dr. Amelia Woolums {:.invisible-header}
+### Amelia R. Woolums {:.invisible-header}
 
 # 
