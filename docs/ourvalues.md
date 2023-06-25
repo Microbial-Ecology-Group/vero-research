@@ -3,7 +3,7 @@ template: contact.html
 title: Contact
 ---
 
-## VERO Norms and Commitments
+## <b>VERO Norms and Commitments</b>
 
 At VERO, we focus every day on developing our TEAM, and believe that by helping others we can achieve far greater things than if we serve ourselves and our interests first (“help two others before you serve yourselves and you will never lack for anything”). We belong to the VERO Team because we believe in the vision, mission, and values of the group. Accordingly, the products or successes of our efforts belong to the group collectively as much or more than they belong to the individuals. We promise to work diligently to create a culture of abundance within our group. We do not tolerate selfishness, nor an “I-me-mine” approach to our interactions and work. We believe that following these commitments will help us achieve these goals.
 
