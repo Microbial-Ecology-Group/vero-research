@@ -2,8 +2,15 @@
 template: verohome.html
 title: Home
 ---
-# About VERO Research
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+  
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
@@ -18,8 +25,10 @@ title: Home
     width: 100%;
   }
 }
-
+</style>
+</head>
 <body>
+<h2>About VERO Research</h2>  
   
 <div class="row">
   <div class="column">
@@ -33,3 +42,4 @@ The <u><a href="https://vetmed.tamu.edu/vero/">Veterinary Education, Research, &
 </div>
 
 </body>
+</html>
