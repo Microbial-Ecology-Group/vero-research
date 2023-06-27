@@ -2,9 +2,7 @@
 template: verohome.html
 title: Home
 ---
-
-#About VERO Research
-
+# About VERO Research
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; gap: 10px; padding: 2px;">
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: left;">
 
@@ -17,4 +15,3 @@ The <u><a href="https://vetmed.tamu.edu/vero/">Veterinary Education, Research, &
 <iframe src="https://slides.com/verolabtamu/vero-website-slidedeck-625f47/embed" width="600" height="350"  title="VERO Facilities" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
  </div>
 </div>
-![image](https://github.com/Microbial-Ecology-Group/vero-research/assets/54011142/504ddd3e-0e8d-46df-aa7b-e1a356f1bd42)
