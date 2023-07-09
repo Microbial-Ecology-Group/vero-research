@@ -3,7 +3,7 @@
 <div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
     <h2>  </h2>
-       <img src="../../assets/1.Morley.2023.web_small.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 20px;"/>
+       <img src="../../assets/1.Morley.2023.web_small2.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 20px;"/>
   </div>
   <div style="grid-column: 2; grid-row: 1; text-align: center;">
     <h2><b>Paul S. Morley, DVM, PhD, DACVIM (LAIM)</h2></b>
