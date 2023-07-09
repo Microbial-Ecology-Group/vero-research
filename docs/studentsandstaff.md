@@ -160,21 +160,6 @@ title: People
   </div>
 </div>
 --------
-### Panaretos, Chris  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
-  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Panaretos.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
-  </div>
-  <div style="grid-column: 1; grid-row: 1;">
-    <h2>Chris Panaretos</h2>
-    <h3>-- PhD Student, Texas A&M University<br>
-    -- Advisor: Dr. Robert Valeris-Chacin</h3>
-  </div>
-  <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Chris is a cell biologist who is learning more about the use of computers to analyze biological data, i.e. bioinformatics. He is using bioinformatics tools to identify individual Mycoplasma bovis strains from cattle respiratory swab samples.</p>
-  </div>
-</div>
---------
 ### Prosser, Haleigh  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
