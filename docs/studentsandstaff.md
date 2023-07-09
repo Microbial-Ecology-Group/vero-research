@@ -5,21 +5,6 @@ title: People
 # <b>Students and Staff</b>
 ## (alphabetical order)
 --------
-### Bechtol, Nerissa  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
-  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Bechtol.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
-  </div>
-  <div style="grid-column: 1; grid-row: 1;">
-    <h2>Nerissa Bechtol Wuest</h2>
-    <h3>-- Research Assistant</h3>
-    <p>-- <a href="mailto:nbechtol@tamu.edu">nbechtol@tamu.edu</a><br>
-    </div>
-  <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Nerissa Bechtol received her BSc. from the University of Amsterdam in 2020. She began working at the VERO Research Lab in 2022. Prior to working in the lab she worked on a research feedlot in Canyon, TX, and as a veterinary technician in Santa Fe, NM. She will be attending Texas A&M School of Veterinary Medicine Class of 2027. Her areas of interest include production animal health and internal medicine. Outside of work, Nerissa enjoys spending time with her horse, Daisy and three-legged cat, Troubadour.</p>
-  </div>
-</div>
--------- 
 ### Burke, Dana  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
