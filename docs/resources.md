@@ -5,7 +5,7 @@ title: resources
 
 # Resources
 ## Open Science - Sharing Your Research with the World:
-The VERO Research team embraces the philosophy of open science to promote transparency, and improve repeatability and efficiency in research. In line with this principle, we are sharing the tools that we have developed through our research to facilitate metagenomic investigations of antimicrobial resistance using genomic sequencing and high-throughput computational analysis.
+The VERO Research team embraces the philosophy of open science to promote transparency, and improve repeatability and efficiency in research. In line with this principle, we share tools that we have developed through our research to facilitate metagenomic investigations of microbial ecology, host genomics, and antimicrobial resistance using genomic sequencing and high-throughput computational analysis.
 
 ## GitHub Pages:
 * VERO GitHub
