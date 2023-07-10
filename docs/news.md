@@ -27,7 +27,8 @@ title: News
 * [October 29, 2019 - VERO Places Texas A&M and WTAMU Faculty In Center Of Livestock Industry To Produce Impact-Driven Research](https://www.feedstuffs.com/nutrition-health/vero-program-research-tylosin-use-feedlots)
 * [October 1, 2019 - VERO Partnership Serves Citizens of Texas Panhandle Through Education, Research, Outreach](https://www.wtamu.edu/news/2021/05/newest-team-vero-member-to-study-bovine-respiratory-disease-in-texas-panhandle.html)
 * [September 27, 2019 - Reflections from WT Podcast: Dr. Paul Morley, Director of Research at VERO, sits down with host Randy Ray and Dr. Walter Wendler, President of WTAMU](https://www.enewscourier.com/the-cattle-battle-bovine-respiratory-disease/article_1fc0acbc-fc7b-11ec-8fc3-ef8725e51d89.html)
-* [December 20, 2018 - Texas-sized livestock program taking shape at West Texas A&M University](https://veterinaryvitals.buzzsprout.com/775736/11536770-research-of-impact-for-bovine-respiratory-disease-with-dr-robert-valeris-chacin)![image](https://github.com/Microbial-Ecology-Group/vero-research/assets/54011142/5361882d-0f52-4c17-9ac4-768c50cd6d0f)
+* [December 20, 2018 - Texas-sized livestock program taking shape at West Texas A&M University](https://veterinaryvitals.buzzsprout.com/775736/11536770-research-of-impact-for-bovine-respiratory-disease-with-dr-robert-valeris-chacin)
+  
  
 
 ---
