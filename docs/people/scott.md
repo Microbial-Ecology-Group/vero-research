@@ -13,7 +13,7 @@
 </div>
 ---
 ## PUBLICATIONS
-* [All Journal Articles in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Scott+MA&cauthor_id=31929561)
+* [All Journal Articles in PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1V5hGBqnfdQEja/bibliography/public/)
 * [ResearchGate Profile](https://www.researchgate.net/profile/Matthew-Scott-25)
 * [GoogleScholar Profile](https://scholar.google.com/citations?user=P2Mfcf8AAAAJ&hl=en&oi=sra)
 ## SHORT BIOGRAPHY
