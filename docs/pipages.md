@@ -41,7 +41,7 @@ title: Faculty
     <a href="../people/scott"><h2>Matthew A. Scott, DVM, PhD</h2></a>
     <h3>-- Assistant Professor of Microbial Ecology & Infectious Disease</h3>
     <p><a href="mailto:mascott@tamu.edu">- mascott@tamu.edu<br>
-    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Scott+MA&cauthor_id=31929561">- PubMed Bibliography link</a><br>
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/1V5hGBqnfdQEja/bibliography/public/">- PubMed Bibliography link</a><br>
     <a href="https://scholar.google.com/citations?user=P2Mfcf8AAAAJ&hl=en&oi=sra">- Google Scholar link</a></p>
   </div>
 </div>
