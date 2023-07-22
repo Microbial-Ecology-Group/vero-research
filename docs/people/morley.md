@@ -27,7 +27,7 @@ Dr. Paul Morley has served as a Professor and the Director of Research at VERO S
 * PhD, Veterinary Epidemiology, University of Saskatchewan, 1995.
 * Diplomate of the American College of Veterinary Internal Medicine (LAIM), 1997.
 ## PROFESSIONAL POSITIONS
-* Intern and Resident,Large Animal Internal Medicine, University of Saskatchewan, 1989-1995.
+* Intern and Resident, Large Animal Internal Medicine, University of Saskatchewan, 1989-1995.
 * Assistant Professor of Epidemiology, The Ohio State University, 1995-1998.
 * Professor of Epidemiology and Infection Control, Colorado State University, 1998-2019.
 * Professor of Epidemiology, Colorado School of Public Health, 2008-2019.
