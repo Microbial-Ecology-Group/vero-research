@@ -217,7 +217,7 @@ title: People
     <h2>Cory Wolfe</h2>
     <h3>-- Research Associate and VERO Laboratory Manager<br></h3>
     <p>-- <a href="mailto:cawolfe@tamu.edu">cawolfe@tamu.edu</a><br>
-    -- <a href="https://veroresearch.org">PubMed bibliography link</a><br>
+    -- <a href="https://www.ncbi.nlm.nih.gov/myncbi/1ZM7OW8ekJmAeh/bibliography/public/">PubMed bibliography link</a><br>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Cory is a molecular biologist that oversees and manages activities in the VERO Research Laboratory.</p>
