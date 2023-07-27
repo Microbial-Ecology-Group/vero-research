@@ -9,6 +9,7 @@
     <h2><b>Enrique Doster, DVM, PhD</b></h2>
     <h3>-- Postdoctoral Research Associate</h3>
     <p><a href="mailto:enriquedoster@tamu.edu">- enriquedoster@tamu.edu</a></p>
+    <p><a href="https://github.com/EnriqueDoster">- GitHub link</a></p>  
   </div>
 </div>
 ---

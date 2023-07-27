@@ -14,7 +14,8 @@ title: Faculty
     -- Sally Rau McIntosh Endowed Chair </h3>
     <p><a href="mailto:pmorley@tamu.edu">- pmorley@tamu.edu</a><br>
     <a href="https://www.ncbi.nlm.nih.gov/myncbi/14Ikqzq30Nv5a/bibliography/public/">- PubMed Bibliography link</a><br>
-    <a href="https://scholar.google.com/citations?user=T-yNyx0AAAAJ&hl=en">- Google Scholar link</a></p>
+    <a href="https://scholar.google.com/citations?user=T-yNyx0AAAAJ&hl=en">- Google Scholar link</a><br>
+    <a href="https://github.com/Microbial-Ecology-Group">- GitHub link</a></p>  
    </div>
 </div>
 --------
@@ -28,7 +29,8 @@ title: Faculty
     <h3>-- Research Assistant Professor of Microbial Ecology </h3>
     <p><a href="mailto:ljpinnell@tamu.edu">- ljpinnell@tamu.edu<br>
     <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Valeris-Chacin+R&cauthor_id=33164808">- PubMed Bibliography link</a><br>
-    <a href="https://scholar.google.com/citations?user=5AFfRq4AAAAJ&hl">- Google Scholar link</a></p>
+    <a href="https://scholar.google.com/citations?user=5AFfRq4AAAAJ&hl">- Google Scholar link</a><br>
+    <a href="https://github.com/ljpinnell">- GitHub link</a></p>    
   </div>
 </div>
 --------
@@ -70,6 +72,7 @@ title: Faculty
     <h3>-- Postdoctoral Research Associate</h3>
     <p><a href="mailto:enriquedoster@tamu.edu">- enriquedoster@tamu.edu<br>
     <a href="https://www.ncbi.nlm.nih.gov/myncbi/enrique.doster.1/bibliography/public/">- PubMed bibliography link</a><br>
-    <a href="https://scholar.google.com/citations?user=DRqM0WoAAAAJ&hl=en&oi=ao">- Google Scholar link</a></p>
+    <a href="https://scholar.google.com/citations?user=DRqM0WoAAAAJ&hl=en&oi=ao">- Google Scholar link</a><br>
+    <a href="https://github.com/EnriqueDoster">- GitHub link</a></p>  
   </div>
 </div>

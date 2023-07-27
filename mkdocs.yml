@@ -109,7 +109,9 @@ nav:
   - Current Research: research.md
   - Published Research: pubs.md
   - Available Positions: availablepositions.md
-  - Resources: resources.md
+  - Resources: 
+      - Resources: resources.md
+      - Miscellaneous Links: resourceslinks.md
   - News: news.md
   - Outreach: outreach.md
   - Contact: contact.md
