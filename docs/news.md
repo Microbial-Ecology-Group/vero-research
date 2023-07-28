@@ -5,6 +5,7 @@ title: News
 
 ## VERO Reasearch in the News
 
+* [July 23, 2023 - Texas A&M VERO Student Selected for Exclusive Fellowship](https://www.wtamu.edu/news/2023/07/texas-a-m-vero-student-selected-for-exclusive-fellowship.html)
 * [June 1, 2023 - Amarillo Magazine: Texas A&M University - Aggie Veterinary Research: Playing an Important Role In Animal Health, Food Security and the Panhandle Plains Economy](https://www.flipbookpdf.net/web/site/d715135e6ee3bcff55a651216c0bcfa07cbaed06FBP25714380.pdf.html#page/18)
 * [May 16, 2023 - VMBS Faculty Members Ranked Among Nation’s Top Veterinary Scientists](https://vetmed.tamu.edu/news/internal-news/top-veterinary-scientists/)
 * [April 27, 2023 - New VERO Research Aims to Keep Feedlot Cattle Healthy](https://www.myhighplains.com/news/agriculture/new-vero-research-aims-to-keep-feedlot-cattle-healthy/)
