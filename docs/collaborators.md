@@ -81,6 +81,18 @@ title: VERO Collaborators
 </div>
 --------
 ### John T. Richeson {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 3fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
+  <img src="../assets/Richeson.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  <h2><b>John T. Richeson, MS, PhD</b></h2>
+    <h3>Paul Engler Professor of Beef Cattle Feedlot Management<br>
+    West Texas A&M University</h3>
+    <p>-- <a href="mailto:jricheson@wtamu.edu">jricheson@wtamu.edu</a><br><br>
+ </div>
+  <div style="grid-column: 2; grid-row: 1; text-align: left;">
+      <p>Dr. John Richeson is the Paul Engler Professor of Beef Cattle Feedlot Management and faculty supervisor of the Research Feedlot at West Texas A&M University. John currently teaches several undergraduate and graduate courses, serves on numerous University committees, is Graduate Coordinator for the Department of Agricultural Sciences, and is an advisory board member of four different industry organizations. He received his BS, MS, and PhD in Animal Science from Oklahoma State University (2000), Texas Tech University (2004), and University of Arkansas (2011), respectively. Between his academic pursuits, John was employed by a major cattle feeding company in Colorado after earning his BS, and the University of Arkansas Division of Agriculture Cooperative Extension Service after completing his MS degree. Research interests include evaluating management, nutritional, and immunological manipulations to improve the welfare, health and growth of stocker and feedlot cattle. Additional research efforts have focused on evaluation of biomarker and behavior technology to assist in the prediction and early detection of bovine respiratory disease. Delayed vaccination and targeted metaphylaxis are important concepts within the beef production system that John and his colleagues and students’ research have facilitated. John has advised or co-advised 28 MS and PhD graduate students and is especially fond of the relationships built with both students and collaborators since becoming an Assistant Professor in 2011. John has published over 100 referred abstracts, 67 peer-reviewed journal articles, and 4 review manuscripts. He is a member of American Society of Animal Science and the American Registry of Professional Animal Scientists, and has served on the ASAS southern section Graduate Student Paper competition committee, the Editorial Board for Applied Animal Scientist, and serves as Director for the Professional Animal Auditor Certification Organization.</p>
+    </div>
+</div>
 --------
 ### Amelia R. Woolums {:.invisible-header}
 
