@@ -97,7 +97,7 @@ title: VERO Collaborators
 ### Ben Weinheimer {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 3fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
-  <img src="../assets/Weinheimer.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  <img src="docs/assets/Weinheimer.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   <h2><b>Ben Weinheimer, MS</b></h2>
     <h3>President & CEO<br>
       Texas Cattle Feeders Association</h3>
