@@ -94,6 +94,37 @@ title: VERO Collaborators
     </div>
 </div>
 --------
+### Ben Weinheimer {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 3fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
+  <img src="../assets/Ben 2019-Suit 2.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  <h2><b>Ben Weinheimer, MS</b></h2>
+    <h3>President & CEO<br>
+      Texas Cattle Feeders Association</h3>
+    <p>-- <a href="mailto:ben@tcfa.org">ben@tcfa.org</a><br><br>
+ </div>
+  <div style="grid-column: 2; grid-row: 1; text-align: left;">
+      <p>Ben Weinheimer is president & CEO of the Texas Cattle Feeders Association (TCFA),
+headquartered in Amarillo, Texas. He was named to that position in 2022, and has been on staff
+since 1995, serving previously as vice president from 2006-2021 and as regulatory manager
+from 1995-2005.  As president & CEO, Weinheimer is responsible for day-to-day operations of theAssociation, including supervising implementation of policy at the state and federal legislative
+and regulatory levels, as well as the association’s programs and services offered to members in
+Texas, Oklahoma and New Mexico. Weinheimer is active in several industry-related and civic organizations and currently
+serves as Chairman of the Panhandle Regional Water Planning Group, member of the Llano
+Estacado Regional Water Planning Group, past chairman of the U.S. Roundtable for
+Sustainable Beef, past president of the Texas Agricultural Lifetime Leadership Alumni
+Association, past president of the Texas Section of the American Society of Agricultural
+Engineers, member of the National Cattlemen’s Beef Association, member of the Texas
+Association of Community Colleges Business Advisory Council, and member of the Texas A&M
+University – Veterinarian, Education, Research and Outreach Advisory Council.
+Weinheimer grew up on a diversified crop and livestock operation in the Texas
+Panhandle. He is a honors graduate of Texas A&M University with a degree in agricultural
+engineering and is a licensed professional engineer in Texas, New Mexico and Oklahoma.
+Ben and wife, Jennifer, reside in Amarillo, Texas. They are proud parents of a daughter
+and two sons and grandparents of four amazing grandchildren.</p>
+    </div>
+</div>
+--------
 ### Amelia R. Woolums {:.invisible-header}
 
 # 
