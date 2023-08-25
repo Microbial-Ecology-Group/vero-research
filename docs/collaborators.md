@@ -49,6 +49,18 @@ title: VERO Collaborators
 </div>
 --------
 ### Noelle R. Noyes {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 3fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
+  <img src="../assets/Woolums.jpeg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  <h2><b>Noelle R. Noyes, MA, DVM, PhD</b></h2>
+    <h3>Associate Professor<br>
+    University of Minnesota</h3>
+    <p>-- <a href="mailto:nnoyes@umn.edu">nnoyes@umn.edu</a><br><br>
+ </div>
+  <div style="grid-column: 2; grid-row: 1; text-align: left;">
+      <p>Dr. Noelle Noyes</p>
+    </div>
+</div>
 --------
 ### Annette M. O'Connor {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 3fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
@@ -122,6 +134,20 @@ Panhandle. He is a honors graduate of Texas A&M University with a degree in agri
 engineering and is a licensed professional engineer in Texas, New Mexico and Oklahoma.
 Ben and wife, Jennifer, reside in Amarillo, Texas. They are proud parents of a daughter
 and two sons and grandparents of four amazing grandchildren.</p>
+    </div>
+</div>
+--------
+### Amelia R. Woolums {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 3fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
+  <img src="../assets/Woolums.jpeg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  <h2><b>Amelia R. Woolums, DVM, MSc, PhD, DACVIM, DACVM</b></h2>
+    <h3>Mikell and Mary Cheek Hall Davis Endowed Professor<br>
+    Mississippi State University</h3>
+    <p>-- <a href="mailto:amelia.woolums@msstate.edu">amelia.woolums@msstate.edu</a><br><br>
+ </div>
+  <div style="grid-column: 2; grid-row: 1; text-align: left;">
+      <p>Dr. Amelia Woolums</p>
     </div>
 </div>
 --------
