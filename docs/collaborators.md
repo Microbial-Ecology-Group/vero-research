@@ -68,7 +68,7 @@ title: VERO Collaborators
 ### John L. Pipkin {:.invisible-header}
   <div style="display: grid; grid-template-columns: 2fr 3fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
-  <img src="docs/assets/Pipkin.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  <img src="../assets/Pipkin.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   <h2><b>John L. Pipkin, MS, PhD</b></h2>
     <h3>Regents Professor & Engler Professor of Animal Science<br>
       Director of Equine Programs<br>
@@ -83,7 +83,7 @@ title: VERO Collaborators
 ### John T. Richeson {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 3fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
-  <img src="docs/assets/Richeson.jpeg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  <img src="../assets/Richeson.jpeg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   <h2><b>John T. Richeson, MS, PhD</b></h2>
     <h3>Paul Engler Professor of Beef Cattle Feedlot Management<br>
     West Texas A&M University</h3>
@@ -97,7 +97,7 @@ title: VERO Collaborators
 ### Ben Weinheimer {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 3fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
-  <img src="docs/assets/Weinheimer.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  <img src="../assets/Weinheimer.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   <h2><b>Ben Weinheimer, MS</b></h2>
     <h3>President & CEO<br>
       Texas Cattle Feeders Association</h3>
