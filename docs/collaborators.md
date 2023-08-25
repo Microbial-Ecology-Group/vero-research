@@ -83,7 +83,7 @@ title: VERO Collaborators
 ### John T. Richeson {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 3fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
-  <img src="../assets/Richeson.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  <img src="docs/assets/Richeson.jpeg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   <h2><b>John T. Richeson, MS, PhD</b></h2>
     <h3>Paul Engler Professor of Beef Cattle Feedlot Management<br>
     West Texas A&M University</h3>
