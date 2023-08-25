@@ -24,7 +24,9 @@ title: VERO Collaborators
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
   <img src="../assets/tlawrence.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   <h2><b>Ty E. Lawrence, MS, PhD</b></h2>
-    <h3>Professor, West Texas A&M University</h3>
+    <h3>Professor and Caviness Davis Distinguished Chair in Meat Science<br>
+      Director, Beef Carcass Research Center<br>
+      West Texas A&M University</h3>
     <p>-- <a href="mailto:tlawrence@wtamu.edu">tlawrence@wtamu.edu</a><br><br>
  </div>
   <div style="grid-column: 2; grid-row: 1; text-align: left;">
@@ -50,6 +52,19 @@ title: VERO Collaborators
 </div>
 --------
 ### John L. Pipkin {:.invisible-header}
+  <div style="display: grid; grid-template-columns: 2fr 3fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
+  <img src="../assets/pipkin.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  <h2><b>John L. Pipkin, MS, PhD</b></h2>
+    <h3>Regents Professor & Engler Professor of Animal Science<br>
+      Director of Equine Programs<br>
+      West Texas A&M University</h3>
+    <p>-- <a href="mailto:jpipkin@wtamu.edu">jpipkin@wtamu.edu</a><br><br>
+ </div>
+  <div style="grid-column: 2; grid-row: 1; text-align: left;">
+      <p>John Pipkin is currently the Director of the Equine Industry Program, and a Regents Professor and Engler Professor of Animal Science at West Texas A&M University.  His instructional duties have included Reproductive Physiology, graduate Endocrinology, portions of Anatomy and Physiology, Professional Leadership, and Selection and Evaluation.  As Equine Program Director, he oversees the teaching, research, and service duties related to the Equine Program, and Faculty Supervisor of the WT Horse Center.  He also coaches the Horse Judging Team, and oversees the Judging and Equestrian Teams. He has been an approved horse show judge for over 30 years for multiple associations, and has judged over 500 total shows in 13 different countries, and over 20 World Championships. Pipkin’s judging teams have won 160 National or World Champion or Reserve Champion titles; and Equestrian and Ranch Teams under his program direction have won over 60 National Champion or Reserve Champion titles.  He trained and showed horses professionally in many disciplines. Pipkin works closely with several Equine and Breed Associations where he works with various committees.  He is a National Director for AQHA, has served as Chairman of the AQHA Judges Committees, AQHA Show and Professional Horsemen Committee, and the AQHA Show Council. Dr. Pipkin has been awarded the Outstanding Young Professional Award by the Equine Science Society, Texas 4-H Alumni Award, and the 2023 AQHA Don Burt Professional Horseman of the Year. At WT, he has received the Magister Optimus award, the university’s highest faculty recognition, and University Teaching Excellence award. The Texas A&M University System awarded him the Teaching Excellence Award, and named him a Regents Professor. In addition, he has received numerous Texas A&M System Regent’s resolutions and WT President’s Silver Buffalo awards; was inducted into the Texas Tech Department of Animal & Food Sciences Hall of Fame; and has over 200 publications, given over 100 invited professional presentations, chaired or been a member of over 75 graduate student committees, and secured over $5.8 million in donations, grants, and gifts.</p>
+  </div>
+</div>
 --------
 ### John T. Richeson {:.invisible-header}
 --------
