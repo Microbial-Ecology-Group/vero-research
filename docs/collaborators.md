@@ -125,6 +125,5 @@ and two sons and grandparents of four amazing grandchildren.</p>
     </div>
 </div>
 --------
-### Amelia R. Woolums {:.invisible-header}
-
+##
 # 
