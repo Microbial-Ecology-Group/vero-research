@@ -67,7 +67,7 @@ title: VERO Collaborators
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
   <img src="../assets/Annette_OConnor.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   <h2><b>Annette M. O'Connor, BVSc, MVSc, DVSc, FANZCVS</b></h2>
-    <h3>Professor of Epidemiology and Chairperson<br>
+    <h3>Professor and Chairperson<br>
       Department of Large Animal Clinical Sciences<br>
       Michigan State University</h3>
     <p>-- <a href="mailto:oconn445@msu.edu">oconn445@msu.edu</a><br><br>
