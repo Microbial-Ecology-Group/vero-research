@@ -32,20 +32,22 @@ title: VERO Collaborators
     </div>
 </div>
 --------
-### William B. Crosby {:.invisible-header}
-<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
-  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
-  </div>
-  <div style="grid-column: 1; grid-row: 1;">
-    <h2><b>William B. Crosby, DVM</b></h2>
-    <h3></h3>
-    <p>-- <a href=""></a><br><br>
-    <p></p>
-    </div>
-</div></div>
---------
 ### Noelle R. Noyes {:.invisible-header}
+--------
+### Annette M. O'Connor {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 3fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
+  <img src="../assets/Annette_OConnor.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  <h2><b>Annette M. O'Connor, BVSc, MVSc, DVSc, FANZCVS</b></h2>
+    <h3>Professor of Epidemiology and Chairperson<br>
+      Department of Large Animal Clinical Sciences<br>
+      Michigan State University</h3>
+    <p>-- <a href="mailto:tlawrence@wtamu.edu">tlawrence@wtamu.edu</a><br><br>
+ </div>
+  <div style="grid-column: 2; grid-row: 1; text-align: left;">
+      <p>Dr. O’Connor is a veterinarian and quantitative epidemiologist interested in applying quantitative epidemiology to better inform policy related to food safety, one health, animal welfare, animal health, and veterinary clinical practice. Dr. O’Connor has been a leader in veterinary science to translate research into practice by reducing research wastage and maximizing the value of research. Dr. O’Connor works extensively with the livestock industries to utilize technology and research to improve production, animal welfare, and sustainability. Dr. O’Connor has been instrumental in developing and applying research synthesis methods, including network-meta-analysis in veterinary science. Dr. O’Connor co-lead the REFLECT statement and Vet-STROBE statement initiatives designed to improve the reproducibility and utility of veterinary research. She also co-leads the MERIDIAN initiatives (http://meridian.cvm.iastate.edu ), which seeks to improve the reporting of all research involving animals and the SYREAF website (Systematic Reviews of Animals and Food - www.Syreaf.com), which provides unique information for researchers seeking to conduct systematic reviews. These initiatives have required international collaborations and have had an international impact on reporting in veterinary science. Dr. O’Connor is the author of over 170 peer-reviewed manuscripts and has been invited to present at numerous producer and researcher meetings and numerous workshops on systematic reviews and meta-analysis, both National and International, for groups such as the European Food Safety Authority and the Food and Drug Administration. Dr. O’Connor also works to democratize access to science with strong support for the Open Science movement.  Within the workplace of the university community and the academy, Dr. O’Connor also seeks to ensure that the advantages of education and the academy are accessible to all members of society by learning how she can contribute to a community where diversity informs our everyday thought process and decision making.</p>
+  </div>
+</div>
 --------
 ### John L. Pipkin {:.invisible-header}
 --------
