@@ -96,7 +96,7 @@ title: VERO Collaborators
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
   <img src="../assets/Pipkin.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   <h2><b>John L. Pipkin, MS, PhD</b></h2>
-    <h3>Regents Professor & Engler Professor of Animal Science<br>
+    <h3>Regents Professor & Engler Professor of Animal Sciences<br>
       Director of Equine Programs<br>
       West Texas A&M University</h3>
     <p>-- <a href="mailto:jpipkin@wtamu.edu">jpipkin@wtamu.edu</a><br><br>
