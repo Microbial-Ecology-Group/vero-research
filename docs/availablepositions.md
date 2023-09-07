@@ -8,6 +8,7 @@ title: Available Positions
 ## Faculty Positions
 
 ## Graduate Student Positions
+*[MS and PhD Fellowship Opportunities]
 
 ## Student Worker Positions
 
