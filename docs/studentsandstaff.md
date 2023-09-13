@@ -157,7 +157,7 @@ title: People
     <p>-- <a href="mailto:hmprosser1@buffs.wtamu.edu">hmprosser1@buffs.wtamu.edu</a><br>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Haleigh completed her Bachelor of Science in Animal Science at West Texas A&M University in 2021. She is currently an MS student, focusing on the application of genomic technologies in the commercial cattle feedlot industry. Her prominent cattle feeding background has shaped her goals and guided her research to focus on the genetic quality of fed cattle. Her current project includes analyzing prospectively pooled genotypes and evaluating their economic efficiency.</p>
+    <p>Haleigh received her Bachelor of Science in Animal Sciences in 2021 and her M.S. in Animal Sciences, both from West Texas A&M University. She is currently a PhD student, focusing on the application of genomic technologies in the commercial cattle feedlot industry. Her prominent cattle feeding background has shaped her goals and guided her research to focus on the genetic quality of fed cattle. Her current project includes analyzing prospectively pooled genotypes and evaluating their economic efficiency.</p>
   </div>
 </div>
 --------
