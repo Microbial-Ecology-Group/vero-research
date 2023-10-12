@@ -72,7 +72,7 @@ title: VERO Collaborators
     <p>-- <a href="mailto:nnoyes@umn.edu">nnoyes@umn.edu</a><br><br>
  </div>
   <div style="grid-column: 2; grid-row: 1; text-align: left;">
-      <p>Dr. Noelle Noyes</p>
+      <p>Noelle Noyes is an Associate Professor in the Department of Veterinary Population Medicine at University of Minnesota.  Her current research focuses on advancing the understanding of pathogens, antimicrobial resistance and microbial ecology, with the ultimate goal of optimizing public health, food safety and security, and livestock production. Noelle was a USDA NIFA Post-Doctoral Fellow and an NIH T32 Pre-Doctoral Fellow. She was recipient of the German Chancellor Fellowship from the Alexander von Humboldt Foundation, and received her MA from Osnabrueck University and BA from Amherst College. Noelle completed a PhD-DVM program at Colorado State University before joining University of Minnesota faculty. Currently, her lab is conducting studies on microbiome, pathogen and antibiotic resistance issues related to livestock production and food safety. For more info visit: thenoyeslab.org.</p>
     </div>
 </div>
 --------
@@ -161,7 +161,7 @@ and two sons and grandparents of four amazing grandchildren.</p>
     <p>-- <a href="mailto:amelia.woolums@msstate.edu">amelia.woolums@msstate.edu</a><br><br>
  </div>
   <div style="grid-column: 2; grid-row: 1; text-align: left;">
-      <p>Dr. Amelia Woolums</p>
+      <p>Dr. Amelia R. Woolums is a veterinary clinician and researcher who is working to improve understanding of the mechanisms by which the bovine immune system helps cattle stay healthy, and by which it sometimes contributes to disease.  Dr. Woolums is the Mikell and Mary Cheek Hall Davis Endowed Professor of Beef Cattle Health and Reproduction in the College of Veterinary Medicine at Mississippi State University (MSU).  She is a diplomate of the American College of Veterinary Internal Medicine and the American College of Veterinary Microbiologists.  Dr. Woolums' research is focused on bovine respiratory disease (BRD), and her lab uses both classical and next generation approaches to characterize the systemic and mucosal immune responses to respiratory vaccination and infection in cattle.  Dr. Woolums is part of a team of veterinarians and animal scientists at MSU who use the resources of the Mississippi Agricultural and Forestry Experiment Station (MAFES) to undertake detailed investigations of health and immunity in mixed source, auction market derived stocker cattle managed in a grass-based system.  With collaborators at VERO, the MSU team is also evaluating the impact of pre-weaning and postweaning management practices on health and immunity in beef calves, as well as the impact of antimicrobial use in high-risk stocker cattle on antimicrobial resistance in the bacteria that contribute to BRD.</p>
     </div>
 </div>
 --------
