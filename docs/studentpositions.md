@@ -1,6 +1,7 @@
 ---
 template: verohome.html
-title: Graduate Student Positions
+title: Graduate Training Positions (MS and PhD) Available at VERO
+
 ---
 
 
