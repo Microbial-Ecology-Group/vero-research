@@ -108,7 +108,9 @@ nav:
       - Enrique Doster: people/doster.md
   - Current Research: research.md
   - Published Research: pubs.md
-  - Available Positions: availablepositions.md
+  - Available Positions:
+      - Available positions:  availablepositions.md
+      - Student positions: studentpositions.md
   - Resources: 
       - Resources: resources.md
       - Miscellaneous Links: resourceslinks.md
