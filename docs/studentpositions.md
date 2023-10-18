@@ -5,18 +5,22 @@ title: Graduate Training Positions Available at VERO (MS and PhD)
 
 Faculty at VERO are always seeking top-notch, highly motivated, team-oriented graduate students to participate in state-of-the-art, highly-impactful research targeted at improving the health and wellbeing of animals to provide an abundant and healthy food supply.  The VERO Program is an exciting new collaborative initiative located in Canyon, Texas and represents the future of agricultural and animal health research. More specifically, we are looking for students to participate in aspects of our research related to:
 
--- Health and Disease Pathogenesis in Cattle:
+-- Health, and Disease Pathogenesis in Cattle:
+
 * Bovine respiratory disease.
 * Gut health impacting disease in other organ systems and overall health (“Gut Axis”).
 * Liver abscesses in cattle.
 * Host gene expression
   
 -- The microbial ecology and microbial genomics in cattle, including:
+
 * Microbiome in health and disease.
 * <i>Mycoplasma bovis.
 * Mannheimia haemolytica.
 * Salmonella enterica</i>.
+  
 -- Viral and bacterial transmission dynamics in cattle.
+
 -- Antimicrobial resistance and antibiotic alternatives.
 
 We use the most advanced tools in molecular biology, computation biology and data science, and epidemiology and population management to pursue this impactful research.  You can see examples of our research by reviewing material posted at [Research](https://www.veroresearch.org/research/) or [Publications](https://www.veroresearch.org/pubs/). More about VERO faculty mentors can be seen [here](https://www.veroresearch.org/pipages/).
