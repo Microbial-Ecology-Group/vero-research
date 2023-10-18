@@ -14,7 +14,7 @@ Faculty at VERO are always seeking top-notch, highly motivated, team-oriented gr
   
 -- Microbial ecology and microbial genomics in cattle, including:
 
-* Microbiome in health and disease.
+* The microbiome in health and disease.
 * <i>Mycoplasma bovis.
 * Mannheimia haemolytica.
 * Salmonella enterica</i>.
