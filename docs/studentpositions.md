@@ -12,7 +12,7 @@ Faculty at VERO are always seeking top-notch, highly motivated, team-oriented gr
 * Liver abscesses in cattle.
 * Host gene expression
   
--- The microbial ecology and microbial genomics in cattle, including:
+-- Microbial ecology and microbial genomics in cattle, including:
 
 * Microbiome in health and disease.
 * <i>Mycoplasma bovis.
