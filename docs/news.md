@@ -7,7 +7,7 @@ title: News
 
 * [November 9, 2023 - Texas A&M Researchers Contribute To International Project Studying Coronavirus Transmission In Humans and Cattle.](https://today.tamu.edu/2023/11/09/texas-am-researchers-contribute-to-international-project-studying-coronavirus-transmission-in-humans-cattle)
 * [October 10, 2023 - Texas A&M-Led Team Receives USDA Grant to Study Cattle Respiratory Disease Prevention.](https://vetmed.tamu.edu/news/press-releases/brd-prevention)
-* [September 1, 2023 - Amarillo Magazin: Texas A&M's VERO Program - A Home for Graduate Student Researchers.](https://www.flipbookpdf.net/web/site/aa9fdc27dd2575617344712f0a76880bde2f3c7bFBP25714380.pdf.html#page/10)
+* [September 1, 2023 - Amarillo Magazine: Texas A&M's VERO Program - A Home for Graduate Student Researchers.](https://www.flipbookpdf.net/web/site/aa9fdc27dd2575617344712f0a76880bde2f3c7bFBP25714380.pdf.html#page/10)
 * [August 15, 2023 - Newest VERO Faculty Member Brings Environmental Microbiology to the Texas Panhandle.](https://vetmed.tamu.edu/news/press-releases/lee-pinnell/)
 * [July 23, 2023 - Texas A&M VERO Student Selected for Exclusive Fellowship.](https://www.wtamu.edu/news/2023/07/texas-a-m-vero-student-selected-for-exclusive-fellowship.html)
 * [June 1, 2023 - Amarillo Magazine: Texas A&M University - Aggie Veterinary Research: Playing an Important Role In Animal Health, Food Security and the Panhandle Plains Economy.](https://www.flipbookpdf.net/web/site/d715135e6ee3bcff55a651216c0bcfa07cbaed06FBP25714380.pdf.html#page/18)
