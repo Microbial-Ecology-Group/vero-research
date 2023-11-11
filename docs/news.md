@@ -5,7 +5,6 @@ title: News
 
 ## VERO Reasearch in the News
 
-* asld;
 * [November 9, 2023 - Texas A&M Researchers Contribute To International Project Studying Coronavirus Transmission In Humans and Cattle]{https://today.tamu.edu/2023/11/09/texas-am-researchers-contribute-to-international-project-studying-coronavirus-transmission-in-humans-cattle}
 * [August 15, 2023 - Newest VERO Faculty Member Brings Environmental Microbiology to the Texas Panhandle](https://vetmed.tamu.edu/news/press-releases/lee-pinnell/)
 * [July 23, 2023 - Texas A&M VERO Student Selected for Exclusive Fellowship](https://www.wtamu.edu/news/2023/07/texas-a-m-vero-student-selected-for-exclusive-fellowship.html)
