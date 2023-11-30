@@ -58,14 +58,14 @@ title: VERO Collaborators
     <p>-- <a href="mailto:mnair@colostate.edu">mnair@colostate.edu</a><br><br>
  </div>
   <div style="grid-column: 2; grid-row: 1; text-align: left;">
-      <p>Dr. Mahesh Nair is an Associate Professor of Meat Science in the Department of Animal Sciences at Colorado State University. He received his B.S. in veterinary medicine from Kerala Agricultural University, India (2009), and M.S. (2012) and Ph. D. (2017) from Department of Animal and Food Sciences at University of Kentucky. Dr. Nair’s research focuses on the fundamental and applied aspects of fresh meat quality, employing proteomic and mass spectrometric tools. His other research interests include postmortem muscle biochemistry, role of mitochondria in meat quality, as well as the interactions between myoglobin redox stability and lipid oxidation. He has authored or co-authored more than 60 peer-reviewed journal articles and 5 book chapters in addition to several abstracts at scientific conferences. At CSU since 2017, he has generated <$4 million in research funding and has served on 30 graduate committees of either as a chair or as a committee member.</p>
+      <p>Dr. Mahesh Nair is an Associate Professor of Meat Science in the Department of Animal Sciences at Colorado State University. He received his B.S. in veterinary medicine from Kerala Agricultural University, India (2009), and M.S. (2012) and Ph. D. (2017) from Department of Animal and Food Sciences at University of Kentucky. Dr. Nair’s research focuses on the fundamental and applied aspects of fresh meat quality, employing proteomic and mass spectrometric tools. His other research interests include postmortem muscle biochemistry, role of mitochondria in meat quality, as well as the interactions between myoglobin redox stability and lipid oxidation. He has authored or co-authored more than 60 peer-reviewed journal articles and 5 book chapters in addition to several abstracts at scientific conferences. At CSU since 2017, he has generated >$4 million in research funding and has served on 30 graduate committees of either as a chair or as a committee member.</p>
     </div>
 </div>
 --------
 ### Noelle R. Noyes {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 3fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
-  <img src="../assets/Noyes.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  <img src="../assets/Noyes.jpeg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   <h2><b>Noelle R. Noyes, MA, DVM, PhD</b></h2>
     <h3>Associate Professor<br>
     University of Minnesota</h3>
