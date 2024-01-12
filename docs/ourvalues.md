@@ -23,11 +23,11 @@ At VERO, we focus every day on developing our TEAM, and believe that by helping 
 
 ### **We are inclusive.**
 
+ * We welcome participation and collaboration from anyone that is excited by our work and is willing to share our norms, commitments, and vision.
+
   * We value and celebrate the differences in perspectives, backgrounds, and expertise in our group.
 
   * We involve the right people in our efforts to help ensure we achieve excellence.
-
-  * We welcome participation and collaboration from anyone that is excited by our work and is willing to share our norms, commitments, and vision.
 
   * Everyone’s voice matters and is encouraged.
 
