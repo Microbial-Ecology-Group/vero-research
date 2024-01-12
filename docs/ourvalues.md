@@ -23,7 +23,7 @@ At VERO, we focus every day on developing our TEAM, and believe that by helping 
 
 ### **We are inclusive.**
 
-  * We value and celebrate the diversity of perspectives, backgrounds, and expertise in the room.
+  * We value and celebrate the differences in perspectives, backgrounds, and expertise in our group.
 
   * We involve the right people in our efforts to help ensure we achieve excellence.
 
