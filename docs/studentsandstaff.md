@@ -58,12 +58,12 @@ title: People
     <img src="../assets/Hawkins.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
-    <h2>Jaye Hawkins</h2>
+    <h2>Jaye Jones</h2>
     <h3>-- Administrative Coordinator</h3>
-    <p>-- <a href="mailto:jehawkins@tamu.edu">jehawkins@tamu.edu</a><br>
+    <p>-- <a href="mailto:jayejones@tamu.edu">jayejones@tamu.edu</a><br>
  </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Jaye Hawkins is an administrative coordinator for VERO through the Department of Large Animal Clinical Sciences (VLCS) in the CVMBS. She has a degree in business administration from New Mexico State University and more than twenty-five years of experience working within university systems and agricultural organizations serving as an executive director and administrator. She has adult twin daughters that are currently pursuing advanced degrees at Texas A&M and Texas Tech University and an awesome son-in-law. She loves dogs and has an Australian cattle dog named Sophie (best girl dog ever) and two grand-dogs, Charlie and Nellie. </p>
+    <p>Jaye Jones is an administrative coordinator for VERO through the Department of Large Animal Clinical Sciences (VLCS) in the CVMBS. She has a degree in business administration from New Mexico State University and more than twenty-five years of experience working within university systems and agricultural organizations serving as an executive director and administrator. She has adult twin daughters that are currently pursuing advanced degrees at Texas A&M and Texas Tech University and an awesome son-in-law. She loves dogs and has an Australian cattle dog named Sophie (best girl dog ever) and two grand-dogs, Charlie and Nellie. </p>
   </div>
 </div>
 --------
