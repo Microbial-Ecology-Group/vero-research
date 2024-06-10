@@ -52,7 +52,7 @@ title: People
   </div>
 </div>
 --------
-### Hawkins, Jaye  {:.invisible-header}
+### Jones, Jaye  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
     <img src="../assets/Hawkins.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
