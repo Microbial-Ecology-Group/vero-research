@@ -182,13 +182,13 @@ title: People
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Stephen Tamm, MS</h2>
-    <h3>-- PhD Student<br>
+    <h3>-- MS Student<br>
     -- Advisor: Dr. Paul Morley</h3>
     <p>-- <a href="mailto:sctamm@tamu.edu">sctamm@tamu.edu</a><br>
    -- <a href="https://www.ncbi.nlm.nih.gov/myncbi/1jmFD_nAPdeE_a/bibliography/public/">PubMed bibliography link</a><br>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Stephen completed undergraduate studies in animal science at West Texas A&M University in 2012 and immediately began work in animal nutrition and feedlot services throughout Texas, New Mexico, Kansas, and Oklahoma.  He later relocated to Idaho to expand his education and received his MS from the University of Idaho in 2018.  His research at UI was focused on cell signaling and bovine skeletal muscle satellite cell behavior.  Stephen also held a teaching assistantship and advised pre-veterinary undergraduate students while at UI.  His current interests include physiological mechanisms in agricultural production systems, microbiome dynamics and anatomical axes, and epidemiological perspectives on sustainable agriculture.  He joined #TeamVERO in 2022 and is conducting doctoral research focused on pathogen monitoring in beef production systems, microbial predictors of animal health, and antimicrobial resistance dynamics in large animals.</p>
+    <p>Stephen completed undergraduate studies in animal science at West Texas A&M University in 2012 and immediately began work in animal nutrition and feedlot services throughout Texas, New Mexico, Kansas, and Oklahoma.  He later relocated to Idaho to expand his education and received his MS from the University of Idaho in 2018.  His research at UI was focused on cell signaling and bovine skeletal muscle satellite cell behavior.  Stephen also held a teaching assistantship and advised pre-veterinary undergraduate students while at UI.  His current interests include physiological mechanisms in agricultural production systems, microbiome dynamics and anatomical axes, and epidemiological perspectives on sustainable agriculture.  He joined #TeamVERO in 2022 and is conducting research focused on pathogen monitoring in beef production systems, microbial predictors of animal health, and antimicrobial resistance dynamics in large animals.</p>
   </div>
 </div>
 --------
