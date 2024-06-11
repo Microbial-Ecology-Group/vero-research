@@ -11,7 +11,7 @@ title: People
     <img src="../assets/Huff.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
-    <h2>Rachel Huff</h2>
+    <h2>Rachel Bishop</h2>
     <h3>-- Research Assistant</h3>
     <p>-- <a href="mailto:rphuff@tamu.edu">rphuff@tamu.edu</a><br>
   </div>
