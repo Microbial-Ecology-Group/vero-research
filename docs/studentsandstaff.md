@@ -47,7 +47,7 @@ title: People
     <p>-- <a href="mailto:jayejones@tamu.edu">jayejones@tamu.edu</a><br>
  </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Jaye Jones is an administrative coordinator for VERO through the Department of Large Animal Clinical Sciences (VLCS) in the CVMBS. She has a degree in business administration from New Mexico State University and more than twenty-five years of experience working within university systems and agricultural organizations serving as an executive director and administrator. She has adult twin daughters that are currently pursuing advanced degrees at Texas A&M and Texas Tech University and an awesome son-in-law. She loves dogs and has an Australian cattle dog named Sophie (best girl dog ever) and two grand-dogs, Charlie and Nellie. </p>
+    <p>Jaye Jones is an administrative coordinator for VERO through the Department of Large Animal Clinical Sciences (VLCS) in the College of Veterinary Medicine & Biomedical Sciences (CVMBS). She holds a degree in business administration from New Mexico State University and brings over twenty-five years of experience in university systems and agricultural organizations to her role, having served as both an executive director and an administrator. Jaye is married to Mark, and they have a spoiled rotten Australian cattle dog named Sophie.</p>
   </div>
 </div>
 --------
