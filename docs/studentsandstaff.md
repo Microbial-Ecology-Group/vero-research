@@ -5,6 +5,21 @@ title: People
 # <b>Students and Staff</b>
 ## (alphabetical order)
 --------
+### Bishop, Rachel  {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
+    <img src="../assets/Huff.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 1;">
+    <h2>Rachel Huff</h2>
+    <h3>-- Research Assistant</h3>
+    <p>-- <a href="mailto:rphuff@tamu.edu">rphuff@tamu.edu</a><br>
+  </div>
+  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p>Rachel grew up on a cattle ranch in the Texas Panhandle, and from a young age was passionate about Animal Science. She received her Bachelor of Science from West Texas A&M University in 2021, majoring in Animal Science. Rachel started working at the VERO research lab as a student worker in September 2021. After graduation, she started a full-time position as a research assistant. Outside of work Rachel enjoys spending time outdoors with her Toy Australian Shepherd, Zeus and her Miniature Australian Shepherd, Oakley.</p>
+  </div>
+</div>
+--------
 ### Burke, Dana  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
@@ -48,21 +63,6 @@ title: People
  </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Jaye Jones is an administrative coordinator for VERO through the Department of Large Animal Clinical Sciences (VLCS) in the College of Veterinary Medicine & Biomedical Sciences (CVMBS). She holds a degree in business administration from New Mexico State University and brings over twenty-five years of experience in university systems and agricultural organizations to her role, having served as both an executive director and an administrator. Jaye is married to Mark, and they have a spoiled rotten Australian cattle dog named Sophie.</p>
-  </div>
-</div>
---------
-### Huff, Rachel  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
-  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Huff.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
-  </div>
-  <div style="grid-column: 1; grid-row: 1;">
-    <h2>Rachel Huff</h2>
-    <h3>-- Research Assistant</h3>
-    <p>-- <a href="mailto:rphuff@tamu.edu">rphuff@tamu.edu</a><br>
-  </div>
-  <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Rachel grew up on a cattle ranch in the Texas Panhandle, and from a young age was passionate about Animal Science. She received her Bachelor of Science from West Texas A&M University in 2021, majoring in Animal Science. Rachel started working at the VERO research lab as a student worker in September 2021. After graduation, she started a full-time position as a research assistant. Outside of work Rachel enjoys spending time outdoors with her Toy Australian Shepherd, Zeus and her Miniature Australian Shepherd, Oakley.</p>
   </div>
 </div>
 --------
