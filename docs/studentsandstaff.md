@@ -1,6 +1,6 @@
 ---
 template: people.html
-title: People
+title: People 
 ---
 # <b>Students and Staff</b>
 ## (alphabetical order)
