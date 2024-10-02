@@ -35,6 +35,22 @@ title: People
   </div>
 </div>
 --------
+### Carter, Hannah  {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
+    <img src="../assets/Dudley_web.small.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 1;">
+    <h2>Hannah Carter</h2>
+    <h3>-- PhD Student, Texas A&M University<br>
+    -- Advisor: Dr. Paul Morley</h3>
+    <p>-- <a href="mailto:hlc5746@tamu.edu">hlc5746@tamu.edu</a><br>
+ </div>
+  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p>Hannah was born and raised in the Texas Hill Country on a beef cattle ranch.  She received her Bachelor of Sciene from Texas A&M University in 2024, majoring in Animal Science.  Her research focus will be characterization of the microbiome and resistome in production animals. .</p>
+  </div>
+</div>
+
 ### Dudley, Ethan  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
