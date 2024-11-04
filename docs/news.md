@@ -5,6 +5,7 @@ title: News
 
 ## VERO Reasearch in the News
 
+* [September 27, 2024 - Texas A&M University Veterinary Education, Research, & Outreach: using groundbreaking strategies to study bovine respiratory disease.] (https://doi.org/10.2460/ajvr.24.09.0259)
 * [November 9, 2023 - Texas A&M Researchers Contribute To International Project Studying Coronavirus Transmission In Humans and Cattle.](https://today.tamu.edu/2023/11/09/texas-am-researchers-contribute-to-international-project-studying-coronavirus-transmission-in-humans-cattle)
 * [October 10, 2023 - Texas A&M-Led Team Receives USDA Grant to Study Cattle Respiratory Disease Prevention.](https://vetmed.tamu.edu/news/press-releases/brd-prevention)
 * [September 1, 2023 - Amarillo Magazine: Texas A&M's VERO Program - A Home for Graduate Student Researchers.](https://www.flipbookpdf.net/web/site/aa9fdc27dd2575617344712f0a76880bde2f3c7bFBP25714380.pdf.html#page/10)
