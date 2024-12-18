@@ -66,6 +66,22 @@ title: People
     <p>Ethan was born and raised in Cartersville, Georgia, and earned his B.S. degree in Animal Science from Berry College in Rome, Georgia. He joined the Valeris lab at VERO in 2023 as a M.S. student in the Texas A&M Biomedical Science program. His research will focus on evaluating the distribution of virulence and antimicrobial resistance genes present in <i>Salmonella</i> isolates from Beef and Dairy Cattle in the Texas Panhandle, Colorado, and Western New Mexico. Better characterization of <i>Salmonella</i> pathogenesis and epidemiology and its association with illness in cattle will allow the industry to better understand and mitigate the harm caused by Salmonella.</p>
   </div>
 </div>
+-------
+### Hacker, Nicholas  {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
+    <img src="../assets/Dudley_web.small.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 1;">
+    <h2>Nicholas Hacker</h2>
+    <h3>-- MS Student, Texas A&M University<br>
+    -- Advisor: Dr. Robert Valeris-Chacin</h3>
+    <p>-- <a href="mailto:nhacker@tamu.edu">nhacker@tamu.edu</a><br>
+ </div>
+  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p>Nicholas is a graduate research assistant under Dr. Valeris-Chacin. He graduated from West Texas A&m with a BS in wildlife biology and is pursuing his master's at TAMU VERO.  His goal is to pursue the wildlife/agriculture interface to help develop new interventions to benefit human and animal health.</p>
+  </div>
+</div>
 --------
 ### Hunt, Brennen  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
