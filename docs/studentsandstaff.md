@@ -39,7 +39,7 @@ title: People
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
      </div>
-  <img src="../assets/HannahCarter.Sept2024.jpg
+  <img src="../assets/HannahCarter.Sept2024".jpg
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Hannah Carter</h2>
     <h3>-- PhD Student, Texas A&M University<br>
@@ -134,7 +134,7 @@ title: People
 ### Jones, Jaye  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Hawkins.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+    <img src="../assets/" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Jaye Jones</h2>
