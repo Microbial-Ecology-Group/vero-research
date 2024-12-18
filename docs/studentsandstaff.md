@@ -13,7 +13,7 @@ title: People
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Rachel Bishop</h2>
     <h3>-- Research Assistant</h3>
-    <p>-- <a href="mailto:rbishop@tamu.edu">rphuff@tamu.edu</a><br>
+    <p>-- <a href="mailto:rbishop@tamu.edu">rbishop@tamu.edu</a><br>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Rachel grew up on a cattle ranch in the Texas Panhandle, and from a young age was passionate about science and animals. She received her Bachelor of Science from West Texas A&M University in 2021, majoring in Animal Science. Rachel started working at the VERO Research Laboratory as a student worker in September 2021. After graduation, she started working full-time as a Research Assistant in the VERO Lab. Outside of work Rachel enjoys spending time outdoors with her husband, Wyatt, Toy Aussie, Zeus, and her Mini Aussie, Oakley.</p>
