@@ -50,7 +50,7 @@ title: People
     <p>Hannah was born and raised in the Texas Hill Country on a beef cattle ranch.  She received her Bachelor of Sciene from Texas A&M University in 2024, majoring in Animal Science.  Her research focus will be characterization of the microbiome and resistome in production animals.</p>
   </div>
 </div>
-
+-------
 ### Dudley, Ethan  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
@@ -58,7 +58,7 @@ title: People
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Ethan Dudley</h2>
-    <h3>-- MS Student, Texas A&M University<br>
+    <h3>-- PhD Student, Texas A&M University<br>
     -- Advisor: Dr. Robert Valeris-Chacin</h3>
     <p>-- <a href="mailto:edudley01@tamu.edu">edudley01@tamu.edu</a><br>
  </div>
@@ -67,6 +67,22 @@ title: People
   </div>
 </div>
 --------
+### Hunt, Brennen  {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
+    <img src="../assets/Dudley_web.small.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 1;">
+    <h2>Brennen Hunt</h2>
+    <h3>-- MS Student, Texas A&M University<br>
+    -- Advisor: Dr. Paul Morley </h3>
+    <p>-- <a href="mailto:brennonohunt@tamu.edu">brennonohunt@tamu.edu</a><br>
+ </div>
+  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p> Brennen was born in Manchester, CT, moved to Albuquerque, NM when he was eight, then moved again to Mesa, AZ when he was 13.  He graduated from the University of Arizona with a bachelor's degree in microbiology and a minor in classics.  He worked in a clinical microbiology lab at a medical center in Tucson, AZ for two years examining patient specimens for bacteria, fungi and parasites.  He frequently encountered multi drug resistant or totally drug resistant organisms, which prompted and interest in studying antibiotic reistance in microorganisms.  Having experienced the clinical side of microbiology, he hopes to combine his past work with his future studies in a research lab in order to gain a more complete understanding of human and animal health.</p>
+  </div>
+</div>
+-------
 ### Jones, Jaye  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
