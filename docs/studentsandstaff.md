@@ -114,27 +114,11 @@ title: People
     <p> Brennen was born in Manchester, CT, moved to Albuquerque, NM when he was eight, then moved again to Mesa, AZ when he was 13.  He graduated from the University of Arizona with a bachelor's degree in microbiology and a minor in classics.  He worked in a clinical microbiology lab at a medical center in Tucson, AZ for two years examining patient specimens for bacteria, fungi and parasites.  He frequently encountered multi drug resistant or totally drug resistant organisms, which prompted and interest in studying antibiotic reistance in microorganisms.  Having experienced the clinical side of microbiology, he hopes to combine his past work with his future studies in a research lab in order to gain a more complete understanding of human and animal health.</p>
   </div>
     </div>
--------
-### Lugo Mesa, Valeria {:.invisible-header}
-<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
-  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
-  </div>
-  <div style="grid-column: 1; grid-row: 1;">
-    <h2>Valeria Lugo Mesa</h2>
-    <h3>-- MS Student, Texas A&M University<br>
-    -- Advisor: Dr. Lee Pinnell</h3>
-    <p>-- <a href="mailto:valerialugo@tamu.edu">valerialugo@tamu.edu</a><br>
- </div>
-  <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Valeria is originally from Bogota, Colombia, and earned her DVM from Universidad Nacional de Colombia in 2023. After an intership at the Universityof Minnesota, she joined the VERO team in 2024 as a M.S. student in the Texas A&M Biomedical Sciences program.  Her research focuses on microbial ecology and antimicrobial resistance across diverse environments and hosts.  Her professional interests include using computational approaches and data visualization to answer biological questions.  Outside of work, she enjoys spending time outdoors, especially by a lake on a hot summer day.</p>
-  </div>
-    </div>
 --------
 ### Jones, Jaye  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src=".../assets/Jones_DSC3545.JPG" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+    <img src="docs/assets/Jones_DSC3545.JPG" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Jaye Jones</h2>
