@@ -1,5 +1,17 @@
 # Dr. Cassidy Klima
-
+---
+<div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
+  <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
+    <h2>  </h2>
+       <img src="../assets/" alt="Scott" loading="lazy" width="250" style="margin-right: 20px;"/>
+ </div>
+  <div style="grid-column: 2; grid-row: 1; text-align: center;">
+    <h2><b>Cassidy Klima, PhD</b></h2>
+    <h3>-- Assistant Professor</h3>
+    <p><a href="mailto:cklima@tamu.edu">- cklima@tamu.edu</a></p>
+  </div>
+</div>
+---
 <div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
     <h2>  </h2>
