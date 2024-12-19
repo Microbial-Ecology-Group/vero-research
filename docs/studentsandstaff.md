@@ -18,7 +18,7 @@ title: People
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Rachel grew up on a cattle ranch in the Texas Panhandle, and from a young age was passionate about science and animals. She received her Bachelor of Science from West Texas A&M University in 2021, majoring in Animal Science. Rachel started working at the VERO Research Laboratory as a student worker in September 2021. After graduation, she started working full-time as a Research Assistant in the VERO Lab. Outside of work Rachel enjoys spending time outdoors with her husband, Wyatt, Toy Aussie, Zeus, and her Mini Aussie, Oakley.</p>
   </div>
-    </div>
+  </div>
 --------
 ### Burke, Dana  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
