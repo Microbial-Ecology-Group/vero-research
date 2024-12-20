@@ -10,7 +10,7 @@ title: Faculty
        <img src="../assets/CassidyKlima.Sept2024.jpg" alt="Klima" loading="lazy" width="250" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
-    <a href="../people/Klima"><h2>Cassidy Klima, MS, PhD</h2></a>
+    <a href="../people/klima"><h2>Cassidy Klima, MS, PhD</h2></a>
     <h3>-- Assistant Professor of Ruminant Health Research <br>
         <p><a href="mailto:cklima@tamu.edu">- cklima@tamu.edu</a><br>
    </div>
