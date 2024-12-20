@@ -3,7 +3,7 @@
 <div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
     <h2>  </h2>
-       <img src="../assets/" alt="Scott" loading="lazy" width="250" style="margin-right: 20px;"/>
+       <img src="../assets/" alt="Klima" loading="lazy" width="250" style="margin-right: 20px;"/>
  </div>
   <div style="grid-column: 2; grid-row: 1; text-align: center;">
     <h2><b>Cassidy Klima, PhD</b></h2>
