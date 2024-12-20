@@ -19,7 +19,7 @@ title: Faculty
 ### Morley, Paul  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-       <img src="../.../assets/1.Morley.2023.web_small2.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 2px;"/>
+       <img src="../assets/1.Morley.2023.web_small2.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <a href="../people/morley"><h2>Paul S. Morley, DVM, PhD, DACVIM</h2></a>
