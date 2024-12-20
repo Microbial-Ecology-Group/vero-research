@@ -27,7 +27,7 @@ Dr. Cassidy Klima is an assistant professor and molecular microbiologist with VE
 ## RESEARCH TOPICS
 * Antimicrobial resistance
 * Surveillance
-* Vaccine design
+* Vaccine design 
 ---
 <div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
