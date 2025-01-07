@@ -47,7 +47,7 @@ title: People
     <p>-- <a href="mailto:hlc5746@tamu.edu">hlc5746@tamu.edu</a><br>
  </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Hannah was born and raised in the Texas Hill Country on a beef cattle ranch.  She received her Bachelor of Sciene from Texas A&M University in 2024, majoring in Animal Science.  Her research focus will be characterization of the microbiome and resistome in production animals.</p>
+    <p>Hannah was born and raised in the Texas Hill Country on a beef cattle ranch.  She received her Bachelor of Science from Texas A&M University in 2024, majoring in Animal Science.  Her research focus will be characterization of the microbiome and resistome in production animals.</p>
   </div>
     </div>
     
