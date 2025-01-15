@@ -153,7 +153,8 @@ title: People
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Kushal (Sal) Lamsal</h2>
-    <h3>-- PhD Student, Texas A&M Univerisyt </h3>
+    <h3>-- PhD Student, Texas A&M Univerisyt <br>
+    -- Advisor: Dr. Robert Valeris-Chacin
     <p>-- <a href="mailto:sal@tamu.edu">sal@tamu.edu</a><br>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
