@@ -81,7 +81,7 @@ title: Former VERO Team Members
     -- <a href="https://www.ncbi.nlm.nih.gov/myncbi/james.young.6/bibliography/public/">PubMed bibliography link</a></p>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Daniel received his MS degree from Texas Tech University in 2022, where he studied beef cattle nutrition. Daniel’s doctoral research is focused on gastrointestinal health of feedlot cattle. More specifically his research focuses on the interaction between the animal and gut microbiota. Daniel’s work aims to connect gastrointestinal health to complex diseases like liver abscesses, to better understand the pathogenesis and mitigation strategies of these diseases.</p>
+    <p>Daniel received his MS degree from Texas Tech University in 2022 and his PhD from West Texas A&M University in 2024. Daniel’s doctoral research was focused on gastrointestinal health of feedlot cattle. More specifically his research focused on the interaction between the animal and gut microbiota. Daniel’s work aimed to connect gastrointestinal health to complex diseases like liver abscesses, to better understand the pathogenesis and mitigation strategies of these diseases.</p>
   </div>
     </div>
 -------
