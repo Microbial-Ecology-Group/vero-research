@@ -60,27 +60,13 @@ title: People
     <h2>Sarah Erickson</h2>
     <h3>-- PhD Student, Texas A&M University<br>
     -- Advisor: Dr. Paul Morley</h3>
-    <p>-- <a href="mailto:hlc5746@tamu.edu">hlc5746@tamu.edu</a><br>
+    <p>-- <a href="mailto:serickson@tamu.edu">serickson@tamu.edu</a><br>
  </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>### Carter, Hannah  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
-  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-     <img src="../assets/HannahCarter.Sept2024.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
-  </div>
-    <div style="grid-column: 1; grid-row: 1;">
-    <h2>Hannah Carter</h2>
-    <h3>-- PhD Student, Texas A&M University<br>
-    -- Advisor: Dr. Paul Morley</h3>
-    <p>-- <a href="mailto:hlc5746@tamu.edu">hlc5746@tamu.edu</a><br>
- </div>
-  <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Hannah was born and raised in the Texas Hill Country on a beef cattle ranch.  She received her Bachelor of Science from Texas A&M University in 2024, majoring in Animal Science.  Her research focus will be characterization of the microbiome and resistome in production animals.</p>
-  </div>
-    </div> </p>
+    <p>Sarah Erickson is currently pursuing her Doctor of Philosophy (Biomedical Sciences) through the VERO program at Texas A&M University in Canyon, Texas. Sarah received her Master of Science (2023) from the University of Saskatchewan in Saskatoon, Saskatchewan, Canada, and her Bachelor of Science (2018) from the University of Alberta in Edmonton, Alberta. The area of focus for Sarah's MSc thesis was the epidemiology of hoof-related lameness in western Canadian feedlot cattle. Sarah became part of the Feedlot Health Management Services team in 2018. In 2020, Sarah became part of the TELUS Agriculture team and currently works on the Animal Health Support Team as a data advisor.Hannah was born and raised in the Texas Hill Country on a beef cattle ranch.  She received her Bachelor of Science from Texas A&M University in 2024, majoring in Animal Science.  Her research focus will be characterization of the microbiome and resistome in production animals.</p>
   </div>
     </div> 
--------
+ -------
 ### Dudley, Ethan  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
