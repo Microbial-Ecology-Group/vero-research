@@ -67,5 +67,22 @@ title: Former VERO Team Members
     <p>Taylor received her MS degree in Animal Science from West Texas A&M University in 2022. She evaluated the impact of different adminstration routes of respiratory vaccinations on the respiratory microbiome of high-risk feedlot cattle. She is currently a PhD student at Kansas State University studying commercial beef production systems to enable science-based management decisions.</p>
   </div>
 </div>
-
+-------
+### Young, James Daniel  {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
+    <img src="../assets/Young.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 1;">
+    <h2>James Daniel Young, MS</h2>
+    <h3>-- PhD Student, West Texas A&M University<br>
+    -- Advisors: Dr. Paul Morley and Dr. John Richeson</h3>
+    <p>-- <a href="mailto:jdyoung3@buffs.wtamu.edu">jdyoung3@buffs.wtamu.edu</a><br>
+    -- <a href="https://www.ncbi.nlm.nih.gov/myncbi/james.young.6/bibliography/public/">PubMed bibliography link</a></p>
+  </div>
+  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p>Daniel received his MS degree from Texas Tech University in 2022, where he studied beef cattle nutrition. Daniel’s doctoral research is focused on gastrointestinal health of feedlot cattle. More specifically his research focuses on the interaction between the animal and gut microbiota. Daniel’s work aims to connect gastrointestinal health to complex diseases like liver abscesses, to better understand the pathogenesis and mitigation strategies of these diseases.</p>
+  </div>
+    </div>
+-------
 
