@@ -106,7 +106,7 @@ title: People
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Kayla Hazlett</h2>
-    <h3>-- MS Student, Texas A&M University<br>
+    <h3>-- PhD Student, Texas A&M University<br>
     -- Advisor: Dr. Lee Pinnell</h3>
     <p>-- <a href="mailto:kayla.hazlett@tamu.edu">kayla.hazlett@tamu.edu</a><br>
  </div>
