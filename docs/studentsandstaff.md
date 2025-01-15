@@ -153,11 +153,11 @@ title: People
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Kushal (Sal) Lamsal</h2>
-    <h3>-- Research Assistant</h3>
+    <h3>-- PhD Student, Texas A&M Univerisyt </h3>
     <p>-- <a href="mailto:sal@tamu.edu">sal@tamu.edu</a><br>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Sal is a senior Undergraduate Biology/Biochemistry student who works at the VERO research lab as a student research assistant. Born and raised in Kathmandu, Nepal, he now calls Long Island, New York his home. During free time he enjoys reading and learning new things.</p>
+    <p> Sal was born and raised in Kathmandu, Nepal, he now calls Long Island, New York his home. During free time he enjoys reading and learning new things.</p>
   </div>
     </div>
     -------
