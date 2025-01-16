@@ -158,7 +158,7 @@ title: People
     <p>-- <a href="mailto:sal@tamu.edu">sal@tamu.edu</a><br>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p> Sal was born and raised in Kathmandu, Nepal, he now calls Long Island, New York his home. During free time he enjoys reading and learning new things.</p>
+    <p> Kushal “Sal” Lamsal was born and raised in the Kirtipur Valley in the highlands of Kathmandu, Nepal (GO RHINOS!!). He received his Bachelor’s degree in Biochemistry from West Texas A&M University (GO BUFFS!!) in Canyon, Texas. In September 2022, he joined the VERO lab as an Undergraduate Research Assistant and worked in that position until July 2023. In the fall of 2023, he began his Graduate Research Assistantship at VERO (GIG’EM) under Dr. Robert Valeris-Chacin. His MS thesis focuses on the design, optimization, and validation of targeted-enriched metagenomics to obtain strain-level data for Mycoplasma bovis in respiratory samples from cattle. Besides research, he is also involved in the Graduate Student Association as the Travel Award Secretary, where he organizes events to engage other graduate students with fun activities and nutritious lunches. During his free time, he enjoys reading books, learning new things, and working on his ROKR Classic City Tram LK801 model.Sal was born and raised in Kathmandu, Nepal, he now calls Long Island, New York his home. During free time he enjoys reading and learning new things.</p>
   </div>
     </div>
     -------
