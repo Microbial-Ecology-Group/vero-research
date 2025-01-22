@@ -305,6 +305,22 @@ title: People
   </div>
     </div>
 --------
+### Torres, Luis  {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
+    <img src=".." alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 1;">
+    <h2>Luis Torres</h2>
+    <h3>-- PhD Student<br></h3>
+    <p>-- <a href="mailto:luisalfredotorres@tamu.edu">luisalfredotorres@tamu.edu</a><br>
+    -- <a href="https://www.ncbi.nlm.nih.gov/myncbi/1ZM7OW8ekJmAeh/bibliography/public/">PubMed bibliography link</a><br>
+  </div>
+  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p>Luis Torres is a DVM who graduated from the Universidad Autónoma de Ciudad Juárez (2016). He currently holds a full-time position at TELUS Ag, formerly Feedlot Health Management Services, based in the Amarillo office, where he has been working for the past 8 years. Concurrently, he is pursuing a Doctor of Philosophy (Biomedical Sciences) through West Texas A&M University in Canyon Texas.</p>
+  </div>  
+</div>
+-------
 ### Wolfe, Cory  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
