@@ -68,6 +68,22 @@ title: Former VERO Team Members
   </div>
 </div>
 -------
+### Murphy, Maggie  {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
+    <img src="../assets/Maggie_Murphy.web2.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 1;">
+    <h2>Maggie Murphy</h2>
+    <h3>-- PhD Student, West Texas A&M University<br>
+    -- Advisors: Dr. Paul Morley and Dr. John Pipkin</h3>
+    <p>-- <a href="mailto:mmurphy@wtamu.edu">mmurphy@wtamu.edu</a><br>
+  </div>
+  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p>Maggie grew up in Peyton, Colorado before moving to Canyon, TX to pursue her B.S. in Equine Industry and Business at West Texas A&M University.  following this, Maggie also pursued her M.S. in Animal Science at WT working under Dr. Lance Baker and Dr. John Pipkin, researching voluntary dry matter intake of equines being fed a functional feed additive.  Currently, Maggie is working under Dr. Paul Morley on her Ph.D. in systems Agriculture through WTAMU.  Her research focuses on characterizing the developing microbiomes and resisitomes in young dairy cattle and young horses.  In her spare time, she enjoys horseback riding and spending time with her border collie. ....</p>
+  </div>
+    </div>
+ -------
 ### Young, James Daniel  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
