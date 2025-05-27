@@ -243,20 +243,6 @@ title: People
   </div>
     </div>
 --------
-### Reyes, Ember  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
-  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Reyes.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
-  </div>
-  <div style="grid-column: 1; grid-row: 1;">
-    <h2>Ember Reyes</h2>
-    <h3>-- Student Research Assistant</h3>
-  </div>
-  <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Ember is an undergraduate student at West Texas A&M University, earning her Bachelor's of Science in Animal Science with a Pre-Veterinary focus. Her current aim, after completing veterinary school either within the United States or internationally, is to serve as a veterinarian for a guide dog organization. This will allow her to continue executing on her passion for clinical veterinarian practices, training service animals, and conducting research within the fields of canine genetics, breeding and behavior for guide dogs. Ember is currently working as a VERO Research Lab Assistant - Student Worker in the VERO Molecular Biology Lab with a focus on DNA extractions. </p>
-  </div>
-    </div>
---------
 ### Torres, Luis  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
