@@ -27,7 +27,7 @@ title: People
   </div>
     <div style="grid-column: 1; grid-row: 1;">
     <h2>Hannah Carter</h2>
-    <h3>-- PhD Student, Texas A&M University<br>
+    <h3>-- Masters Student, Texas A&M University<br>
     -- Advisor: Dr. Paul Morley</h3>
     <p>-- <a href="mailto:hlc5746@tamu.edu">hlc5746@tamu.edu</a><br>
  </div>
