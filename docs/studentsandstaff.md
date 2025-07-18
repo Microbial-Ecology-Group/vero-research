@@ -36,6 +36,21 @@ title: People
   </div>
     </div> 
 -------
+### Cheshire, Max
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
+    <img src="../assets/Dudley_web.small.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 1;">
+    <h2>Max Cheshire</h2>
+    <h3>-- Research Assistant, Texas A&M University<br>
+      <p>-- <a href="mailto:maxcheshire10@tamu.edu">maxcheshire10@tamu.edu</a><br>
+ </div>
+  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p>Max received his B.S. in Bioenvironmental Sciences in 2022 and MPH in Epidemiology & Biostatistics in 2024 from Texas A&M University. He has a well-versed background in clinical laboratory research with a focus on child and maternal health epidemiology and molecular biology relating to Fetal Alcoholic Spectrum Disorders (FASDs). Additionally, he is a member of the U.S. Army Reserves working in the veterinary medical field. Outside of work he enjoys off-roading and hiking the trails in Colorado.</p>
+  </div>
+    </div>
+-------
 ### Dudley, Ethan  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
