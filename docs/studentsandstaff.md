@@ -1,7 +1,4 @@
 ----
-template: people.html
-title: People 
----
 # <b>Students and Staff</b>
 ## (alphabetical order)
 --------
