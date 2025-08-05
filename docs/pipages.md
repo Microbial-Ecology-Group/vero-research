@@ -12,7 +12,8 @@ title: Faculty
     <a href="../people/klima"><h2>Cassidy Klima, MS, PhD</h2></a>
     <h3>-- Assistant Professor of Ruminant Health Research <br>
         <p><a href="mailto:cklima@tamu.edu">- cklima@tamu.edu</a><br>
-   </div>
+<a href="https://www.ncbi.nlm.nih.gov/myncbi/cassidy.klima.1/bibliography/public/">- PubMed Bibliography link</a><br>
+<a href="https://scholar.google.com/citations?user=0pvnvV0AAAAJ&hl=en>- Google Scholar link</a><br>
 </div>
 --------
 ### Morley, Paul  {:.invisible-header}
