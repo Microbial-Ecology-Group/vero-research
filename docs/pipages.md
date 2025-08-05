@@ -7,6 +7,7 @@ title: Faculty
 <hr/>
 
 <!-- ───────────── 1. Cassidy Klima ───────────── -->
+### Klima, Cassidy  {:.invisible-header}
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
   <div>
     <h2><a href="../people/klima">Cassidy Klima, MS, PhD</a></h2>
@@ -26,6 +27,7 @@ title: Faculty
 <hr/>
 
 <!-- ───────────── 2. Paul S. Morley ───────────── -->
+### Morley, Paul  {:.invisible-header}
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
   <div>
     <h2><a href="../people/morley">Paul S. Morley, DVM, PhD, DACVIM</a></h2>
@@ -46,6 +48,7 @@ title: Faculty
 <hr/>
 
 <!-- ───────────── 3. Lee J. Pinnell ───────────── -->
+### Pinnell, Lee  {:.invisible-header}
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
   <div>
     <h2><a href="../people/pinnell">Lee J. Pinnell, MS, PhD</a></h2>
@@ -66,6 +69,7 @@ title: Faculty
 <hr/>
 
 <!-- ───────────── 4. Matthew A. Scott ───────────── -->
+### Scott, Matthew  {:.invisible-header}
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
   <div>
     <h2><a href="../people/scott">Matthew A. Scott, DVM, PhD</a></h2>
@@ -85,6 +89,7 @@ title: Faculty
 <hr/>
 
 <!-- ───────────── 5. Robert Valeris-Chacin ───────────── -->
+### Valeris-Chacin, Robert {:.invisible-header}
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
   <div>
     <h2><a href="../people/valeris">Robert Valeris-Chacin, DVM, MS, PhD</a></h2>
@@ -104,6 +109,7 @@ title: Faculty
 <hr/>
 
 <!-- ───────────── 6. Enrique Doster ───────────── -->
+### Doster, Enrique  {:.invisible-header}
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
   <div>
     <h2><a href="../people/doster">Enrique Doster, DVM, PhD</a></h2>
