@@ -2,7 +2,7 @@
 ---
 <div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/CassidyKlima.Sept2024 5-8-25.jpg"alt="Klima" loading="lazy" width="250" style="margin-right: 2px;"/>
+    <img src="../../assets/CassidyKlima.Sept2024 5-8-25.jpg"alt="Klima" loading="lazy" width="250" style="margin-right: 2px;"/>
     <h2>  </h2>
  </div>
   <div style="grid-column: 2; grid-row: 1; text-align: center;">
