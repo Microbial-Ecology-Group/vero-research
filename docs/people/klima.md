@@ -12,6 +12,9 @@
   </div>
 </div>
 ----
+## PUBLICATIONS
+* [All Journal Articles in PubMed](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fmyncbi%2Fcassidy.klima.1%2Fbibliography%2Fpublic%2F&data=05%7C02%7Cjayejones%40tamu.edu%7C1b8ad24ae4c24a0c477108ddd3c568bf%7C68f381e346da47b9ba576f322b8f0da1%7C1%7C0%7C638899567005150811%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2BVaQZ70PYhtXdUd%2F%2BpCAWW6pChossnVWlBlRm5xgpNw%3D&reserved=0)
+* [GoogleScholar Profile](https://scholar.google.com/citations?user=0pvnvV0AAAAJ&hl=en)
 ## SHORT BIOGRAPHY
 Dr. Cassidy Klima is an assistant professor and molecular microbiologist with VERO and the Department of Veterinary Pathobiology, School of Veterinary Medicine and Biomedical Sciences (VMBS) at Texas A&M University and Texas A&M AgriLife Research.  She received her PhD in biology from the University of Saskatchewan in 2015 followed by postdoctoral fellowships at the University of Calgary and Iowa State University.  Much of her research has focused on topics relating to bovine health, surveillance and antimicrobial resistance development in zoonotic agents, and food safety.  A primary goal of her work is to examine how production practices can be optimized to reduce disease while improving animal welfare, beef quality and overall food safety.
 ## EDUCATION
