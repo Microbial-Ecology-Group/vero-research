@@ -6,7 +6,7 @@ title: Faculty
 -----
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-       <img src="../assets/CassidyKlima.Sept2024.jpg" alt="Klima" loading="lazy" width="250" style="margin-right: 2px;"/>
+       <img src="../assets/CassidyKlima.Sept2024 5-8-25.jpg" alt="Klima" loading="lazy" width="250" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <a href="../people/klima"><h2>Cassidy Klima, MS, PhD</h2></a>
