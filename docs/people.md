@@ -12,6 +12,6 @@ title: People
     <h1><a href="/formerteammembers">Former VERO Team Members</a></h1>
   </div>
   <div style="width: 50%;">
-    <img src="../../assets/VEROResearchTeam.19APR2023.web.jpg" alt="VERO_Group" style="max-width: 100%;"/>
+    <img src="../../assets/2024.VEROResearchTeam.20SEP2024 web 8-5-25.jpg" alt="VERO_Group" style="max-width: 100%;"/>
   </div>
 </div>
