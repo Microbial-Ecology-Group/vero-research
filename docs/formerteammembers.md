@@ -32,7 +32,7 @@ title: Former VERO Team Members
     <p>-- <a href="mailto:chunmn26@tamu.edu">chunmn26@tamu.edu</a><br>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Max received his BS in Biology from the University of Wisconsin - Green Bay in 2021. He joined Dr. Valeris’s lab in 2022 and is currently a Masters - Thesis student in the Biomedical Sciences (BIMS) program. Max’s research focuses on identifying virulence factors and antimicrobial resistance genes in <i>Salmonella</i> isolates from beef cattle in the Texas panhandle. By comparing the distribution of these pathogenicity-relevant genes among isolates, Max will advance the current knowledge on Salmonella ecology in cattle and significantly improve industry understanding of <i>Salmonella</i> capabilities to cause harm.</p>
+    <p>Max received his BS in Biology from the University of Wisconsin - Green Bay in 2021. He joined Dr. Valeris’s lab in 2022 and is was a Masters - Thesis student in the Biomedical Sciences (BIMS) program. Max’s research focused on identifying virulence factors and antimicrobial resistance genes in <i>Salmonella</i> isolates from beef cattle in the Texas panhandle. By comparing the distribution of these pathogenicity-relevant genes among isolates, Max will advance the current knowledge on Salmonella ecology in cattle and significantly improve industry understanding of <i>Salmonella</i> capabilities to cause harm.</p>
   </div>
 </div>
 --------
@@ -83,8 +83,8 @@ title: Former VERO Team Members
     <p>Maggie grew up in Peyton, Colorado before moving to Canyon, TX to pursue her B.S. in Equine Industry and Business at West Texas A&M University.  following this, Maggie also pursued her M.S. in Animal Science at WT working under Dr. Lance Baker and Dr. John Pipkin, researching voluntary dry matter intake of equines being fed a functional feed additive.  Currently, Maggie is working under Dr. Paul Morley on her Ph.D. in systems Agriculture through WTAMU.  Her research focuses on characterizing the developing microbiomes and resisitomes in young dairy cattle and young horses.  In her spare time, she enjoys horseback riding and spending time with her border collie. ....</p>
   </div>
     </div>
- -------
- ### Tamm, Stephen  {:.invisible-header}
+-------
+### Tamm, Stephen  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
     <img src="../assets/Tamm.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
