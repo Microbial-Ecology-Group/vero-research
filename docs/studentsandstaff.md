@@ -111,6 +111,22 @@
   </div>
     </div>
 --------
+### Henderson, Harley  {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
+    <img src="..g" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 1;">
+    <h2>Harley Henderson</h2>
+    <h3>-- MS Student, Texas A&M University<br>
+    -- Advisor: Dr. Cassidy Klima</h3>
+    <p>-- <a href="mailto:harleyhenderson@tamu.edu">harleyhenderson@tamu.edu</a><br>
+ </div>
+  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p> Harley graduated from Berry College in Rome, Georgia with her B.S. in Animal Science in 2022. In the past few years, she has spent the majority of her time working in Montana and Colorado. She joined the VERO program in the Fall of 2025 to pursue her M.S. in Biomedical Science. Her research will take an integrative approach to study microbes associated with Bovine Respiratory Diseases (BRD) at a strain-level. This approach aims to link strain-level associations between different diseases to the BRD pathology.</p>
+  </div>
+    </div>
+--------     
 ### Hunt, Brennen  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
