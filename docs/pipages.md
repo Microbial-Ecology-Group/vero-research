@@ -122,7 +122,7 @@ title: Faculty
     </p>
   </div>
   <div style="text-align:center;">
-    <img src="../../assets/Doster.web.2024.JPG"
+    <img src="../assets/Doster.web.2024.JPG"
          alt="Enrique Doster" loading="lazy" width="250"/>
   </div>
 </div>
