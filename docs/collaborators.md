@@ -33,6 +33,20 @@ title: VERO Collaborators
     </div>
 </div>
 --------
+### Brandy A. Burgess {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 3fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
+  <img src="../assets/" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  <h2><b>Brandy A. Burgess, DVM, MSc, PhD, DACVIM (LAIM), DACVPM</b></h2>
+    <h3>Professor of Epidemiology and Infection Control in the Department of Population Health, College of Veterinary Medicine; the Director of Infection Control and Biosecurity at the Veterinary Medical Center; and the Interium Associate Dean for Clinical Services, College of Veterinary Medicine, University of Georgia, Athens, Georgia.<br>
+    </h3>
+    <p>-- <a href="mailto:Brandy.Burgess@uga.edu">Brandy.Burgess@uga.edu</a><br><br>
+ </div>
+  <div style="grid-column: 2; grid-row: 1; text-align: left;">
+      <p>. Dr. Burgess earned her Doctor of Veterinary Medicine from Colorado State University, followed by a Master of Science degree, internship, and residency in large animal internal medicine at the Western College of Veterinary Medicine, University of Saskatchewan, Canada. She then completed a PhD in epidemiology and residency in infection control and biosecurity at Colorado State University. She is a diplomate of the American College of Veterinary Internal Medicine (large animal) and of the American College of Veterinary Preventive Medicine. She is also a Fellow in the Emerging Leaders in Biosecurity Initiative (ELBI), Center for Health Security, Johns Hopkins Bloomberg School of Public Health (2017). Burgess received the 7th Annual Storm Cat Career Development Award from the Grayson-Jockey Club Research Foundation (2013), the Boehringer Ingelheim Advancement in Equine Research Award (2014), and the Zoetis Distinguished Veterinary Teacher Award (2020). Dr. Burgess’ current research efforts focuses on: 1) Investigating the epidemiology and prevention of important potential pathogens in veterinary medicine and public health including the exploration of risk factors and rapid methods for detection; 2) Investigation of the environmental microbiome on healthcare-associated infections and antimicrobial resistance; 3) Investigation of occupational risks associated with the practice of veterinary medicine; and 4) Development of evidence-based risk management strategies for the prevention and control of important contagious and zoonotic pathogens in veterinary medicine. </p>
+    </div>
+</div>
+--------
 ### Ty E. Lawrence {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 3fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
