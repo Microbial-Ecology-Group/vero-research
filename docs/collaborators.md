@@ -36,7 +36,7 @@ title: VERO Collaborators
 ### Brandy A. Burgess {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 3fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
-  <img src="../assets/" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  <img src="../assets/2017_HeadShot_Burgess.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   <h2><b>Brandy A. Burgess, DVM, MSc, PhD, DACVIM (LAIM), DACVPM</b></h2>
     <h3>Professor of Epidemiology and Infection Control in the Department of Population Health, College of Veterinary Medicine; the Director of Infection Control and Biosecurity at the Veterinary Medical Center; and the Interium Associate Dean for Clinical Services, College of Veterinary Medicine, University of Georgia, Athens, Georgia.<br>
     </h3>
