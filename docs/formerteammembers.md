@@ -52,25 +52,6 @@ title: Former VERO Team Members
 </div>
 
 --------
-###  Klima, Cassidy {:.invisible-header}
-<div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
-  <div>
-    <h2><a href="../people/klima">Cassidy Klima, MS, PhD</a></h2>
-    <h3>Assistant Professor of Ruminant Health Research</h3>
-    <p>
-      <a href="mailto:cklima@tamu.edu">cklima@tamu.edu</a><br/>
-      <a href="https://www.ncbi.nlm.nih.gov/myncbi/cassidy.klima.1/bibliography/public/">PubMed bibliography</a><br/>
-      <a href="https://scholar.google.com/citations?user=0pvnvV0AAAAJ&hl=en">Google Scholar</a>
-    </p>
-  </div>
-  <div style="text-align:center;">
-    <img src="../assets/CassidyKlima.Sept2024 5-8-25.jpg"
-         alt="Cassidy Klima" loading="lazy" width="250"/>
-  </div>
-</div>
-
-<hr/>
---------
 
 ###  McAtee, Taylor
 <div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
