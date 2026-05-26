@@ -159,22 +159,6 @@
   </div>
     </div>
 --------
-### Lamsal, Kushal (Sal) {:.invisible-header}
-<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
-  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Sal.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
-  </div>
-  <div style="grid-column: 1; grid-row: 1;">
-    <h2>Kushal (Sal) Lamsal</h2>
-    <h3>-- MS Student, Texas A&M University <br>
-    -- Advisor: Dr. Robert Valeris-Chacin
-    <p>-- <a href="mailto:sal@tamu.edu">sal@tamu.edu</a><br>
-  </div>
-  <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p> Kushal “Sal” Lamsal was born and raised in the Kirtipur Valley in the highlands of Kathmandu, Nepal (GO RHINOS!!). He received his Bachelor’s degree in Biochemistry from West Texas A&M University (GO BUFFS!!) in Canyon, Texas. In September 2022, he joined the VERO lab as an Undergraduate Research Assistant and worked in that position until July 2023. In the fall of 2023, he began his Graduate Research Assistantship at VERO (GIG’EM) under Dr. Robert Valeris-Chacin. His MS thesis focuses on the design, optimization, and validation of targeted-enriched metagenomics to obtain strain-level data for Mycoplasma bovis in respiratory samples from cattle. Besides research, he is also involved in the Graduate Student Association as the Travel Award Secretary, where he organizes events to engage other graduate students with fun activities and nutritious lunches. During his free time, he enjoys reading books, learning new things, and working on his ROKR Classic City Tram LK801 model.</p>
-  </div>
-    </div>
--------
 ### Lugo-Mesa, Valeria  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
@@ -204,22 +188,6 @@
  </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
     <p>Hudson is originally from western North Carolina and attended the University of Tennessee at Martin for her BS in Agriculture in 2019. She received her MS degree in Animal Science from West Texas A&M University in 2021, where she focused on the effect of intranasal or parental respiratory vaccines administered on arrival or delayed in auction-derived heifers. Her doctoral research focus is in understanding how management decisions affect long-term outcomes, including cattle health and performance. Her professional interests include epidemiology, immunology, vaccines, bovine respiratory disease, and veterinary biologics. Upon completion of her doctoral work, she aims to lead and develop research and outreach programs within the animal health industry related to pharmaceuticals.</p>
-  </div>
-    </div>
---------
-### McClurg, Molly  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
-  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/McClurg.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
-  </div>
-  <div style="grid-column: 1; grid-row: 1;">
-    <h2>Molly McClurg</h2>
-    <h3>-- PhD Student, Texas A&M University<br>
-    -- Advisors: Dr. Paul Morley and Dr. Keri Norman</h3>
-  </div>
-  <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Molly received her undergraduate and MS degree from Texas A&M University-Kingsville in Biological Sciences. Her research focus was the microbiome of wild-caught rodents and raccoons, with an interest in GI tract variability, pathogens, and antibiotic resistance. Her doctoral research theme focuses on characterizing the microbiome and resistome of feedlot cattle, beef products, and human consumers of beef products.</p>
-    <p>-- <a href="https://www.ncbi.nlm.nih.gov/myncbi/1TWy6qemt87sOY/bibliography/public/">PubMed bibliography link</a></p>
   </div>
     </div>
 --------
