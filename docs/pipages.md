@@ -94,7 +94,7 @@ title: Faculty
     <img src="../assets/Das, Sarobi_DSC3742.JPG" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
      </div>
   <div style="grid-column: 1; grid-row: 1;">
-    <h2>Sarobi Das</h2>
+    <h2>Sarobi Das, PhD</h2>
     <h3>-- Postdoctoral Research Associate, Texas A&M University<br>
       <p>-- <a href="mailto:sarobi.das@tamu.edu">sarobi.das@tamu.edu</a><br>
  </div>
