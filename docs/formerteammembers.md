@@ -68,6 +68,8 @@ title: Former VERO Team Members
   </div>
 </div>
 -------
+
+-------
 ### Murphy, Maggie  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
