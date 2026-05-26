@@ -68,7 +68,21 @@ title: Former VERO Team Members
   </div>
 </div>
 -------
-
+### McClurg, Molly  {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
+    <img src="../assets/McClurg.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 1;">
+    <h2>Molly McClurg</h2>
+    <h3>-- PhD Student, Texas A&M University<br>
+    -- Advisors: Dr. Paul Morley and Dr. Keri Norman</h3>
+  </div>
+  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p>Molly received her undergraduate and MS degree from Texas A&M University-Kingsville in Biological Sciences. Her research focus was the microbiome of wild-caught rodents and raccoons, with an interest in GI tract variability, pathogens, and antibiotic resistance. Her doctoral research theme focuses on characterizing the microbiome and resistome of feedlot cattle, beef products, and human consumers of beef products.</p>
+    <p>-- <a href="https://www.ncbi.nlm.nih.gov/myncbi/1TWy6qemt87sOY/bibliography/public/">PubMed bibliography link</a></p>
+  </div>
+    </div>
 -------
 ### Murphy, Maggie  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
