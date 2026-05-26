@@ -12,4 +12,4 @@
     <p> I am a Postdoctoral Research Associate at VERO, working in Dr. Paul Morley’s lab. I completed my PhD in Quantitative Biology from the University of Texas at Arlington. I pursued my Master of Science degree in Botany from the University of Kalyani (West Bengal, India), followed by a Master of Technology degree in Agricultural Systems and Management from the Indian Institute of Technology Kharagpur (IIT Kharagpur, India).</p>
   </div>
     </div>
-
+---
