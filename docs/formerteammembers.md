@@ -52,7 +52,21 @@ title: Former VERO Team Members
 </div>
 
 --------
-
+### Lamsal, Kushal (Sal) {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
+    <img src="../assets/Sal.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 1;">
+    <h2>Kushal (Sal) Lamsal</h2>
+    <h3>-- MS Student, Texas A&M University <br>
+    -- Advisor: Dr. Robert Valeris-Chacin
+    <p>-- <a href="mailto:sal@tamu.edu">sal@tamu.edu</a><br>
+  </div>
+  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p> Kushal “Sal” Lamsal was born and raised in the Kirtipur Valley in the highlands of Kathmandu, Nepal (GO RHINOS!!). He received his Bachelor’s degree in Biochemistry from West Texas A&M University (GO BUFFS!!) in Canyon, Texas. In September 2022, he joined the VERO lab as an Undergraduate Research Assistant and worked in that position until July 2023. In the fall of 2023, he began his Graduate Research Assistantship at VERO (GIG’EM) under Dr. Robert Valeris-Chacin. His MS thesis focuses on the design, optimization, and validation of targeted-enriched metagenomics to obtain strain-level data for Mycoplasma bovis in respiratory samples from cattle. Besides research, he is also involved in the Graduate Student Association as the Travel Award Secretary, where he organizes events to engage other graduate students with fun activities and nutritious lunches. During his free time, he enjoys reading books, learning new things, and working on his ROKR Classic City Tram LK801 model.</p>
+  </div>
+    </div>
 --------
 ###  McAtee, Taylor
 <div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
