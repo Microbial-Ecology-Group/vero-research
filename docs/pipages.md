@@ -69,7 +69,7 @@ title: Faculty
 <hr/>
 
 <!-- ───────────── 5. Robert Valeris-Chacin ───────────── -->
-### Valeris-Chacin, Robert {:.invisible-header}
+### Valeris-Chacin, Robert {:.invisible-header} 
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
   <div>
     <h2><a href="../people/valeris">Robert Valeris-Chacin, DVM, MS, PhD</a></h2>
