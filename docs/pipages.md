@@ -87,8 +87,9 @@ title: Faculty
 </div>
 
 <hr/>
+<!-- ───────────── 6. Sarobi Das ───────────── -->
 
-<!-- ───────────── 6. Enrique Doster ───────────── -->
+<!-- ───────────── 7. Enrique Doster ───────────── -->
 ### Doster, Enrique  {:.invisible-header}
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
   <div>
