@@ -95,7 +95,7 @@ title: Faculty
      </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Sarobi Das, PhD</h2>
-    <h3>Postdoctoral Research Associate, Texas A&M University<br>
+    <h3>Post-Doctoral Research Associate</h3>
       <p><a href="mailto:sarobi.das@tamu.edu">sarobi.das@tamu.edu</a><br>
  </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
