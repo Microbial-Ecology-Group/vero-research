@@ -18,7 +18,7 @@ title: Faculty
   </div
   <div style="text-align:center;">
     <img src="../assets/langsten-new-anatomic-pathologist-VERO.jpg"
-         alt="Kendall Langston" loading="lazy" width="250"/>
+         alt="Kendall Langsten" loading="lazy" width="250"/>
   </div>
 </div>
 
