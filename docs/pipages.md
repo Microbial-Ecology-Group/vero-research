@@ -5,7 +5,24 @@ title: Faculty
 
 <h1><strong>VERO Faculty and Post-Doctoral Researchers</strong></h1>
 <hr/>
+<!-- ───────────── 1. Kendall Langsten  ───────────── -->
+<div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
+  <div>
+    <h2><a href="../people/langsten">Kendall Langsten,DVM, PhD </a></h2>
+    <h3>Professor &amp; Clinical Assistant Professor</h3>
+    <p>
+      <a href="mailto:klangsten@tamu.edu">klangsten@tamu.edu</a><br/>
+      <a href="https://www.ncbi.nlm.nih.gov/myncbi/127TeRiI5VYglH/bibliography/public/">PubMed bibliography</a><br/>
+      <a href="https://https://scholar.google.com/citations?hl=en&user=0j7dstAAAAAJ&view_op=list_works&sortby=pubdate?
+        </p>
+  </div
+  <div style="text-align:center;">
+    <img src="../assets/1.Morley.2023.web_small2.jpg"
+         alt="Paul Morley" loading="lazy" width="250"/>
+  </div>
+</div>
 
+<hr/>
 <!-- ───────────── 2. Paul S. Morley ───────────── -->
 ### Morley, Paul  {:.invisible-header}
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
