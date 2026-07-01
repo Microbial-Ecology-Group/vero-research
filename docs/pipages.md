@@ -5,21 +5,24 @@ title: Faculty
 
 <h1><strong>VERO Faculty and Post-Doctoral Researchers</strong></h1>
 <hr/>
+
 <!-- ───────────── 1. Kendall Langsten  ───────────── -->
 ### Langsten, Kendall  {:.invisible-header}
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
   <div>
-    <h2><a href="../people/langsten">Kendall Langsten, DVM, PhD </a></h2>
+    <h2><a href="../people/langsten">Kendall Langsten, DVM, PhD</a></h2>
     <h3>Professor &amp; Clinical Assistant Professor</h3>
     <p>
       <a href="mailto:klangsten@tamu.edu">klangsten@tamu.edu</a><br/>
       <a href="https://www.ncbi.nlm.nih.gov/myncbi/127TeRiI5VYglH/bibliography/public/">PubMed bibliography</a><br/>
-      <a href="https://https://scholar.google.com/citations?hl=en&user=0j7dstAAAAAJ&view_op=list_works&sortby=pubdate?
-        </p>
-  </div
+      <a href="https://scholar.google.com/citations?hl=en&user=0j7dstAAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
+    </p>
+  </div>
   <div style="text-align:center;">
     <img src="../assets/langsten-new-anatomic-pathologist-VERO.jpg"
-         alt="Kendall Langsten" loading="lazy" width="250"/>
+         alt="Kendall Langsten"
+         loading="lazy"
+         width="250"/>
   </div>
 </div>
 
