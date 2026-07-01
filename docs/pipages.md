@@ -6,6 +6,7 @@ title: Faculty
 <h1><strong>VERO Faculty and Post-Doctoral Researchers</strong></h1>
 <hr/>
 <!-- ───────────── 1. Kendall Langsten  ───────────── -->
+### Langsten, Kendall  {:.invisible-header}
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
   <div>
     <h2><a href="../people/langsten">Kendall Langsten, DVM, PhD </a></h2>
