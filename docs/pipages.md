@@ -24,6 +24,7 @@ title: Faculty
 </div>
 
 <hr/>
+
 <!-- ───────────── 2. Paul S. Morley ───────────── -->
 ### Morley, Paul  {:.invisible-header}
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
