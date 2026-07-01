@@ -40,12 +40,13 @@ title: Faculty
   </div>
   <div style="text-align:center;">
     <img src="../assets/1.Morley.2023.web_small2.jpg"
-         alt="Paul Morley" loading="lazy" width="250"/>
+         alt="Paul Morley"
+         loading="lazy"
+         width="250"/>
   </div>
 </div>
 
 <hr/>
-
 <!-- ───────────── 3. Lee J. Pinnell ───────────── -->
 ### Pinnell, Lee  {:.invisible-header}
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
