@@ -17,8 +17,8 @@ title: Faculty
         </p>
   </div
   <div style="text-align:center;">
-    <img src="../assets/1.Morley.2023.web_small2.jpg"
-         alt="Paul Morley" loading="lazy" width="250"/>
+    <img src="../assets/langsten-new-anatomic-pathologist-VERO.jpg"
+         alt="Kendall Langston" loading="lazy" width="250"/>
   </div>
 </div>
 
