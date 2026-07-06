@@ -10,7 +10,7 @@ title: Faculty
 ### Langsten, Kendall  {:.invisible-header}
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
   <div>
-    <h2><a href="../people/langsten">Kendall Langsten, DVM, PhD</a></h2>
+    <h2><a href="../people/langston">Kendall Langsten, DVM, PhD</a></h2>
     <h3>Professor &amp; Clinical Assistant Professor</h3>
     <p>
       <a href="mailto:klangsten@tamu.edu">klangsten@tamu.edu</a><br/>
