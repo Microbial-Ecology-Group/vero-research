@@ -6,6 +6,27 @@ title: Faculty
 <h1><strong>VERO Faculty and Post-Doctoral Researchers</strong></h1>
 <hr/>
 
+<!-- ───────────── 7. Enrique Doster ───────────── -->
+### Doster, Enrique  {:.invisible-header}
+<div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
+  <div>
+    <h2><a href="../people/doster">Enrique Doster, DVM, PhD</a></h2>
+    <h3>Research Scientist</h3>
+    <p>
+      <a href="mailto:enriquedoster@tamu.edu">enriquedoster@tamu.edu</a><br/>
+      <a href="https://www.ncbi.nlm.nih.gov/myncbi/enrique.doster.1/bibliography/public/">PubMed bibliography</a><br/>
+      <a href="https://scholar.google.com/citations?user=DRqM0WoAAAAJ">Google Scholar</a><br/>
+      <a href="https://github.com/EnriqueDoster">GitHub</a>
+    </p>
+  </div>
+  <div style="text-align:center;">
+    <img src="../assets/Doster.web.2024.JPG"
+         alt="Enrique Doster" loading="lazy" width="250"/>
+  </div>
+</div>
+
+<hr/>
+
 <!-- ───────────── 1. Kendall Langsten  ───────────── -->
 ### Langsten, Kendall  {:.invisible-header}
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
@@ -109,26 +130,7 @@ title: Faculty
   </div>
 </div>
 
-<!-- ───────────── 7. Enrique Doster ───────────── -->
-### Doster, Enrique  {:.invisible-header}
-<div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
-  <div>
-    <h2><a href="../people/doster">Enrique Doster, DVM, PhD</a></h2>
-    <h3>Research Scientist</h3>
-    <p>
-      <a href="mailto:enriquedoster@tamu.edu">enriquedoster@tamu.edu</a><br/>
-      <a href="https://www.ncbi.nlm.nih.gov/myncbi/enrique.doster.1/bibliography/public/">PubMed bibliography</a><br/>
-      <a href="https://scholar.google.com/citations?user=DRqM0WoAAAAJ">Google Scholar</a><br/>
-      <a href="https://github.com/EnriqueDoster">GitHub</a>
-    </p>
-  </div>
-  <div style="text-align:center;">
-    <img src="../assets/Doster.web.2024.JPG"
-         alt="Enrique Doster" loading="lazy" width="250"/>
-  </div>
-</div>
 
-<hr/>
 <!-- ───────────── 6. Sarobi Das ───────────── -->
 ### Das, Sarobi {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
