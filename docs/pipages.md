@@ -132,6 +132,7 @@ title: Faculty
 
 
 <!-- ───────────── 6. Sarobi Das ───────────── -->
+### Das, Sarobi {:.invisible-header} 
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
   <div>
     <h2>Sarobi Das, PhD</h2>
