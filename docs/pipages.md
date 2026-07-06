@@ -109,6 +109,25 @@ title: Faculty
   </div>
 </div>
 
+<!-- ───────────── 7. Enrique Doster ───────────── -->
+### Doster, Enrique  {:.invisible-header}
+<div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
+  <div>
+    <h2><a href="../people/doster">Enrique Doster, DVM, PhD</a></h2>
+    <h3>Research Scientist</h3>
+    <p>
+      <a href="mailto:enriquedoster@tamu.edu">enriquedoster@tamu.edu</a><br/>
+      <a href="https://www.ncbi.nlm.nih.gov/myncbi/enrique.doster.1/bibliography/public/">PubMed bibliography</a><br/>
+      <a href="https://scholar.google.com/citations?user=DRqM0WoAAAAJ">Google Scholar</a><br/>
+      <a href="https://github.com/EnriqueDoster">GitHub</a>
+    </p>
+  </div>
+  <div style="text-align:center;">
+    <img src="../assets/Doster.web.2024.JPG"
+         alt="Enrique Doster" loading="lazy" width="250"/>
+  </div>
+</div>
+
 <hr/>
 <!-- ───────────── 6. Sarobi Das ───────────── -->
 ### Das, Sarobi {:.invisible-header}
@@ -124,21 +143,5 @@ title: Faculty
     <p> I am a Postdoctoral Research Associate at VERO, working in Dr. Paul Morley’s lab. I completed my PhD in Quantitative Biology from the University of Texas at Arlington. I pursued my Master of Science degree in Botany from the University of Kalyani (West Bengal, India), followed by a Master of Technology degree in Agricultural Systems and Management from the Indian Institute of Technology Kharagpur (IIT Kharagpur, India).</p>
   </div>
     </div>
-<!-- ───────────── 7. Enrique Doster ───────────── -->
-### Doster, Enrique  {:.invisible-header}
-<div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
-  <div>
-    <h2><a href="../people/doster">Enrique Doster, DVM, PhD</a></h2>
-    <h3>Post-Doctoral Research Associate</h3>
-    <p>
-      <a href="mailto:enriquedoster@tamu.edu">enriquedoster@tamu.edu</a><br/>
-      <a href="https://www.ncbi.nlm.nih.gov/myncbi/enrique.doster.1/bibliography/public/">PubMed bibliography</a><br/>
-      <a href="https://scholar.google.com/citations?user=DRqM0WoAAAAJ">Google Scholar</a><br/>
-      <a href="https://github.com/EnriqueDoster">GitHub</a>
-    </p>
-  </div>
-  <div style="text-align:center;">
-    <img src="../assets/Doster.web.2024.JPG"
-         alt="Enrique Doster" loading="lazy" width="250"/>
-  </div>
-</div>
+
+
