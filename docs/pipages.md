@@ -55,7 +55,7 @@ title: Faculty
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
   <div>
     <h2><a href="../people/pinnell">Lee J. Pinnell, MS, PhD</a></h2>
-    <h3>Research Assistant Professor of Microbial Ecology</h3>
+    <h3>Research Scientist Microbial Ecology</h3>
     <p>
       <a href="mailto:ljpinnell@tamu.edu">ljpinnell@tamu.edu</a><br/>
       <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Pinnell+LJ">PubMed bibliography</a><br/>
