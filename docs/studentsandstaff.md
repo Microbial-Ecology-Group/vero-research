@@ -49,6 +49,21 @@
   </div>
     </div>
 -------
+### Bailey Erickson  {:.invisible-header}
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
+  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
+    <img src="../assets/" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+  </div>
+  <div style="grid-column: 1; grid-row: 1;">
+    <h2>Bailey Erickson</h2>
+    <h3>-- Research Assitant<br>
+     <p>-- <a href="mailto:bailey.erickson@tamu.edu">edudley01@tamu.edu</a><br>
+ </div>
+  <div style="grid-column: 1 / span 2; grid-row: 3;">
+    <p> Bailey was born and raised in Atwood, Colorado, and received my Bachelor of Science degree from West Texas A&M University in 2026. She enjoys her role as a Research Technician at VERO, where she contribute to ongoing research projects and support the laboratory's work. Outside of work, she enjoys spending time with her dog and is looking forward to marrying her fiancé in 2027.</p>
+  </div>
+    </div>
+-------
 ### Erickson, Sarah  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
