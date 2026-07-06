@@ -1,51 +1,40 @@
-# Dr. Paul Morley
+# Dr. Kendall Langsten
 
 <div style="display: grid; grid-template-columns: 1fr 2fr; grid-template-rows: auto auto; gap: 10px; padding: 10px;">
   <div style="grid-column: 1; grid-row: 1 / span 2; text-align: center;">
     <h2>  </h2>
-       <img src="../../assets/1.Morley.2023.web_small2.jpg" alt="Morley" loading="lazy" width="250" style="margin-right: 2px;"/>
+       <img src="../../assets/langsten-new-anatomic-pathologist-VERO.jpg" alt="Langsten" loading="lazy" width="250" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 2; grid-row: 1; text-align: center;">
-    <h2><b>Paul S. Morley, DVM, PhD, DACVIM (LAIM)</h2></b>
-    <h3>-- Professor & Director of Research<br>
-        -- Sally Rau McIntosh Endowed Chair </h3>
-    <p><a href="mailto:pmorley@tamu.edu">- pmorley@tamu.edu</a></p>
+    <h2><b>Kendall Langsten, DVM, PhD</h2></b>
+    <h3>-- Assistant Professor Veterinary Pathobiology<br>
+    <p><a href="mailto:klangsten@tamu.edu">- klangsten@tamu.edu</a></p>
   </div>
   </div>
 ----
 ## PUBLICATIONS
-* [All Journal Articles in PubMed](https://www.ncbi.nlm.nih.gov/myncbi/14Ikqzq30Nv5a/bibliography/public/)
-* [Google Scholar Profile - Citation Statistics](https://scholar.google.com/citations?user=T-yNyx0AAAAJ&hl=en)
-* [ResearchGate Profile](https://www.researchgate.net/profile/Paul_Morley2)
+* [All Journal Articles in PubMed](https://www.ncbi.nlm.nih.gov/myncbi/127TeRiI5VYglH/bibliography/public/)
+* [Google Scholar Profile - Citation Statistics](https://scholar.google.com/citations?hl=en&user=0j7dstAAAAA)
 ## SHORT BIOGRAPHY
-Dr. Paul Morley was appointed Professor and Director of Research at VERO in 2019, and was named the Sally Rau McIntosh Endowed Chair for Veterinary Strategic Initiatives at Texas A&M University in 2022.  VERO - the Veterinary Education, Research & Outreach Program -- is an initiative of the Texas A&M University's School of Veterinary Medicine conducted in partnership with West Texas A&M University. Dr. Morley is an epidemiologist, animal scientist, and veterinary internal medicine specialist who studies infectious diseases affecting animals and people. Currently, his research uses advanced molecular tools to investigate health and disease pathogenesis in animals, methods for disease prevention and mitigation, microbial ecology, and impacts of antimicrobial drug use.  The goal is to conduct state-of-the-art, highly impactful research to improve sustainability of animal agriculture in order to provide an abundant and healthy food supply. He previously served for 20 years as Professor of Epidemiology at Colorado State University and the Colorado School of Public Health, and as the Director of Infection Control at the James L. Voss Veterinary Teaching Hospital. He is a recognized authority on infectious diseases and infection control in animal populations and has consulted on infection control and biosecurity  at veterinary hospitals, veterinary colleges, and animal production facilities around the world.    
+Kendall Langsten is a veterinary anatomic pathologist and Assistant Professor at Texas A&M’s VERO campus in Canyon, TX. Dr. Langsten earned her Doctorate in Veterinary Medicine (DVM) and master’s in biomedical sciences from University of Missouri and completed an anatomic pathology residency at the University of Minnesota. She later obtained a PhD in Molecular Medicine and Translational Sciences from Wake Forest University, with a focus on animal models of breast cancer. Her research interests include toxicologic pathology and experimental pathology, particularly in cancer biology, microfluidic devices, and chemotherapeutics. Current projects she is involved focus on organoid response to multimodal drug administration, antimicrobial resistance, digital spatial profiling, and toxicologic pathology.
       
 ## EDUCATION & TRAINING
-* BS, Animal Sciences, Washington State University, 1986.
-* BS, Veterinary Science, Washington State University, 1987.
-* DVM, Washington State University, 1989.
-* PhD, Veterinary Epidemiology, University of Saskatchewan, 1995.
-* Diplomate of the American College of Veterinary Internal Medicine (LAIM), 1997.
+* BSc, Integrative Biology, University of Illinois, 2012.
+* BSc, Animal Sciences, University of Illinois, 2012.
+* DVM, University of Missouri 2017.
+* MSc, Biomedical Sciences, University of Missouri, 2017.
+* Diplomate of the American College of Veterinary Pathobiology, 2021.
+* PhD, Molecular Medicine and Translational Sciences, Wake Forest University, 2024
 ## PROFESSIONAL POSITIONS
-* Intern and Resident, Large Animal Internal Medicine, University of Saskatchewan, 1989-1995.
-* Assistant Professor of Epidemiology, The Ohio State University, 1995-1998.
-* Professor of Epidemiology and Infection Control, Colorado State University, 1998-2019.
-* Professor of Epidemiology, Colorado School of Public Health, 2008-2019.
-* Professor and Director of Research, VERO Program, Texas A&M University, 2019 - Present.
-* Sally Rau McIntosh Endowed Chair for Strategic Initiatives, Texas A&M University, 2022 - Present.
+* Residency in Anatomic Pathology, University of Minnesota, 2020.
+* Assistant Professor in Veterinary Pathobiology, Texas A&M University, Canyon, 2024-present.
 ## RESEARCH AND SCHOLARLY INTERESTS
-* Investigating the ecology of antimicrobial resistance in animals and food production systems
-* Using molecular biology and analytical epidemiology to improve our understanding of diseases in animals and people
-* Improving infection control and biosecurity to manage health risks that are important in veterinary medicine, agriculture, and public health
+* Cancer biology and oncology, including patient derived organoid development and patient response modeling.
+* Pathologic applications in research and industry such as digital spatial profiling and 'omics data analysis.
+* Toxology pathology and drug development.
 ## RESEARCH TOPICS
-* Microbial ecology relating to health and disease
-* Epidemiology
-* Antimicrobial resistance
-* Bovine Respiratory Disease
-* Liver Abscesses in Cattle
-* Ecology and control of <i>Salmonella</i>
-* Disease pathogenesis
-* Infection control
-* Biosecurity
+* Veterinary pathology
+* Cancer biology
+
 
 
