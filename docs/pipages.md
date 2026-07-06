@@ -141,7 +141,7 @@ title: Faculty
     </p>
   </div>
   <div style="text-align:center;">
-    <img src="../assets/Das, Sarobi_DSC3742.JPG"
+    <img src="docs/assets/Das, Sarobi_DSC3742.jpg"
          alt="Sarobi Das" loading="lazy" width="250"/>
   </div>
 </div>
