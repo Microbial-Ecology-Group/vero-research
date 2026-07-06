@@ -135,7 +135,7 @@ title: Faculty
 ### Das, Sarobi {:.invisible-header} 
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
   <div>
-    <h2><a href="docs/people/Das.md">Sarobi Das, PhD</a></h2>  
+    <h2><a href="../people/Das">Sarobi Das, PhD</a></h2>  
     <h3>Post-Doctoral Research Associate</h3>
     <p>
       <a href="mailto:sarobi.das@tamu.edu">sarobi.das@tamu.edu</a><br/>
