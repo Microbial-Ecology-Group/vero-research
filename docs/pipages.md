@@ -32,7 +32,7 @@ title: Faculty
 <div style="display:grid;grid-template-columns:2fr 1fr;gap:8px;align-items:start;padding:4px;">
   <div>
     <h2><a href="../people/langston">Kendall Langsten, DVM, PhD</a></h2>
-    <h3>Professor &amp; Clinical Assistant Professor</h3>
+    <h3>Clinical Assistant Professor</h3>
     <p>
       <a href="mailto:klangsten@tamu.edu">klangsten@tamu.edu</a><br/>
       <a href="https://www.ncbi.nlm.nih.gov/myncbi/127TeRiI5VYglH/bibliography/public/">PubMed bibliography</a><br/>
