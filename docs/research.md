@@ -3,7 +3,7 @@ template: current_research.html
 ---
 
 #  
-## <b>The VERO Research Team has received $13M in research funding since hitting the ground in 2019!</b> <cr>
+## <b>The VERO Research Team has received more than $17.5M in research funding and published over 150 peer-reviewed journal articles since hitting the ground in 2019!</b> <cr>
 
 <img src="../../assets/VERO-ongoing-research-banner-Slide1.jpg" alt="VERO_CurrentResearch_Banner" draggable="false" width="1200" height="700"" ;"/>
 #### Completed VERO research can be reviewed in our publications <u><b>[HERE](https://www.veroresearch.org/pubs/)</u></b><p>
