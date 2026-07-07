@@ -1,5 +1,5 @@
 ---
-template: outreach.html
+template: verohome.html
 title: Outreach
 ---
 
