@@ -1,5 +1,5 @@
 ---
-template: publications.html
+template: verohome.html
 title: Publications
 ---
 # <b>Publications</b><br>
