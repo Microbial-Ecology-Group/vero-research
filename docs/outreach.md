@@ -6,7 +6,7 @@ title: Outreach
 # Outreach
 
 ## Workshops and tutorials
-* October 10, 2022: AMR++ bioinformatics workshop
+* AMR++ bioinformatics workshop - October 10, 2022
     * [Workshop materials](https://github.com/Microbial-Ecology-Group/AMRplusplus_bioinformatic_workshop)
 * 2020 Online course: Introduction to statistical analysis of metagenomic sequencing data.
     * [Full online course](https://github.com/EnriqueDoster/MEG_intro_stats_course) 
