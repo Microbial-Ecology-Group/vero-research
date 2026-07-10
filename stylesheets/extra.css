@@ -1,0 +1,58 @@
+:root > * {
+    /* Vero Research Colors */
+    /* https://www.wtamu.edu/news/identity-system/graphic-standards.html */    
+    --md-primary-fg-color:        #450012;
+    --md-primary-fg-color--light: #c7b3b8;
+    --md-primary-fg-color--dark:  #2e000a;
+    --md-typeset-a-color:         #8C002C;
+    --md-accent-fg-color:         #b30038;
+    --md-footer-bg-color:         #332C2C;
+}
+
+[data-md-color-scheme="slate"] {  
+    --md-primary-fg-color:        #8C002C;
+    --md-primary-fg-color--light: #ddb3c0;
+    --md-primary-fg-color--dark:  #6f001b;
+    --md-typeset-a-color:         #d6002e;
+    --md-accent-fg-color:         #b30038;    
+    --md-footer-bg-color:         #332C2C;    
+}
+
+.md-icon--logo {
+    display: none;
+}
+  
+.md-logo {
+    background: url(../assets/vero-logo.svg) no-repeat;
+    background-size: contain;
+    width: 20px;
+    height: 45px;
+    margin-right: 10px;
+  }
+
+.md-header-nav__title {
+    margin-left: 110px;
+}
+
+.md-pagination {
+    display: none !important;
+}
+
+.md-pagination.md-pagination__container {
+    display: none !important;
+}
+
+.invisible-header {
+    color: transparent;
+    pointer-events: none;
+    user-select: none;
+}
+
+@media (max-width: 767px) {
+    /* CSS rules to override the tab display for small screens */
+  }
+
+.md-tabs__item {
+    white-space: normal;
+    height: auto;
+  }
