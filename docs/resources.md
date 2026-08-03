@@ -26,5 +26,8 @@ The MEGARes V3.0 database contains sequence data for nearly 9,000 hand-curated a
 * [AMR++ bioinformatic pipeline](https://www.meglab.org/amrplusplus/)
 AMR++ is a bioinformatic pipeline meant to aid in the analysis of raw sequencing reads to characterize the profile of antimicrobial resistance genes, or resistome. AMR++ was developed to work in conjuction with the the MEGARes database and its accompanying acyclical annotation structure that is optimized for use with high throughput sequencing and metagenomic analysis. AMR++ V3.0 adds a new feature for high-throughput verification of resistance-conferring SNPs in relevant gene accessions (ARGs).
 
+## Model Infection Control and Biosecurity Plan for Veterinary Hospitals:
+* This [Model Plan](modelinfectioncontrolplan.md) has been used as a template by veterinary Hospitals from several countries in the development of infection control and biosecurity plans that are tailored to their practices.
+
 ## Miscellaneous resources
 * [Checkout this page with a random assortment of links we found to be useful.](resourceslinks.md)
