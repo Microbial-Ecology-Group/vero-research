@@ -74,7 +74,7 @@ title: Former VERO Team Members
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Kushal (Sal) Lamsal</h2>
-    <h3>-- MS Student, Texas A&M University <br>
+    <h3>-- MS Graduate, Texas A&M University <br>
     -- Advisor: Dr. Robert Valeris-Chacin
     <p>-- <a href="mailto:sal@tamu.edu">sal@tamu.edu</a><br>
   </div>
