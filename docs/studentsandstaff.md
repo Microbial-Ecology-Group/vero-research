@@ -175,22 +175,6 @@
   </div>
     </div> 
 --------
-### McAllister, Hudson  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
-  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/McAllister.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
-  </div>
-  <div style="grid-column: 1; grid-row: 1;">
-    <h2>Hudson McAllister, MS</h2>
-    <h3>-- PhD Student, Texas A&M University<br>
-    -- Advisor: Dr. Matthew Scott</h3>
-    <p>-- <a href="mailto:hmcallister15@tamu.edu">hmcallister15@tamu.edu</a><br>
- </div>
-  <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Hudson is originally from western North Carolina and attended the University of Tennessee at Martin for her BS in Agriculture in 2019. She received her MS degree in Animal Science from West Texas A&M University in 2021, where she focused on the effect of intranasal or parental respiratory vaccines administered on arrival or delayed in auction-derived heifers. Her doctoral research focus is in understanding how management decisions affect long-term outcomes, including cattle health and performance. Her professional interests include epidemiology, immunology, vaccines, bovine respiratory disease, and veterinary biologics. Upon completion of her doctoral work, she aims to lead and develop research and outreach programs within the animal health industry related to pharmaceuticals.</p>
-  </div>
-    </div>
---------
 ### Oyervides, Fabiola {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
