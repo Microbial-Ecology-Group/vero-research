@@ -191,22 +191,6 @@
   </div>
     </div>
 --------
-### Prosser, Haleigh  {:.invisible-header}
-<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
-  <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/Prosser.web.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
-  </div>
-  <div style="grid-column: 1; grid-row: 1;">
-    <h2>Haleigh Prosser</h2>
-    <h3>-- PhD Student, Texas A&M University<br>
-    -- Advisor: Dr. Matthew Scott</h4>
-    <p>-- <a href="mailto:hmprosser1@buffs.wtamu.edu">hmprosser1@buffs.wtamu.edu</a><br>
-  </div>
-  <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Haleigh received her Bachelor of Science in Animal Sciences in 2021 and her M.S. in Animal Sciences, both from West Texas A&M University. She is currently a PhD student, focusing on the application of genomic technologies in the commercial cattle feedlot industry. Her prominent cattle feeding background has shaped her goals and guided her research to focus on the genetic quality of fed cattle. Her current project includes analyzing prospectively pooled genotypes and evaluating their economic efficiency.</p>
-  </div>
-    </div>
---------
 ### Ramirez, Bradly  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
