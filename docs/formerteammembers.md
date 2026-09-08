@@ -105,7 +105,7 @@ title: Former VERO Team Members
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Hudson McAllister, MS</h2>
-    <h3>-- PhD Student, Texas A&M University<br>
+    <h3>-- PhD Graduate, Texas A&M University<br>
     -- Advisor: Dr. Matthew Scott</h3>
     <p>-- <a href="mailto:hmcallister15@tamu.edu">hmcallister15@tamu.edu</a><br>
  </div>
@@ -153,7 +153,7 @@ title: Former VERO Team Members
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Haleigh Prosser</h2>
-    <h3>-- PhD Student, Texas A&M University<br>
+    <h3>-- PhD Graduate, Texas A&M University<br>
     -- Advisor: Dr. Matthew Scott</h4>
     <p>-- <a href="mailto:hmprosser1@buffs.wtamu.edu">hmprosser1@buffs.wtamu.edu</a><br>
   </div>
