@@ -169,7 +169,7 @@ title: Former VERO Team Members
   </div>
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Stephen Tamm, MS</h2>
-    <h3>-- MS Student<br>
+    <h3>-- MS Graduate <br>
     -- Advisor: Dr. Paul Morley</h3>
     <p>-- <a href="mailto:sctamm@tamu.edu">sctamm@tamu.edu</a><br>
    -- <a href="https://www.ncbi.nlm.nih.gov/myncbi/1jmFD_nAPdeE_a/bibliography/public/">PubMed bibliography link</a><br>
