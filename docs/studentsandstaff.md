@@ -178,16 +178,16 @@
  ### Montoya, Chloe  {:.invisible-header}
 <div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: auto auto; gap: 2px; padding: 2px;">
   <div style="grid-column: 2; grid-row: 1 / span 2; text-align: center;">
-    <img src="../assets/ValeriaLugoMesa.Sept2024.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
+    <img src="../assets/ChloeMontoya.SEPT2026.jpg" alt=""  loading="lazy" width="200" style="margin-right: 2px;"/>
   </div>
   <div style="grid-column: 1; grid-row: 1;">
-    <h2>Valeria Lugo Mesa</h2>
+    <h2>Chloe Montoya</h2>
     <h3>-- MS Student, Texas A&M University<br>
-    -- Advisor: Dr. Lee Pinnell</h3>
-    <p>-- <a href="mailto:valerialugo@tamu.edu">valerialugo@tamu.edu</a><br>
+    -- Advisor: Dr. Matthew Scott</h3>
+    <p>-- <a href="mailto:cemontoya1@tamu.edu">cemontoya1@tamu.edu</a><br>
  </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
-    <p>Valeria is originally from Bogota, Colombia, and earned her DVM from Universidad Nacional de Colombia in 2023. After an intership at the Universityof Minnesota, she joined the VERO team in 2024 as a M.S. student in the Texas A&M Biomedical Sciences program.  Her research focuses on microbial ecology and antimicrobial resistance across diverse environments and hosts.  Her professional interests include using computational approaches and data visualization to answer biological questions.  Outside of work, she enjoys spending time outdoors, especially by a lake on a hot summer day.</p>
+    <p>Chloe is from Albuquerque, New Mexico. She earned her bachelor's degree in animal science from West Texas A&M University in 2026. Chloe joined the Scott lab in 2025 as an undergraduate and will be pursuing a master's degree under Dr. Matthew Scott. Her research will focus on aspects of host immunity, viral challenge, bovine respiratory disease, and gut barrier dysfunction.  Chloe enjoys traveling, and she loves the outdoors.</p>
   </div>
     </div> 
 --------
@@ -199,7 +199,7 @@
   <div style="grid-column: 1; grid-row: 1;">
     <h2>Fabiola Oyervides</h2>
     <h3>-- PhD Student, Texas A&M University<br>
-    -- Advisors: Dr. Lee Pinnell </h3>
+    -- Advisors: Dr. Matthew Scott </h3>
     <p>-- <a href="mailto:foyervides@tamu.edu">foyervides@tamu.edu</a><br>
   </div>
   <div style="grid-column: 1 / span 2; grid-row: 3;">
